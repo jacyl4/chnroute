@@ -19,16 +19,7 @@ jobs:
         chmod +x ros-dpbr.sh
         ./ros-dpbr.sh
         
-    - name: Commit
-      run: |
-        git config --global user.email jacyl4@gmail.com
-        git config --global user.name jacyl4
-        git init
-        git add .
-        git commit -am "Auto PBR"
-        
-    - name: Push
-      uses: ad-m/github-push-action@master
+    - name: Commit & Push changes
+      uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        force: true
