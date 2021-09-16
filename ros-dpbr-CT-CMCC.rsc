@@ -2783,10 +2783,6 @@ add list=dpbr-CT address=42.201.0.0/17
 add list=dpbr-CT address=42.204.0.0/14
 add list=dpbr-CT address=42.208.0.0/12
 add list=dpbr-CT address=42.240.0.0/16
-add list=dpbr-CT address=43.137.0.0/16
-add list=dpbr-CT address=43.138.0.0/15
-add list=dpbr-CT address=43.140.0.0/15
-add list=dpbr-CT address=43.142.0.0/16
 add list=dpbr-CT address=43.144.0.0/12
 add list=dpbr-CT address=43.160.0.0/11
 add list=dpbr-CT address=43.224.44.0/22
