@@ -5332,7 +5332,9 @@ add list=dpbr-CT address=121.196.0.0/14
 add list=dpbr-CT address=121.255.0.0/16
 add list=dpbr-CT address=122.0.64.0/18
 add list=dpbr-CT address=122.0.128.0/17
-add list=dpbr-CT address=122.8.0.0/15
+add list=dpbr-CT address=122.8.0.0/17
+add list=dpbr-CT address=122.8.192.0/18
+add list=dpbr-CT address=122.9.0.0/16
 add list=dpbr-CT address=122.10.128.0/22
 add list=dpbr-CT address=122.10.132.0/23
 add list=dpbr-CT address=122.10.136.0/23
