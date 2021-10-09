@@ -5223,8 +5223,7 @@ add list=dpbr-CT address=118.26.96.0/21
 add list=dpbr-CT address=118.26.112.0/20
 add list=dpbr-CT address=118.26.128.0/20
 add list=dpbr-CT address=118.26.160.0/20
-add list=dpbr-CT address=118.26.180.0/22
-add list=dpbr-CT address=118.26.184.0/21
+add list=dpbr-CT address=118.26.188.0/22
 add list=dpbr-CT address=118.26.192.0/18
 add list=dpbr-CT address=118.30.0.0/15
 add list=dpbr-CT address=118.64.0.0/15
