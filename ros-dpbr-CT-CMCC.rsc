@@ -2027,9 +2027,6 @@ add list=dpbr-CT address=103.216.252.0/22
 add list=dpbr-CT address=103.219.28.0/22
 add list=dpbr-CT address=103.219.32.0/21
 add list=dpbr-CT address=103.220.48.0/21
-add list=dpbr-CT address=103.220.120.0/21
-add list=dpbr-CT address=103.220.128.0/22
-add list=dpbr-CT address=103.220.164.0/22
 add list=dpbr-CT address=103.221.140.0/22
 add list=dpbr-CT address=103.222.32.0/22
 add list=dpbr-CT address=103.222.40.0/22
