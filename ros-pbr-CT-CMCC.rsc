@@ -4809,13 +4809,11 @@ add dst-address=103.220.64.0/22 action=lookup table=CT
 add dst-address=103.220.92.0/22 action=lookup table=CT
 add dst-address=103.220.96.0/20 action=lookup table=CT
 add dst-address=103.220.116.0/22 action=lookup table=CT
-add dst-address=103.220.132.0/22 action=lookup table=CT
-add dst-address=103.220.136.0/21 action=lookup table=CT
+add dst-address=103.220.120.0/21 action=lookup table=CT
+add dst-address=103.220.128.0/20 action=lookup table=CT
 add dst-address=103.220.144.0/21 action=lookup table=CT
 add dst-address=103.220.152.0/22 action=lookup table=CT
-add dst-address=103.220.160.0/22 action=lookup table=CT
-add dst-address=103.220.168.0/21 action=lookup table=CT
-add dst-address=103.220.176.0/20 action=lookup table=CT
+add dst-address=103.220.160.0/19 action=lookup table=CT
 add dst-address=103.220.192.0/21 action=lookup table=CT
 add dst-address=103.220.200.0/22 action=lookup table=CT
 add dst-address=103.220.240.0/20 action=lookup table=CT
