@@ -4603,6 +4603,7 @@ add list=dpbr-CT address=103.176.52.0/23
 add list=dpbr-CT address=103.176.222.0/23
 add list=dpbr-CT address=103.176.244.0/23
 add list=dpbr-CT address=103.177.28.0/23
+add list=dpbr-CT address=103.177.44.0/23
 add list=dpbr-CT address=103.192.8.0/21
 add list=dpbr-CT address=103.192.16.0/20
 add list=dpbr-CT address=103.192.128.0/22
