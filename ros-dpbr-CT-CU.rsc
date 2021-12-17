@@ -2782,7 +2782,7 @@ add list=dpbr-CT address=42.204.0.0/14
 add list=dpbr-CT address=42.208.0.0/12
 add list=dpbr-CT address=42.240.0.0/16
 add list=dpbr-CT address=43.136.0.0/13
-add list=dpbr-CT address=43.144.0.0/12
+add list=dpbr-CT address=43.144.0.0/13
 add list=dpbr-CT address=43.160.0.0/11
 add list=dpbr-CT address=43.224.44.0/22
 add list=dpbr-CT address=43.224.64.0/21
@@ -3793,7 +3793,6 @@ add list=dpbr-CT address=103.72.148.0/22
 add list=dpbr-CT address=103.72.172.0/22
 add list=dpbr-CT address=103.72.180.0/22
 add list=dpbr-CT address=103.73.48.0/22
-add list=dpbr-CT address=103.73.88.0/22
 add list=dpbr-CT address=103.73.116.0/22
 add list=dpbr-CT address=103.73.120.0/22
 add list=dpbr-CT address=103.73.128.0/20
