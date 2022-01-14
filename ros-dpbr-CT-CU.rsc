@@ -3808,7 +3808,6 @@ add list=dpbr-CT address=103.74.124.0/22
 add list=dpbr-CT address=103.74.148.0/22
 add list=dpbr-CT address=103.74.204.0/22
 add list=dpbr-CT address=103.74.232.0/22
-add list=dpbr-CT address=103.75.16.0/22
 add list=dpbr-CT address=103.75.88.0/21
 add list=dpbr-CT address=103.75.104.0/21
 add list=dpbr-CT address=103.75.112.0/22
