@@ -1990,7 +1990,6 @@ add list=dpbr-CU address=103.110.156.0/22
 add list=dpbr-CU address=103.117.188.0/22
 add list=dpbr-CU address=103.120.224.0/22
 add list=dpbr-CU address=103.123.56.0/22
-add list=dpbr-CU address=103.131.152.0/22
 add list=dpbr-CU address=103.141.242.0/23
 add list=dpbr-CU address=103.142.128.0/23
 add list=dpbr-CU address=103.158.8.0/23
