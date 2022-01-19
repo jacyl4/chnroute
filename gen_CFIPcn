@@ -1,0 +1,6 @@
+#!/bin/bash
+> CFIPcn
+wget --no-check-certificate -qO- https://www.cloudflare.com/ips-v4 | while read line
+do
+python3 cidrTip.py $line >> CFIPcn
+done
