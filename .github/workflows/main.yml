@@ -18,8 +18,6 @@ jobs:
         sha256sum IPchnroute | awk '{print$1}' >IPchnroute.sha256sum
         chmod +x ros-dpbr.sh
         ./ros-dpbr.sh
-        chmod +x IPCFcn_gen
-        ./IPCFcn_gen
         
     - name: Commit & Push changes
       uses: actions-js/push@master
