@@ -2138,7 +2138,6 @@ add list=dpbr-CT address=116.255.128.0/17
 add list=dpbr-CT address=117.8.0.0/13
 add list=dpbr-CT address=117.74.64.0/20
 add list=dpbr-CT address=117.75.0.0/16
-add list=dpbr-CT address=117.76.0.0/14
 add list=dpbr-CT address=117.121.128.0/18
 add list=dpbr-CT address=118.26.48.0/21
 add list=dpbr-CT address=118.72.0.0/13
