@@ -1,6 +1,6 @@
 #!/bin/bash
-> IPCFcn
+>IPCFcn
 wget --no-check-certificate -qO- https://www.cloudflare.com/ips-v4 | while read line
 do
-python3 cidrTip.py $line >> IPCFcn
+python3 cidrTip.py $line >>IPCFcn
 done
