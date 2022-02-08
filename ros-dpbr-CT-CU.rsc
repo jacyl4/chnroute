@@ -5449,6 +5449,7 @@ add list=dpbr-CT address=140.205.0.0/16
 add list=dpbr-CT address=140.210.0.0/16
 add list=dpbr-CT address=142.70.0.0/16
 add list=dpbr-CT address=142.86.0.0/16
+add list=dpbr-CT address=143.64.0.0/16
 add list=dpbr-CT address=144.48.8.0/22
 add list=dpbr-CT address=144.48.88.0/22
 add list=dpbr-CT address=144.48.156.0/22
