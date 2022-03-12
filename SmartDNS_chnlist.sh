@@ -7,3 +7,6 @@ wget --show-progress -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq
 sha256sum ./SmartDNS_chnlist/accelerated-domains.china.conf | awk '{print$1}' >./SmartDNS_chnlist/accelerated-domains.china.conf.sha256sum
 sha256sum ./SmartDNS_chnlist/apple.china.conf | awk '{print$1}' >./SmartDNS_chnlist/apple.china.conf.sha256sum
 sha256sum ./SmartDNS_chnlist/google.china.confIPchnroute | awk '{print$1}' >./SmartDNS_chnlist/google.china.confIPchnroute.sha256sum
+
+cp -f IPchnroute ./SmartDNS_chnlist/whitelist-ip-chnlist
+sed -i 's/^/whitelist-ip /g' ./SmartDNS_chnlist/whitelist-ip-chnlist
