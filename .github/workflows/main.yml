@@ -19,6 +19,9 @@ jobs:
         chmod +x ros-dpbr.sh
         ./ros-dpbr.sh
         
+        chmod +x SmartDNS_chnlist.sh
+        ./SmartDNS_chnlist.sh
+        
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
