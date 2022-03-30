@@ -1914,6 +1914,7 @@ add list=dpbr-CU address=103.5.56.0/22
 add list=dpbr-CU address=103.5.168.0/22
 add list=dpbr-CU address=103.5.252.0/22
 add list=dpbr-CU address=103.7.212.0/22
+add list=dpbr-CU address=103.8.32.0/22
 add list=dpbr-CU address=103.9.248.0/21
 add list=dpbr-CU address=103.14.84.0/22
 add list=dpbr-CU address=103.14.132.0/22
@@ -3351,7 +3352,6 @@ add list=dpbr-CT address=103.7.140.0/22
 add list=dpbr-CT address=103.7.216.0/21
 add list=dpbr-CT address=103.8.0.0/21
 add list=dpbr-CT address=103.8.8.0/22
-add list=dpbr-CT address=103.8.32.0/22
 add list=dpbr-CT address=103.8.52.0/22
 add list=dpbr-CT address=103.8.68.0/22
 add list=dpbr-CT address=103.8.108.0/22
