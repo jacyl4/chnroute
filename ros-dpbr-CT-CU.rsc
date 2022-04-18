@@ -1870,7 +1870,6 @@ add list=dpbr-CU address=58.144.0.0/16
 add list=dpbr-CU address=58.240.0.0/12
 add list=dpbr-CU address=59.80.0.0/15
 add list=dpbr-CU address=60.0.0.0/11
-add list=dpbr-CU address=60.204.0.0/16
 add list=dpbr-CU address=60.208.0.0/12
 add list=dpbr-CU address=60.255.0.0/16
 add list=dpbr-CU address=61.45.128.0/18
@@ -3264,7 +3263,7 @@ add list=dpbr-CT address=59.192.0.0/10
 add list=dpbr-CT address=60.55.0.0/16
 add list=dpbr-CT address=60.63.0.0/16
 add list=dpbr-CT address=60.200.0.0/14
-add list=dpbr-CT address=60.205.0.0/16
+add list=dpbr-CT address=60.204.0.0/15
 add list=dpbr-CT address=60.232.0.0/15
 add list=dpbr-CT address=60.245.128.0/17
 add list=dpbr-CT address=60.252.0.0/16
