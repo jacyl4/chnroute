@@ -1966,6 +1966,7 @@ add list=dpbr-CT address=103.72.224.0/19
 add list=dpbr-CT address=103.73.0.0/19
 add list=dpbr-CT address=103.73.144.0/22
 add list=dpbr-CT address=103.78.64.0/22
+add list=dpbr-CT address=103.79.228.0/23
 add list=dpbr-CT address=103.85.84.0/22
 add list=dpbr-CT address=103.90.92.0/22
 add list=dpbr-CT address=103.90.188.0/22
