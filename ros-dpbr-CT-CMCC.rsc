@@ -4704,6 +4704,7 @@ add list=dpbr-CT address=103.204.24.0/22
 add list=dpbr-CT address=103.204.140.0/22
 add list=dpbr-CT address=103.204.144.0/22
 add list=dpbr-CT address=103.204.196.0/22
+add list=dpbr-CT address=103.204.216.0/23
 add list=dpbr-CT address=103.204.232.0/21
 add list=dpbr-CT address=103.205.8.0/22
 add list=dpbr-CT address=103.205.40.0/21
