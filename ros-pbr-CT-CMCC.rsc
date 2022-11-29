@@ -5223,7 +5223,6 @@ add dst-address=118.102.16.0/20 action=lookup table=CT
 add dst-address=118.103.164.0/22 action=lookup table=CT
 add dst-address=118.103.172.0/22 action=lookup table=CT
 add dst-address=118.103.176.0/22 action=lookup table=CT
-add dst-address=118.107.180.0/22 action=lookup table=CT
 add dst-address=118.126.0.0/16 action=lookup table=CT
 add dst-address=118.132.0.0/14 action=lookup table=CT
 add dst-address=118.178.0.0/16 action=lookup table=CT
