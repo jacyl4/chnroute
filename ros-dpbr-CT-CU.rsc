@@ -3658,6 +3658,7 @@ add list=dpbr-CT address=103.56.8.0/22
 add list=dpbr-CT address=103.56.16.0/21
 add list=dpbr-CT address=103.56.56.0/22
 add list=dpbr-CT address=103.56.72.0/21
+add list=dpbr-CT address=103.56.94.0/23
 add list=dpbr-CT address=103.56.100.0/22
 add list=dpbr-CT address=103.56.104.0/22
 add list=dpbr-CT address=103.56.140.0/22

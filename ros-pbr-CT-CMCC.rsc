@@ -3658,6 +3658,7 @@ add dst-address=103.56.8.0/22 action=lookup table=CT
 add dst-address=103.56.16.0/21 action=lookup table=CT
 add dst-address=103.56.56.0/22 action=lookup table=CT
 add dst-address=103.56.72.0/21 action=lookup table=CT
+add dst-address=103.56.94.0/23 action=lookup table=CT
 add dst-address=103.56.100.0/22 action=lookup table=CT
 add dst-address=103.56.104.0/22 action=lookup table=CT
 add dst-address=103.56.140.0/22 action=lookup table=CT
