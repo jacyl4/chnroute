@@ -2424,7 +2424,7 @@ add list=dpbr-CMCC address=223.116.0.0/15
 add list=dpbr-CMCC address=223.120.128.0/17
 add list=dpbr-CMCC address=223.121.128.0/17
 add list=dpbr-CMCC address=223.122.128.0/17
-add list=dpbr-CMCC address=223.123.0.0/16
+add list=dpbr-CMCC address=223.123.128.0/17
 add list=dpbr-CMCC address=223.124.0.0/14
 add list=dpbr-CMCC address=36.192.0.0/11
 add list=dpbr-CMCC address=43.247.240.0/22
