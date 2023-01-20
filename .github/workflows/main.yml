@@ -27,6 +27,9 @@ jobs:
         chmod +x SmartDNS_chnlist.sh
         ./SmartDNS_chnlist.sh
 
+        chmod +x mosdns_chnlist.sh
+        ./mosdns_chnlist.sh
+
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
