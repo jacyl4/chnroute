@@ -4,14 +4,12 @@
 #sudo rm -rf ./SmartDNS_chnlist/*
 #wget --show-progress -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf | sed 's/server=/nameserver /g' | rev | cut -d / -f2- | rev | sed 's?$?/DNS_chn?g'>./SmartDNS_chnlist/accelerated-domains.china.conf
 #wget --show-progress -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf | sed 's/server=/nameserver /g' | rev | cut -d / -f2- | rev | sed 's?$?/DNS_chn?g'>./SmartDNS_chnlist/apple.china.conf
-#wget --show-progress -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/bogus-nxdomain.china.conf | sed 's/bogus-nxdomain=/bogus-nxdomain /g' >./SmartDNS_chnlist/bogus-nxdomain.china.conf
 #
 #cp -f IPchnroute ./SmartDNS_chnlist/whitelist-ip-chnlist.conf
 #sed -i 's/^/whitelist-ip /g' ./SmartDNS_chnlist/whitelist-ip-chnlist.conf
 #
 #sha256sum ./SmartDNS_chnlist/accelerated-domains.china.conf | awk '{print$1}' >./SmartDNS_chnlist/accelerated-domains.china.conf.sha256sum
 #sha256sum ./SmartDNS_chnlist/apple.china.conf | awk '{print$1}' >./SmartDNS_chnlist/apple.china.conf.sha256sum
-#sha256sum ./SmartDNS_chnlist/bogus-nxdomain.china.conf | awk '{print$1}' >./SmartDNS_chnlist/bogus-nxdomain.china.conf.sha256sum
 #sha256sum ./SmartDNS_chnlist/whitelist-ip-chnlist.conf | awk '{print$1}' >./SmartDNS_chnlist/whitelist-ip-chnlist.conf.sha256sum
 
 
@@ -19,6 +17,7 @@
 mkdir -p ./mosdns_chnlist
 sudo rm -rf ./mosdns_chnlist/*
 
+wget --show-progress -cqO ./mosdns_chnlist/bogus-nxdomain.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/bogus-nxdomain.china.conf
 wget --show-progress -cqO /tmp/geosite.dat https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat
 chmod +x mosdns
 
@@ -55,7 +54,7 @@ cat /tmp/geosite_category-games.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.games.txt
 
 
-
+sha256sum ./mosdns_chnlist/bogus-nxdomain.china.conf | awk '{print$1}' >./mosdns_chnlist/bogus-nxdomain.china.conf.sha256sum
 sha256sum ./mosdns_chnlist/Domains.chn.txt | awk '{print$1}' >./mosdns_chnlist/Domains.chn.txt.sha256sum
 sha256sum ./mosdns_chnlist/Domains.apple.txt | awk '{print$1}' >./mosdns_chnlist/Domains.apple.txt.sha256sum
 sha256sum ./mosdns_chnlist/Domains.games.txt | awk '{print$1}' >./mosdns_chnlist/Domains.games.txt.sha256sum
