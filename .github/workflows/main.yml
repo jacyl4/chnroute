@@ -24,8 +24,8 @@ jobs:
         chmod +x ros-dpbr.sh
         ./ros-dpbr.sh
 
-        chmod +x Domains_chnlist.sh.sh
-        ./Domains_chnlist.sh.sh
+        chmod +x Domains_chnlist.sh
+        ./Domains_chnlist.sh
 
     - name: Commit & Push changes
       uses: actions-js/push@master
