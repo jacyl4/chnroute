@@ -7,8 +7,8 @@ chmod +x mosdns
 
 
 
-./mosdns v2dat unpack-domain -o /tmp geosite.dat:private
-./mosdns v2dat unpack-domain -o /tmp geosite.dat:cn
+./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:private
+./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:cn
 wget --show-progress -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf \
 | cut -d / -f2 >/tmp/Domains.chn.txt
 cat /tmp/geosite_private.txt \
