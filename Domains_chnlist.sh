@@ -15,6 +15,7 @@
 #sha256sum ./SmartDNS_chnlist/whitelist-ip-chnlist.conf | awk '{print$1}' >./SmartDNS_chnlist/whitelist-ip-chnlist.conf.sha256sum
 
 
+
 mkdir -p ./mosdns_chnlist
 sudo rm -rf ./mosdns_chnlist/*
 
