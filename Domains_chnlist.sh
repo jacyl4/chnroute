@@ -17,7 +17,6 @@
 mkdir -p ./mosdns_chnlist
 sudo rm -rf ./mosdns_chnlist/*
 
-wget --show-progress -cqO ./mosdns_chnlist/99-bogus-nxdomain.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/bogus-nxdomain.china.conf
 wget --show-progress -cqO /tmp/geosite.dat https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat
 chmod +x mosdns
 
@@ -54,7 +53,10 @@ cat /tmp/geosite_category-games.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.games.txt
 
 
+
+wget --show-progress -cqO ./mosdns_chnlist/99-bogus-nxdomain.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/bogus-nxdomain.china.conf
 sha256sum ./mosdns_chnlist/99-bogus-nxdomain.china.conf | awk '{print$1}' >./mosdns_chnlist/99-bogus-nxdomain.china.conf.sha256sum
+
 sha256sum ./mosdns_chnlist/Domains.chn.txt | awk '{print$1}' >./mosdns_chnlist/Domains.chn.txt.sha256sum
 sha256sum ./mosdns_chnlist/Domains.apple.txt | awk '{print$1}' >./mosdns_chnlist/Domains.apple.txt.sha256sum
 sha256sum ./mosdns_chnlist/Domains.games.txt | awk '{print$1}' >./mosdns_chnlist/Domains.games.txt.sha256sum
