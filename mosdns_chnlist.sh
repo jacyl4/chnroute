@@ -6,6 +6,7 @@ wget -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/mast
 | cut -d / -f2 >./mosdns_chnlist/Domains.chn.txt
 
 
+chmod +x mosdns
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple-cn
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple-ads
@@ -21,7 +22,7 @@ cat /tmp/geosite_apple.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.apple.txt
 
 
-./mosdns3 v2dat unpack-domain -o /tmp /tmp/geosite.dat:category-games
+./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:category-games
 cat /tmp/geosite_category-games.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.games.txt
 
