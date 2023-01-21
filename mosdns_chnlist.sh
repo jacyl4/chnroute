@@ -2,11 +2,14 @@
 mkdir -p ./mosdns_chnlist
 sudo rm -rf ./mosdns_chnlist/*
 
-wget -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf \
+wget --show-progress -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf \
 | cut -d / -f2 >./mosdns_chnlist/Domains.chn.txt
 
 
+
+wget --show-progress -cqO /tmp/geosite.dat https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat
 chmod +x mosdns
+
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple-cn
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple-ads
