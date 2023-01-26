@@ -41,6 +41,3 @@ ros script 例子
 ```
 
 这个可以用于Firewall - mangle页，通过dst-addrss= 引用
-
-
-方法二会更灵活点。
