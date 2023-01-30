@@ -2118,7 +2118,6 @@ add list=dpbr-CT address=115.85.192.0/18
 add list=dpbr-CT address=115.172.0.0/14
 add list=dpbr-CT address=116.2.0.0/15
 add list=dpbr-CT address=116.60.0.0/14
-add list=dpbr-CT address=116.70.0.0/17
 add list=dpbr-CT address=116.78.0.0/15
 add list=dpbr-CT address=116.95.0.0/16
 add list=dpbr-CT address=116.112.0.0/14
@@ -2308,7 +2307,6 @@ add list=dpbr-CT address=202.160.140.0/22
 add list=dpbr-CT address=202.170.128.0/19
 add list=dpbr-CT address=203.76.240.0/22
 add list=dpbr-CT address=203.93.0.0/16
-add list=dpbr-CT address=203.135.160.0/20
 add list=dpbr-CT address=203.166.160.0/19
 add list=dpbr-CT address=203.223.0.0/20
 add list=dpbr-CT address=210.5.128.0/20
@@ -2321,7 +2319,6 @@ add list=dpbr-CT address=210.21.0.0/16
 add list=dpbr-CT address=210.22.0.0/16
 add list=dpbr-CT address=210.51.0.0/16
 add list=dpbr-CT address=210.52.0.0/15
-add list=dpbr-CT address=210.56.192.0/19
 add list=dpbr-CT address=210.72.160.0/19
 add list=dpbr-CT address=210.74.64.0/18
 add list=dpbr-CT address=210.74.128.0/19
@@ -5154,6 +5151,7 @@ add list=dpbr-CT address=116.66.176.0/22
 add list=dpbr-CT address=116.68.136.0/21
 add list=dpbr-CT address=116.68.176.0/21
 add list=dpbr-CT address=116.69.0.0/16
+add list=dpbr-CT address=116.70.0.0/17
 add list=dpbr-CT address=116.76.0.0/15
 add list=dpbr-CT address=116.85.0.0/16
 add list=dpbr-CT address=116.89.144.0/20
@@ -5854,6 +5852,7 @@ add list=dpbr-CT address=203.128.96.0/19
 add list=dpbr-CT address=203.132.32.0/19
 add list=dpbr-CT address=203.134.240.0/21
 add list=dpbr-CT address=203.135.96.0/19
+add list=dpbr-CT address=203.135.160.0/20
 add list=dpbr-CT address=203.142.219.0/24
 add list=dpbr-CT address=203.148.0.0/18
 add list=dpbr-CT address=203.148.64.0/20
@@ -5915,6 +5914,7 @@ add list=dpbr-CT address=210.14.128.0/19
 add list=dpbr-CT address=210.16.104.0/22
 add list=dpbr-CT address=210.16.128.0/18
 add list=dpbr-CT address=210.23.32.0/19
+add list=dpbr-CT address=210.56.192.0/19
 add list=dpbr-CT address=210.72.0.0/17
 add list=dpbr-CT address=210.72.128.0/19
 add list=dpbr-CT address=210.72.192.0/18
