@@ -12471,6 +12471,7 @@ capitalcloud.net
 capitalonline.net
 capjoy.com
 capsuleshanghai.com
+captive.apple.com
 capvision.com
 capwhale.com
 car0575.com
@@ -16219,6 +16220,7 @@ congrongfund.com
 congyicn.com
 congzao.com
 congzhi.com
+connectivitycheck.gstatic.com
 connector-systems.com
 conoha.vip
 conpak.com.hk
@@ -37208,7 +37210,6 @@ looyuoms.com
 looyush.com
 lopetech.net
 lopkino.com
-lopopoo.com
 lopss.com
 lorefree.com
 losking.com
@@ -51273,7 +51274,6 @@ tapas.net
 tapdata.net
 tapdb.com
 tapdb.net
-tapechat.net
 tapenjoy.com
 tapimg.com
 tapotiexie.com
@@ -52403,7 +52403,6 @@ tokenglish.com
 tokensky.net
 tokenworld.pro
 tokimekiclub.org
-toktok-mall.com
 tol24.com
 tom.cat
 tom.com
