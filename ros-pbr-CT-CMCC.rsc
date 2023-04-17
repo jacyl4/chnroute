@@ -4993,6 +4993,7 @@ add dst-address=103.246.132.0/22 action=lookup table=CT
 add dst-address=103.246.156.0/22 action=lookup table=CT
 add dst-address=103.247.168.0/21 action=lookup table=CT
 add dst-address=103.247.176.0/22 action=lookup table=CT
+add dst-address=103.247.191.0/24 action=lookup table=CT
 add dst-address=103.247.200.0/22 action=lookup table=CT
 add dst-address=103.247.212.0/22 action=lookup table=CT
 add dst-address=103.248.0.0/23 action=lookup table=CT
