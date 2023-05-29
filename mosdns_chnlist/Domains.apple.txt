@@ -1041,6 +1041,7 @@ full:iosapps.itunes.apple.com
 full:iosapps.itunes.g.aaplimg.com
 full:ipcdn.apple.com
 full:iphone-ld.apple.com
+full:iphone-ld.origin-apple.com.akadns.net
 full:is1-ssl.mzstatic.com
 full:is1.mzstatic.com
 full:is2-ssl.mzstatic.com
@@ -1115,6 +1116,8 @@ full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
 full:weather-data.apple.com
 full:weather-data.apple.com.akadns.net
+full:weather-map.apple.com
+full:weather-map2.apple.com
 full:www-cdn.icloud.com.akadns.net
 full:www.apple.com
 full:www.apple.com.edgekey.net
