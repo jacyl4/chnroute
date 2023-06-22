@@ -5619,9 +5619,9 @@ add list=dpbr-CT address=183.182.0.0/19
 add list=dpbr-CT address=185.203.36.0/22
 add list=dpbr-CT address=188.131.128.0/17
 add list=dpbr-CT address=192.51.188.0/24
-add list=dpbr-CT address=192.55.46.0/24
+add list=dpbr-CT address=192.55.46.0/23
 add list=dpbr-CT address=192.55.68.0/22
-add list=dpbr-CT address=192.102.204.0/23
+add list=dpbr-CT address=192.102.204.0/22
 add list=dpbr-CT address=192.140.128.0/21
 add list=dpbr-CT address=192.140.136.0/22
 add list=dpbr-CT address=192.140.156.0/22
