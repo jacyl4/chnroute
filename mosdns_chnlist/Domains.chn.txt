@@ -2300,6 +2300,7 @@
 26ef.com
 26host.com
 26joy.com
+26ks.org
 26lady.com
 26tc.com
 26youxi.com
@@ -5919,6 +5920,7 @@
 81comdns.com
 81it.com
 81js.net
+81jubayi.com
 81kx.com
 81pan.com
 81tech.com
@@ -7129,6 +7131,7 @@ a0bi.com
 a1166.com
 a135.net
 a166.com
+a1736.com
 a2048.com
 a21fs.com
 a21yishion.com
@@ -7981,6 +7984,7 @@ aixchina.net
 aixcoder.com
 aixiaoduo.com
 aixiashu.com
+aixiashu.net
 aixiatxt.com
 aixiawa.com
 aixiawx.com
@@ -8723,6 +8727,7 @@ aokangsports.com
 aolai.com
 aolaigo.com
 aoliday.com
+aoliongame.com
 aolylcd.com
 aomeng.net
 aomygod.com
@@ -11681,6 +11686,7 @@ bqfy.com
 bqg8.cc
 bqg8.la
 bqg99.cc
+bqgnovels.com
 bqgyy.com
 bqimg.com
 bqpoint.com
@@ -13430,6 +13436,7 @@ changjiangdata.com
 changjiangtimes.com
 changjuyi.com
 changker.com
+changlipeixun.com
 changliuliang.com
 changning.net
 changpingquzhongxiyijieheyiyuan.com
@@ -18553,6 +18560,7 @@ dingtalk.net
 dingtalkapps.com
 dingtangzqx.com
 dingteam.com
+dingweilishi.com
 dingxiang-inc.com
 dingxinhui.com
 dingxinwen.com
@@ -20061,7 +20069,6 @@ easytouch.com
 easytrip.com
 easyzw.com
 eateapp.com
-eaten.fun
 eaydu.com
 eayou.com
 eayuan.com
@@ -20732,6 +20739,7 @@ enroobbs.com
 enrz.com
 enshide.com
 enshijob.com
+ensotemple.com
 enstylement.com
 ent120.com
 enterdesk.com
@@ -23838,6 +23846,7 @@ gdswine.com
 gdsxgd.com
 gdsytech.com
 gdszjgdj.org
+gdszkw.com
 gdtai.com
 gdtaihao.com
 gdtex.com
@@ -28646,6 +28655,7 @@ huiyijh.com
 huiyinxun.com
 huiyizhuo.com
 huiyou.com
+huiyu.vc
 huiyuandao.com
 huiyuanyy.com
 huiyumedia.com
@@ -32380,6 +32390,7 @@ jingyuelaw.com
 jingyuxiaoban.com
 jingyuyun.com
 jingzhengu.com
+jingzhunyunting.com
 jingzhusz.com
 jinhe-energy.com
 jinhengjgj.com
@@ -35292,6 +35303,7 @@ kzett.com
 kzeww.com
 kzore.com
 kzqs.com
+kzread.com
 kzt.cc
 kztpms.com
 kzwr.com
@@ -37881,7 +37893,6 @@ lzhongdian.com
 lzhpo.com
 lzhygame.com
 lzjdbjc.com
-lzjjdd.net
 lzjoy.com
 lzlj.com
 lzmoyin.com
@@ -44170,6 +44181,7 @@ qfamilylaw.com
 qfang.com
 qfangimg.com
 qfcm.vip
+qfdy2022.xyz
 qfedu.com
 qfeiche.com
 qfgolang.com
@@ -45429,7 +45441,6 @@ qutu.com
 qutuiwa.com
 quumii.com
 quvisa.com
-quw1234.icu
 quwaifu.com
 quwan.com
 quwan.fun
@@ -46927,6 +46938,7 @@ scdri.com
 scdzmw.com
 scedu.net
 sceeo.com
+scenery.hk
 scflcp.com
 scfzbs.com
 scgc.net
@@ -49913,6 +49925,7 @@ ssp86.com
 sspaas.com
 sspai.com
 sspai.me
+sspeeddns.com
 sspezz.com
 ssports.com
 ssports.net
@@ -50894,6 +50907,7 @@ szlangwei.com
 szlbfs.com
 szlc9.com
 szlcsc.com
+szlddb.com
 szledia.org
 szleezen.com
 szlhtram.com
@@ -52334,6 +52348,7 @@ tjluohuzhijia.com
 tjmama.com
 tjmhc.com
 tjmuch.com
+tjmysdq.com
 tjorthop.org
 tjpa-china.org
 tjpma.org
@@ -52400,6 +52415,7 @@ tlgslb.com
 tlightsky.com
 tlinx.com
 tlivecdn.com
+tlivemcdn.com
 tlivepush.com
 tlivesource.com
 tljcw.com
@@ -54805,6 +54821,7 @@ vjia.com
 vjiazu.com
 vjie.com
 vjshi.com
+vjty372.com
 vjudge.net
 vk6.me
 vk8.co
@@ -57820,6 +57837,7 @@ x12plus.com
 x1340.com
 x158.tv
 x1997.net
+x23119.com
 x23qb.com
 x23us.me
 x23us.us
@@ -59191,6 +59209,7 @@ xinzhenkj.com
 xinzhi.space
 xinzzfsdfdslk333.com
 xinzzrowieir444.com
+xioagege587skjdo.com
 xionganxinxi.com
 xionganzhuce.com
 xiongdayq.com
@@ -62310,6 +62329,7 @@ yrucd.com
 yrw.cc
 yrw.com
 yrwy.com
+yrxsw.com
 yryz.com
 yrz.name
 yrzjw.com
@@ -64816,6 +64836,7 @@ zikao.gd
 zikao365.com
 zikao5.com
 zikaocqi.com
+zikaogd.com
 zikaoshu.net
 zikaoshu.vip
 zikaosw.com
@@ -65240,6 +65261,7 @@ zmwxxcx.com
 zmxiazai.com
 zmxiu.com
 zmye5vly.com
+zmzb.com
 zmzjk.com
 zn8.com
 znba.net
@@ -65502,7 +65524,6 @@ ztcadx.com
 ztch.ltd
 ztcia.com
 ztcnwy.com
-ztdad.com
 zte.home
 zte.net
 ztedevice.com
