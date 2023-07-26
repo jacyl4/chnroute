@@ -128,6 +128,7 @@ elderscrolls.com
 electronicarts.com
 electronicarts.fr
 epicgames.com
+epicgames.dev
 excitebots.com
 fanatical.com
 ffbuddy.com
