@@ -4741,7 +4741,6 @@
 58xuexi.com
 58yiji.com
 58youtui.com
-58yuanlin.com
 58yuesao.com
 58zhuiju.com
 59.com
@@ -8730,7 +8729,6 @@ aoliday.com
 aoliongame.com
 aolylcd.com
 aomeng.net
-aomygod.com
 aomygodstatic.com
 aonaotu.com
 aoofu.com
@@ -9890,6 +9888,7 @@ banyuetanxcx.com
 banyunjuhe.com
 banzhe.xyz
 banzou.name
+banzouzhizuo.com
 bao-cun.com
 bao-fang.com
 bao-hulu.com
@@ -10390,6 +10389,7 @@ benbenlong.com
 benber-tech.com
 benber.com
 benbun.com
+bendan.website
 bendi5.com
 bendibao.com
 bendiso.com
@@ -24047,7 +24047,6 @@ geneskies.com
 genetalks.com
 geneworldcn.com
 gengchuangz.com
-genghuiok.com
 gengnie.com
 gengzhongbang.com
 genial.vip
@@ -36319,6 +36318,7 @@ li63.com
 li91.com
 liageren.com
 lialiu.com
+lian-ou.com
 lianaibashi.com
 lianaibiji.com
 lianaimh.com
@@ -36367,6 +36367,7 @@ lianmeng.la
 lianmeng.link
 lianmenhu.com
 lianmishu.com
+lianouyiyuan.com
 lianpingd.com
 lianpuie.com
 lianqi.net
@@ -41719,7 +41720,6 @@ ntqcct.com
 ntqfdq.com
 ntrcb.com
 nttui.com
-ntuiw.cc
 ntuiw.com
 ntvalumium.com
 ntwikis.com
@@ -42097,6 +42097,7 @@ oldboyedu.com
 oldcat.me
 oldding.net
 oldking.net
+oldmantvg.net
 oldpan.me
 olecn.com
 oleony.com
@@ -45612,7 +45613,6 @@ quyinginc.com
 quyiyuan.com
 quyouhui.net
 quyu.net
-quyuansu.com
 quyundong.com
 quzhiwen.com
 quzhuanxiang.com
@@ -52602,6 +52602,7 @@ tlightsky.com
 tlinx.com
 tlivecdn.com
 tlivemcdn.com
+tliveplay.com
 tlivepush.com
 tlivesource.com
 tljcw.com
@@ -59364,7 +59365,6 @@ xinyaoyao.com
 xinyayk.com
 xinyegang.com
 xinyi-tech.com
-xinyifu.net
 xinyisemi.com
 xinyitt.com
 xinyo100.com
@@ -63416,7 +63416,6 @@ yywt.online
 yywz123.com
 yywzw.com
 yyx168.com
-yyxscn.com
 yyxt.com
 yyxtao.com
 yyxwzx.com
@@ -63773,7 +63772,6 @@ zejiexinxi.com
 zejiri.net
 zeju.com
 zelinai.com
-zelininfo.com
 zemismart.com
 zemuo.com
 zen-est.com
