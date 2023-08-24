@@ -130,6 +130,7 @@
 021ren.com
 021sports.com
 021tk.com
+021wfz.com
 021yongzhuo.com
 022003.com
 0221155.com
@@ -6298,7 +6299,6 @@
 91.100.in-addr.arpa
 91.com
 910app.com
-910fd.com
 910play.com
 91160.com
 9118fu.com
@@ -7237,7 +7237,6 @@ acctdns.net
 accu.cc
 accurate-china.com
 accyy.com
-acde.net
 ace-pow.com
 ace-rubber.com
 acejoy.com
@@ -8920,7 +8919,6 @@ appzhonghua.com
 apriltq.com
 aprovadimamma.net
 apsgo.com
-apt.so
 aptchina.com
 aptchip.com
 aptenon.com
@@ -15471,6 +15469,7 @@ cnbiocell.com
 cnbis.com
 cnbis.org
 cnbizmedia.com
+cnbjx.com
 cnbksy.com
 cnbkw.com
 cnblogs.com
@@ -19426,7 +19425,6 @@ dtidc.com
 dtime.com
 dtmao.cc
 dtmuban.com
-dtqiufa.com
 dtrcb.com
 dts007.com
 dtstack.com
@@ -23901,6 +23899,7 @@ ge100.com
 geakr.com
 geality.com
 geapu.com
+gearfront.net
 gearkr.com
 geautos.com
 gebi1.com
@@ -27474,7 +27473,6 @@ hmskw.com
 hmsxw.com
 hmszkj.com
 hmting.com
-hmtv.me
 hmxw.com
 hmyz.com
 hmz.com
@@ -30285,7 +30283,6 @@ imedicalai.com
 imedp.com
 imeete.com
 imeete.net
-imeibian.com
 imeidb.com
 imeihei.com
 imeiju.cc
@@ -40782,6 +40779,7 @@ nbmai.com
 nbmedicalsystem.com
 nboxnas.com
 nbpolytheatre.com
+nbren.net
 nbrj.com
 nbrlzy.com
 nbsason.com
@@ -44843,6 +44841,7 @@ qixia.ltd
 qixin.com
 qixin007.com
 qixin18.com
+qixin19.com
 qixincha.com
 qixing123.com
 qixingcr.com
@@ -47749,6 +47748,7 @@ shangzhibo.tv
 shangzhushan.com
 shanhaitujian.com
 shanhaizhanji.com
+shanhe.kim
 shanhs.com
 shanhu99.com
 shanhuu.com
@@ -48335,7 +48335,6 @@ shopyy.com
 shoubaodan.com
 shouce.ren
 shouce365.com
-shouchaobao.vip
 shoucheng123.com
 shoucw.com
 shoudayy.net
@@ -52693,6 +52692,7 @@ topcheer.com
 topchitu.com
 topciic.com
 topcj.com
+topcpu.net
 topcrab.com
 topcsic.com
 topdodo.com
@@ -56509,7 +56509,6 @@ whsdsyy.com
 whsir.com
 whsladz.com
 whsladz.net
-whsoftway.com
 whsql.org
 whsqsoft.com
 whsrc.com
@@ -61609,6 +61608,7 @@ yizhikan.com
 yizhitou.com
 yizhiwechat.com
 yizhixiaogame.com
+yizidy.com
 yizimg.com
 yizlife.com
 yizu.org
@@ -62754,7 +62754,6 @@ yundasys.com
 yundianjia.com
 yundianseo.com
 yundiantech.com
-yundns.vip
 yundongfang.com
 yundonghao.com
 yundongit.com
