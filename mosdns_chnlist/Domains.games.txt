@@ -25,7 +25,6 @@ battlefieldv.com
 battlefront2.com
 battlefrontii.com
 battlelog.com
-battlenet.com.cn
 bcfmglobal.com
 bejeweledstars.com
 bejewled-stars.com
@@ -45,14 +44,10 @@ biligame.net
 bioware.com
 biowarestore.com
 blackboxgames.com
-blizzard.cn
 blizzard.com
-blizzardgames.cn
 blizzardgearstore.com
 bluearchive-cn.com
 blz-contentstack.com
-blzstatic.cn
-bnet.163.com
 bowsersinsidestory.com
 brawlstars.cn
 callersbane.com
@@ -148,7 +143,6 @@ frostbite.com
 full:avatargarenanow-a.akamaihd.net
 full:blizzard.nefficient.co.kr
 full:blizzcon-a.akamaihd.net
-full:blz.nosdn.127.net
 full:blzddist1-a.akamaihd.net
 full:blzddistkr1-a.akamaihd.net
 full:blzmedia-a.akamaihd.net
@@ -158,9 +152,6 @@ full:bnetproduct-a.akamaihd.net
 full:bnetshopus.akamaized.net
 full:cdngarenanow-a.akamaihd.net
 full:cloudsync-prod.s3.amazonaws.com
-full:cn.actual.battle.net
-full:di.res.netease.com
-full:diablo3.nosdn.127.net
 full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
 full:ea.tt.omtrdc.net
@@ -169,18 +160,14 @@ full:f3b7q2p3.ssl.hwcdn.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gog.qtlglb.com
 full:gogalaxy.gog-statics.com
-full:hearthstone.nosdn.127.net
-full:heroes.nos.netease.com
 full:lolstatic-a.akamaihd.net
 full:media-rockstargames-com.akamaized.net
 full:menu-static.gog-statics.com
 full:opgg-static.akamaized.net
 full:origin-a.akamaihd.net
-full:overwatch.nosdn.127.net
 full:prd-priconne-redive.akamaized.net
 full:productcard.gog-statics.com
 full:rtm.tnt-ea.com
-full:sc2.nosdn.127.net
 full:ssl-lvlt.cdn.ea.com
 full:static-login.gog-statics.com
 full:steambroadcast.akamaized.net
@@ -199,7 +186,6 @@ full:ubisoft-uplay-savegames.s3.amazonaws.com
 full:ubistatic3-a.akamaihd.net
 full:uplaypc-s-ubisoft.cdn.ubi.com
 full:videos-rockstargames-com.akamaized.net
-full:wow.nosdn.127.net
 full:www4-static.gog-statics.com
 full:xz.pphimalayanrt.com
 futpromos.com
@@ -637,7 +623,6 @@ wmsjsteam.com
 worldflipper.akamaized.net
 worldflipper.jp
 worldofwarcraft.com
-wowchina.com
 xbox
 xbox.co
 xbox.com
