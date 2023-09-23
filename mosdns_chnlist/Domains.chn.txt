@@ -612,7 +612,6 @@
 1-yuan.net
 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 1.cc
-1.fish
 10.in-addr.arpa
 100-tong.com
 100.100.in-addr.arpa
@@ -7343,7 +7342,6 @@ admqr.com
 admxh.com
 adnineplus.com
 adnyg.com
-adobe55.com
 adobeae.com
 adobeedu.com
 adoregeek.com
@@ -7460,7 +7458,6 @@ afuchina.com
 afunan.com
 afunapp.com
 afzhan.com
-ag82527.com
 agalwood.net
 agamepower.com
 agcloudcs.com
@@ -16263,7 +16260,6 @@ cpppc.org
 cpppf.org
 cppwh.com
 cps1688.com
-cps800.com
 cpsbeijing.org
 cpsenglish.com
 cptae.com
@@ -32685,7 +32681,6 @@ jncgzl.com
 jncqj.com
 jncyx.com
 jndssd.com
-jnduck.com
 jndwyy.com
 jnesc.com
 jnexpert.com
@@ -41785,7 +41780,6 @@ oneplus.com
 oneplus.net
 oneplusbbs.com
 oneplusmobile.com
-ones.ai
 onescorpion.com
 oneshao.com
 onesight.com
@@ -45541,7 +45535,6 @@ recolighting.com
 recordpharm.com
 recovery-transfer.com
 recoye.com
-recrocon.com
 recuvachina.com
 recycle366.com
 redatoms.com
@@ -57787,6 +57780,7 @@ xdxdsz.com
 xdxialingying.com
 xdxmwang.com
 xdxx.ink
+xed.plus
 xedaojia.com
 xedaojia.net
 xeeee.net
@@ -58118,7 +58112,6 @@ xiaochengxucms.com
 xiaochuan010.com
 xiaocifang.com
 xiaocms.com
-xiaocong.tv
 xiaodaka.net
 xiaodanyang.com
 xiaodao360.com
@@ -59688,7 +59681,6 @@ xunlei.net
 xunleigang.com
 xunleige.com
 xunleige520.com
-xunleige88.com
 xunleiyy.com
 xunlew.com
 xunliandata.com
@@ -59815,7 +59807,6 @@ xxmac.com
 xxmanhua.info
 xxminizu.com
 xxnets.net
-xxnmcd.com
 xxoojoke.com
 xxorg.com
 xxpie.com
@@ -60299,7 +60290,6 @@ ybtvyun.com
 ybvip.com
 ybvv.com
 ybword.com
-ybxsgg.com
 ybxww.com
 ybyxw.com
 ybzhao.com
@@ -60963,7 +60953,6 @@ yinjietd.com
 yinka.co
 yinker.com
 yinmishu.com
-yinongtouzi.com
 yinpiao.com
 yinsha.com
 yinshua.cc
@@ -62148,7 +62137,6 @@ yuapt.com
 yubaike.com
 yubangweb.com
 yubb12.site
-yubnjy.com
 yubohr.com
 yuboinfo.com
 yubosun.com
