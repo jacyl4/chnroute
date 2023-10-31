@@ -944,6 +944,9 @@ full:a4.mzstatic.com
 full:a5.mzstatic.com
 full:adcdownload.apple.com
 full:adcdownload.apple.com.akadns.net
+full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+full:amp-api-edge-lb.itunes-apple.com.akadns.net
+full:amp-api-edge.apps.apple.com
 full:amp-api-search-edge.apps.apple.com
 full:amp-api.apps.apple.com
 full:aod.itunes.apple.com
@@ -1030,12 +1033,17 @@ full:icloud.cdn-apple.com
 full:images.apple.com
 full:images.apple.com.akadns.net
 full:images.apple.com.edgekey.net.globalredir.akadns.net
+full:inappcheck-cn.itunes-apple.com.akadns.net
+full:inappcheck-lb.itunes-apple.com.akadns.net
+full:inappcheck.itunes.apple.com
 full:init-p01md-lb.push-apple.com.akadns.net
 full:init-p01md.apple.com
 full:init-p01st-lb.push-apple.com.akadns.net
 full:init-p01st.push.apple.com
 full:init-s01st-lb.push-apple.com.akadns.net
 full:init-s01st.push.apple.com
+full:init.gc-lb.apple.com.akadns.net
+full:init.gc.apple.com
 full:init.itunes.apple.com
 full:iosapps.itunes.apple.com
 full:iosapps.itunes.g.aaplimg.com
