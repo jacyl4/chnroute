@@ -140,6 +140,8 @@ forzamotorsport.net
 forzaracingchampionship.com
 forzarc.com
 frostbite.com
+full:a.ppy.sh
+full:assets.ppy.sh
 full:avatargarenanow-a.akamaihd.net
 full:blizzard.nefficient.co.kr
 full:blizzcon-a.akamaihd.net
@@ -150,6 +152,7 @@ full:blznav.akamaized.net
 full:bnetcmsus-a.akamaihd.net
 full:bnetproduct-a.akamaihd.net
 full:bnetshopus.akamaized.net
+full:c.ppy.sh
 full:cdngarenanow-a.akamaihd.net
 full:cloudsync-prod.s3.amazonaws.com
 full:dlgarenanow-a.akamaihd.net
@@ -160,14 +163,20 @@ full:f3b7q2p3.ssl.hwcdn.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gog.qtlglb.com
 full:gogalaxy.gog-statics.com
+full:lazer.ppy.sh
 full:lolstatic-a.akamaihd.net
+full:m1.ppy.sh
 full:media-rockstargames-com.akamaized.net
 full:menu-static.gog-statics.com
+full:notify.ppy.sh
 full:opgg-static.akamaized.net
 full:origin-a.akamaihd.net
+full:osu.ppy.sh
 full:prd-priconne-redive.akamaized.net
 full:productcard.gog-statics.com
 full:rtm.tnt-ea.com
+full:sentry.ppy.sh
+full:spectator.ppy.sh
 full:ssl-lvlt.cdn.ea.com
 full:static-login.gog-statics.com
 full:steambroadcast.akamaized.net
@@ -451,7 +460,6 @@ pokemonultrasunmoon.com
 pokemonvgc.com
 pokemonwifi.net
 popcap.com
-ppy.sh
 projectapex.com
 protondb.com
 proximabeta.com
