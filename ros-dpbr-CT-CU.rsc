@@ -5933,6 +5933,7 @@ add list=dpbr-CT address=210.78.64.0/18
 add list=dpbr-CT address=210.78.128.0/19
 add list=dpbr-CT address=210.79.224.0/19
 add list=dpbr-CT address=210.87.72.0/23
+add list=dpbr-CT address=210.87.114.0/23
 add list=dpbr-CT address=210.87.128.0/18
 add list=dpbr-CT address=211.88.0.0/15
 add list=dpbr-CT address=211.99.0.0/16

@@ -5933,6 +5933,7 @@ add dst-address=210.78.64.0/18 action=lookup table=CT
 add dst-address=210.78.128.0/19 action=lookup table=CT
 add dst-address=210.79.224.0/19 action=lookup table=CT
 add dst-address=210.87.72.0/23 action=lookup table=CT
+add dst-address=210.87.114.0/23 action=lookup table=CT
 add dst-address=210.87.128.0/18 action=lookup table=CT
 add dst-address=211.88.0.0/15 action=lookup table=CT
 add dst-address=211.99.0.0/16 action=lookup table=CT
