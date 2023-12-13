@@ -47,6 +47,7 @@ blackboxgames.com
 blizzard.com
 blizzardgearstore.com
 bluearchive-cn.com
+bluearchive.jp
 blz-contentstack.com
 bowsersinsidestory.com
 brawlstars.cn
@@ -361,6 +362,9 @@ needforspeedtimeattack.com
 needforspeedundergroundeast.com
 nentindo.net
 newsupermariobrosu.com
+nexon.co.jp
+nexon.com
+nexoncdn.co.kr
 nextstudios.com
 nextworkshop.net
 nexusmods.com
