@@ -1069,6 +1069,7 @@ full:maps.apple.com
 full:mesu-cdn.apple.com.akadns.net
 full:mesu-china.apple.com.akadns.net
 full:mesu.apple.com
+full:ml.cdn-apple.com
 full:music.apple.com
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.apple.com
@@ -1116,6 +1117,7 @@ full:swdist.apple.com.akadns.net
 full:swscan-cdn.apple.com.akadns.net
 full:swscan.apple.com
 full:sync.itunes.apple.com
+full:testflight.apple.com
 full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
 full:updates.cdn-apple.com
