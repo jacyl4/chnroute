@@ -5522,6 +5522,7 @@ add list=dpbr-CT address=157.10.218.0/23
 add list=dpbr-CT address=157.10.220.0/23
 add list=dpbr-CT address=157.10.246.0/23
 add list=dpbr-CT address=157.15.74.0/23
+add list=dpbr-CT address=157.15.94.0/23
 add list=dpbr-CT address=157.119.8.0/21
 add list=dpbr-CT address=157.119.16.0/22
 add list=dpbr-CT address=157.119.28.0/22
