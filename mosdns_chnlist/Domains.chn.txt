@@ -4982,7 +4982,6 @@
 66ds.net
 66house.com
 66img.com
-66ip.com
 66jiedai.com
 66mi.com
 66mobi.com
@@ -17113,7 +17112,6 @@ dailygn.com
 dailyheadlines.cc
 dailyqd.com
 daimabiji.com
-daimadog.com
 daimafans.com
 daimajia.com
 daimajiayuan.com
@@ -17536,6 +17534,7 @@ dbqf.xyz
 dbs724.com
 dbscar.com
 dbshop.net
+dbss360.com
 dbt-coin.com
 dc-cn.com
 dc568.com
@@ -18228,6 +18227,7 @@ dimeng.net
 dimensionalzone.com
 dimpurr.com
 dimsmary.tech
+dimtown.com
 dinais.com
 dindin.com
 dingdanggj.com
@@ -19310,7 +19310,6 @@ duost.com
 duotai.net
 duote.com
 duotegame.com
-duoti181.shop
 duotin.com
 duotoupiao.com
 duotuscdn.com
@@ -26651,7 +26650,6 @@ heze.cc
 hezebus.com
 hezeribao.com
 hezhidongli.com
-hezhonglaw.com
 hezi.com
 hezibook.com
 hezibuluo.com
@@ -31995,7 +31993,6 @@ jinghaishop.com
 jinghangapps.com
 jinghooo.com
 jinghua.com
-jinghujiaoyu.com
 jingjia.net
 jingjia.org
 jingjia6.com
@@ -35806,7 +35803,6 @@ lhdxz.com
 lhggjd.org
 lhh.la
 lhl7.com
-lho.cc
 lhrbszb.com
 lhs-arts.org
 lhs11.com
@@ -40557,7 +40553,6 @@ nextjoy.com
 nexto2o.com
 nextpcb.com
 nextrt.com
-nextsee.com
 nextstudios.com
 nexttao.com
 nexttix.net
@@ -44990,7 +44985,6 @@ qyham.com
 qyiliao.com
 qyinter.com
 qyjks.com
-qyjmmtc.com
 qyjpzx.com
 qykh2009.com
 qykodo.com
@@ -45650,7 +45644,6 @@ rnfengwo.com
 rngtest.com
 rnhqxh.com
 ro.com
-ro4.cc
 ro50.com
 road-group.com
 roadjava.com
@@ -51651,7 +51644,6 @@ timmerse.com
 tinetcloud.com
 tinfinite.com
 tinfo.com
-ting-tou.com
 ting55.com
 tinga88.com
 tingbook.com
@@ -60011,7 +60003,6 @@ yaooxx.space
 yaopaiming.com
 yaopeiyin.com
 yaopinnet.com
-yaoqingwo.com
 yaosai.com
 yaotia.com
 yaowan.com
@@ -61490,7 +61481,6 @@ youshop10.com
 youshu.cc
 youshuba.cc
 youshuge.com
-yousmyq.com
 yousuu.com
 youtaidoors.com
 youtaidu.com
