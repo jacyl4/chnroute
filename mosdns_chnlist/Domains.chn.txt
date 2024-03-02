@@ -6979,7 +6979,6 @@
 9396.net
 93966.com
 93bok.com
-93cg.com
 93eu.com
 93gaokao.com
 93hdw9.com
@@ -12391,6 +12390,7 @@ blueslc.tech
 bluesoleil.com
 bluestar-pc.com
 bluestep.cc
+blurdev.com
 blw.moe
 blxfc.com
 blycctv.com
@@ -19206,11 +19206,13 @@ dancerspointewinchester.com
 dancf.com
 dancihu.com
 dancingcg.com
+dandan818.com
 dandang.org
 dandanjiang.tv
 dandanman.com
 dandanplay.com
 dandantang.com
+dandanvoice.com
 dandanz.com
 dandinghuayi.com
 dandongbank.com
@@ -24572,6 +24574,7 @@ fm-uivs.com
 fm058.com
 fm0754.com
 fm120.com
+fm365.com
 fm3838.com
 fm4399.com
 fm520.com
@@ -28205,7 +28208,6 @@ gzrobots.com
 gzrtnet.com
 gzsd56.com
 gzshaudio.com
-gzshciw.com
 gzshuangbao.com
 gzshuangyue.com
 gzshuimh.com
@@ -37079,6 +37081,7 @@ juhuasuan.com
 juhuicloud.com
 juhuisuan.com
 juhuiwan.com
+juhuiwan.net
 jui.org
 juicefs.com
 jujayoupin.com
@@ -40003,6 +40006,10 @@ leniy.org
 lenosoft.net
 lenovator.com
 lenovo-ibm.com
+lenovo.com
+lenovo.com.cdn.cloudflare.net
+lenovo.net
+lenovocloudos.com
 lenovoeservice.com
 lenovogame.com
 lenovohci.com
@@ -40576,6 +40583,7 @@ lingjoin.com
 lingkaba.com
 lingki.net
 lingkou.com
+lingkou.xyz
 lingla.com
 linglingkaimen.com
 linglong.dev
@@ -41991,6 +41999,7 @@ lxyes.com
 lxyl539.com
 lxyllawfirm.com
 lxyswl.com
+lxzjjt.com
 ly-qiche.com
 ly-sky.com
 ly.com
@@ -42551,7 +42560,6 @@ manylaw.com
 manyoo.net
 manyou.com
 manyoujing.net
-manyuanjinfu.com
 manyupay.com
 manzhan.com
 manzuo.com
@@ -49791,7 +49799,6 @@ qiti88.com
 qitian-tech.com
 qitiancom.com
 qitongxq.com
-qitoon.com
 qitxt.com
 qiu-ai.com
 qiubiaoqing.com
@@ -50266,6 +50273,7 @@ qtyd.com
 qu02.com
 qu247.com
 qua.com
+qualcomm.cn.cdn.cloudflare.net
 quan.mx
 quan007.com
 quan365.com
@@ -57195,6 +57203,7 @@ talkgw.com
 talkingchina.com
 talkingdata.com
 talkingdata.net
+talkinggame.com
 talklee.com
 talkop.com
 talkwithtrend.com
@@ -57790,6 +57799,7 @@ tenchii.com
 tendacn.com
 tendawifi.com
 tendbcluster.com
+tendcloud.com
 tendcode.com
 tenddata.com
 tendis.net
@@ -58036,6 +58046,7 @@ thinkeridea.com
 thinkindrupal.com
 thinkive.com
 thinkjs.org
+thinkpad.com
 thinkprinter.net
 thinksns.com
 thinksrc.com
@@ -63673,7 +63684,6 @@ wogame.net
 wogoo.com
 wohenizaiyiqi.com
 wohst8.com
-wohuamanhua.com
 woi3d.com
 woiwrj.com
 woiyu.com
