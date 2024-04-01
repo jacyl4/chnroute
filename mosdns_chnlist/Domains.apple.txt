@@ -1141,7 +1141,6 @@ full:swscan-cdn.apple.com.akadns.net
 full:swscan.apple.com
 full:sylvan.apple.com
 full:sync.itunes.apple.com
-full:testflight.apple.com
 full:tj-pod1-smp-device.apple.com
 full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
