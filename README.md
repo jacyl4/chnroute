@@ -12,9 +12,11 @@ ip段信息取自 https://ispip.clang.cn
 ros script 例子
 
 ```
+:local addr "https://ghproxy.net/https://raw.githubusercontent.com/jacyl4/chnroute/main/ros-pbr-CT-CMCC.rsc"
+:local result ([/tool fetch mode=https output=user url=$addr as-value])
+:if ($result->"status" = "finished") do={
 /file remove [find name="ros-pbr-CT-CMCC.rsc"]
-/tool fetch url="https://ghproxy.net/https://raw.githubusercontent.com/jacyl4/chnroute/main/ros-pbr-CT-CMCC.rsc"
-:if ([:len [/file find name=ros-pbr-CT-CMCC.rsc]] > 0) do={
+/tool fetch url=$addr
 /ip route rule remove [find table=main]
 /ip route rule remove [find table=CT]
 /ip route rule remove [find table=CMCC]
@@ -31,9 +33,11 @@ ros script 例子
 方法二：
 **ros-dpbr-CT-CMCC.rsc** 是往Firewall - address lists 里生ip段列表。
 ```
+:local addr "https://ghproxy.net/https://raw.githubusercontent.com/jacyl4/chnroute/main/ros-dpbr-CT-CMCC.rsc"
+:local result ([/tool fetch mode=https output=user url=$addr as-value])
+:if ($result->"status" = "finished") do={
 /file remove [find name="ros-dpbr-CT-CMCC.rsc"]
-/tool fetch url="https://ghproxy.net/https://raw.githubusercontent.com/jacyl4/chnroute/main/ros-dpbr-CT-CMCC.rsc"
-:if ([:len [/file find name=ros-dpbr-CT-CMCC.rsc]] > 0) do={
+/tool fetch url=$addr
 /ip firewall address-list remove [find list="dpbr-CT"]
 /ip firewall address-list remove [find list="dpbr-CMCC"]
 /import ros-dpbr-CT-CMCC.rsc
