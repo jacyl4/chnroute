@@ -4,6 +4,7 @@
 2kcoretech.online
 2kgames.com
 ac-pocketcamp.com
+aki-game.com
 amiibo.com
 anthemgame.com
 anthemthegame.com
@@ -84,6 +85,8 @@ diddykongracing.com
 dkr.com
 dl.steam.clngaa.com
 dl.steam.ksyna.com
+dodi-repacks.download
+dodi-repacks.site
 donkeykongcountryreturns.com
 doom.com
 dota2.wmsj.cn
@@ -201,6 +204,7 @@ full:www4-static.gog-statics.com
 full:xz.pphimalayanrt.com
 futpromos.com
 futunited.com
+game-repack.site
 gamebonfire.com
 gameitop.com
 gameloop.com
@@ -262,6 +266,7 @@ instituteofwar.org
 joyjoy.net
 kirbysepicyarn.com
 kirbysuperstarultra.com
+kurogames.com
 kyurem.com
 labycore.cn
 lcsmerch.com
@@ -328,6 +333,7 @@ miitomo.com
 miitomo.com.cn
 miiverse.com
 minecraft.net
+minecraft.wiki
 minecraftshop.com
 mirrorsedge.com
 mirrorsedge.jp
