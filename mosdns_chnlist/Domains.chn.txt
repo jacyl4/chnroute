@@ -25649,6 +25649,7 @@ full:borgmon.adz.google.com
 full:build.microsoft.com
 full:c.admob.com
 full:c.android.clients.google.com
+full:c.pki.goog
 full:cache-management-prod.google.com
 full:cache.pack.google.com
 full:cdn-cn1.apple-mapkit.com
@@ -25813,6 +25814,7 @@ full:gvt2-cn.com
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:hospital.pku.edu.cn
+full:i.pki.goog
 full:iadsdk.apple.com
 full:icloud-cdn.icloud.com.akadns.net
 full:icloud.cdn-apple.com
@@ -25879,6 +25881,7 @@ full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:music.apple.com
 full:myvs.download.prss.microsoft.com
+full:o.pki.goog
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.apple.com
 full:ocsp.pki.goog
