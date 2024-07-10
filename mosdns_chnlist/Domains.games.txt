@@ -130,6 +130,7 @@ electronicarts.fr
 epicgames.com
 epicgames.dev
 excitebots.com
+fabricmc.net
 fanatical.com
 ffbuddy.com
 fifastreet.com
@@ -474,6 +475,7 @@ pokemonultrasunmoon.com
 pokemonvgc.com
 pokemonwifi.net
 popcap.com
+prismlauncher.org
 projectapex.com
 protondb.com
 proximabeta.com
@@ -485,6 +487,7 @@ pvp.tv
 pvzgw2.com
 pvzheroes.com
 qqgameapp.com
+quiltmc.org
 realcybertron.com
 regexp:^.+-mihayo.akamaized.net$
 regexp:^cdn-akamai-.+.gog-services.com$
