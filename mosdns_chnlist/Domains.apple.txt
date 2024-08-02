@@ -949,6 +949,7 @@ full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 full:amp-api-edge-lb.itunes-apple.com.akadns.net
 full:amp-api-edge.apps.apple.com
 full:amp-api-search-edge.apps.apple.com
+full:amp-api-updates.apps.apple.com
 full:amp-api.apps.apple.com
 full:amp-api.media.apple.com
 full:aod.itunes.apple.com
@@ -966,6 +967,7 @@ full:appleworldwidedeveloper.sc.omtrdc.net
 full:apps.apple.com
 full:apps.mzstatic.com
 full:apptrailers.itunes.apple.com
+full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
 full:beatselectronicsllc.tt.omtrdc.net
 full:bookkeeper.itunes.apple.com
@@ -1027,6 +1029,7 @@ full:gsp5-cn.ls.apple.com
 full:gsp85-cn-ssl.ls.apple.com
 full:gspe11-2-cn-ssl.ls.apple.com
 full:gspe12-cn-ssl.ls.apple.com
+full:gspe19-2-cn-ssl.ls-apple.com.akadns.net
 full:gspe19-2-cn-ssl.ls.apple.com
 full:gspe19-cn-ssl.ls.apple.com
 full:gspe19-cn.ls-apple.com.akadns.net
@@ -1064,6 +1067,7 @@ full:iosapps.itunes.g.aaplimg.com
 full:ipcdn.apple.com
 full:iphone-ld.apple.com
 full:iphone-ld.origin-apple.com.akadns.net
+full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 full:is1-ssl.mzstatic.com
 full:is1.mzstatic.com
 full:is2-ssl.mzstatic.com
