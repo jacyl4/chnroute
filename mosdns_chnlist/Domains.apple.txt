@@ -952,6 +952,7 @@ full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:amp-api.apps.apple.com
 full:amp-api.media.apple.com
+full:amp-api.music.apple.com
 full:aod.itunes.apple.com
 full:api-edge.apps.apple.com
 full:api-p-ap-c.smoot.apple.com
@@ -967,6 +968,7 @@ full:appleworldwidedeveloper.sc.omtrdc.net
 full:apps.apple.com
 full:apps.mzstatic.com
 full:apptrailers.itunes.apple.com
+full:auth.music.apple.com
 full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
 full:beatselectronicsllc.tt.omtrdc.net
@@ -1087,8 +1089,11 @@ full:maps.apple.com
 full:mesu-cdn.apple.com.akadns.net
 full:mesu-china.apple.com.akadns.net
 full:mesu.apple.com
+full:misc-assets.itunes.apple.com
 full:ml.cdn-apple.com
 full:music.apple.com
+full:myapp.itunes.apple.com
+full:np-edge.itunes.apple.com
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.apple.com
 full:ocsp2-lb.apple.com.akadns.net
@@ -1101,8 +1106,10 @@ full:p-events-delivery.akamaized.net
 full:pancake.apple.com
 full:pancake.cdn-apple.com.akadns.net
 full:pba0.apple.com
+full:pd-nk.itunes.apple.com
 full:pd.itunes.apple.com
 full:play.itunes.apple.com
+full:play.music.apple.com
 full:probe.siri.apple.com
 full:prod-support.apple-support.akadns.net
 full:publicassets.cdn-apple.com
@@ -1145,6 +1152,7 @@ full:swscan-cdn.apple.com.akadns.net
 full:swscan.apple.com
 full:sylvan.apple.com
 full:sync.itunes.apple.com
+full:tf-feedback.itunes.apple.com
 full:tj-pod1-smp-device.apple.com
 full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
@@ -1161,6 +1169,7 @@ full:www-cdn.icloud.com.akadns.net
 full:www.apple.com
 full:www.apple.com.edgekey.net
 full:www.apple.com.edgekey.net.globalredir.akadns.net
+full:www.support.apple.com
 full:xp.apple.com
 fundaiphone5s.com
 gamebeforethegame.com
