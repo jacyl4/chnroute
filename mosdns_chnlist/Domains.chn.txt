@@ -15622,7 +15622,6 @@ capitalonline.net
 capjoy.com
 caplanking.com
 capsuleshanghai.com
-captive.apple.com
 capvision.com
 capwhale.com
 car-metaverse.com
@@ -20268,7 +20267,6 @@ congyicn.com
 congzao.com
 congzhi.com
 conhagroup.com
-connectivitycheck.gstatic.com
 conoha.vip
 conpak.com.hk
 conshow.com
@@ -20442,7 +20440,6 @@ coyotebio-lab.com
 coyuk.com
 coyuns.net
 cp-keji.com
-cp.cloudflare.com
 cp127w.com
 cp365.org
 cpa100.com
@@ -22760,7 +22757,6 @@ destinyblaine.com
 destoon.com
 desunpv.com
 detailroi.com
-detectportal.firefox.com
 detion.com
 detu.com
 detuyun.com
@@ -28950,7 +28946,6 @@ full:cnappinstall.googleadapis.com
 full:communities.apple.com
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
-full:connect.rom.miui.com
 full:connectivitycheck.gstatic.com
 full:content.googleadapis.com
 full:crashlyticsreports-pa.googleapis.com
@@ -31870,6 +31865,7 @@ greenwood-park.com
 greenxf.com
 greenxiazai.com
 greepi.com
+greeyun.com
 grender.com
 grescw.com
 gretf.com
@@ -37133,6 +37129,7 @@ hezibook.com
 hezibuluo.com
 hezijia.com
 hezxs.com
+hf-aw.com
 hf-cups.com
 hf-iflysse.com
 hf0779.com
@@ -38981,6 +38978,7 @@ huaer.cc
 huaerzi.store
 huafang.com
 huafeng.com
+huafengaw.com
 huafens.com
 huafer.cc
 huagolf.com
@@ -42301,6 +42299,7 @@ irs01.com
 irs01.net
 irs03.com
 irskj.com
+irsnp.com
 iruanmi.com
 iruidian.com
 iruixing.com
@@ -47254,6 +47253,7 @@ kingexplorer.com
 kingfulai.com
 kinggoo.com
 kinggrid.com
+kinghomechina.com
 kingidc.net
 kingkaid.com
 kingland119.com
@@ -50800,7 +50800,6 @@ localdomain
 localhost
 localhost.ptlogin2.qq.com
 localhost.sec.qq.com
-location.services.mozilla.com
 locatran.com
 locez.com
 lockchat.app
@@ -53669,6 +53668,7 @@ midea-buy.com
 midea.com
 midea.com.tr
 mideadc.com
+mideaepayuat.com
 mideav.com
 mideazy.com
 midian.com
@@ -54833,8 +54833,6 @@ msdn.hk
 msdn.im
 msdprod-ad.download.prss.microsoft.com
 msfpay.com
-msftconnecttest.com
-msftncsi.com
 msgcarry.com
 msgtjj.com
 msh2020.com
@@ -56068,7 +56066,6 @@ netsyq.com
 nettvl.net
 netvp.net
 networkbench.com
-networkcheck.kde.org
 networkesl.com
 netzonesoft.com
 neu-reality.com
@@ -59434,7 +59431,6 @@ pinestoneasset.com
 pinfangw.com
 ping-jia.net
 ping-qu.com
-ping.archlinux.org
 ping.ubnt.com
 ping99.com
 pingan.com
@@ -60305,7 +60301,6 @@ purenyy.com
 purewhite.io
 puronglong.com
 pusa123.com
-push.services.mozilla.com
 push2u.com
 pushauction.com
 pushcfg.com
@@ -72839,7 +72834,6 @@ trip169.com
 trip8080.com
 tripbaba.com
 tripbe.com
-tripcdn.com
 tripleuuu.com
 triplexservice.com
 tripnearby.com
@@ -88276,6 +88270,7 @@ zhlhh.com
 zhliqi.com
 zhljq.com
 zhltech.net
+zhlyen.com
 zhlzw.com
 zhmeiwen.com
 zhmf.com
