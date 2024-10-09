@@ -5553,6 +5553,7 @@ add list=dpbr-CT address=160.30.148.0/22
 add list=dpbr-CT address=160.30.194.0/23
 add list=dpbr-CT address=160.30.196.0/22
 add list=dpbr-CT address=160.30.230.0/23
+add list=dpbr-CT address=160.187.223.0/24
 add list=dpbr-CT address=160.202.168.0/22
 add list=dpbr-CT address=160.202.216.0/21
 add list=dpbr-CT address=160.202.224.0/19
