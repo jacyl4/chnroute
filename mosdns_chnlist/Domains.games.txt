@@ -567,6 +567,7 @@ steam.cdn.webra.ru
 steam.eca.qtlglb.com
 steam.naeu.qtlglb.com
 steam.ru.qtlglb.com
+steam.tv
 steamchina.com
 steamcommunity.com
 steamcontent.com
