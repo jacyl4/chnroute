@@ -835,6 +835,7 @@ desktopmovies.org
 detaliczny.com
 developer-advisor.com
 developer.apple.com
+developerservices2.apple.com
 device-manager.us
 devimages-cdn.apple.com
 devstreaming-cdn.apple.com
@@ -1095,6 +1096,8 @@ full:misc-assets.itunes.apple.com
 full:ml.cdn-apple.com
 full:music.apple.com
 full:myapp.itunes.apple.com
+full:notary-submissions-prod.s3-accelerate.amazonaws.com
+full:notary-submissions-prod.s3.us-west-2.amazonaws.com
 full:np-edge.itunes.apple.com
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.apple.com
@@ -1735,6 +1738,7 @@ thebeatsbydre.net
 thebeatsheadphonesale.com
 theuab.net
 thinkdifferent.us
+timestamp.apple.com
 topbeatsbydrdreoutlet.com
 topbeatsdealer.com
 topbeatsforsale.com

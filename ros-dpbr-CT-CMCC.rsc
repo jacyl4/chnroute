@@ -5760,6 +5760,7 @@ add list=dpbr-CT address=202.125.176.0/20
 add list=dpbr-CT address=202.127.0.0/21
 add list=dpbr-CT address=202.127.12.0/22
 add list=dpbr-CT address=202.127.16.0/20
+add list=dpbr-CT address=202.127.40.0/21
 add list=dpbr-CT address=202.127.48.0/20
 add list=dpbr-CT address=202.127.144.0/20
 add list=dpbr-CT address=202.127.192.0/23
