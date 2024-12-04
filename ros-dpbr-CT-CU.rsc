@@ -5130,7 +5130,6 @@ add list=dpbr-CT address=115.32.0.0/14
 add list=dpbr-CT address=115.42.56.0/22
 add list=dpbr-CT address=115.44.0.0/15
 add list=dpbr-CT address=115.84.0.0/18
-add list=dpbr-CT address=115.84.192.0/19
 add list=dpbr-CT address=115.100.0.0/14
 add list=dpbr-CT address=115.104.0.0/14
 add list=dpbr-CT address=115.120.0.0/14
