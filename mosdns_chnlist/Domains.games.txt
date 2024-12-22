@@ -129,6 +129,7 @@ electronicarts.com
 electronicarts.fr
 epicgames.com
 epicgames.dev
+epicgamescdn.com
 excitebots.com
 fabricmc.net
 fanatical.com
@@ -538,6 +539,8 @@ simcity.com
 skate2.com
 skydweller.cn
 sl916.com
+snk-corp.co.jp
+snkplaymore.info
 sonyentertainmentnetwork.com
 spearhead.kr
 speedhunters.com
@@ -583,6 +586,8 @@ steamstatic.com.8686c.com
 steamunlocked.net
 steamusercontent.com
 supercell.com
+supercell.helpshift.com
+supercell.net
 supercellcommunity.cn
 supercellsupport.cn
 supermario.com
