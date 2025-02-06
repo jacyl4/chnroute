@@ -5587,6 +5587,7 @@ add list=dpbr-CT address=163.53.160.0/21
 add list=dpbr-CT address=163.53.172.0/22
 add list=dpbr-CT address=163.53.188.0/22
 add list=dpbr-CT address=163.53.240.0/22
+add list=dpbr-CT address=163.61.62.0/23
 add list=dpbr-CT address=163.228.0.0/16
 add list=dpbr-CT address=164.52.0.0/17
 add list=dpbr-CT address=167.139.0.0/16
