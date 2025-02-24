@@ -124,12 +124,14 @@ eastore.com
 easy.ac
 easyanticheat.net
 edge.steam-dns.top.comcast.net
+eft-store.com
 elderscrolls.com
 electronicarts.com
 electronicarts.fr
 epicgames.com
 epicgames.dev
 epicgamescdn.com
+escapefromtarkov.com
 excitebots.com
 fabricmc.net
 fanatical.com
@@ -240,6 +242,7 @@ goto-game.net.cn
 goto-game.org
 gotolink.net
 gouhuo.qq.com
+gstore.val.manlaxy.com
 gtgres.com
 hackyourconsole.com
 happyhlddz.com
@@ -606,6 +609,7 @@ swtor.com
 swtor.net
 syxlgame.com
 take2games.com
+tarkov.com
 tcfmglobal.com
 teamneedforspeed.com
 tellmewhygame.com

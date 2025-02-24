@@ -4330,7 +4330,6 @@ add list=dpbr-CT address=103.142.238.0/23
 add list=dpbr-CT address=103.142.248.0/23
 add list=dpbr-CT address=103.143.16.0/22
 add list=dpbr-CT address=103.143.74.0/23
-add list=dpbr-CT address=103.143.120.0/23
 add list=dpbr-CT address=103.143.124.0/23
 add list=dpbr-CT address=103.143.132.0/22
 add list=dpbr-CT address=103.143.174.0/23
