@@ -12,7 +12,7 @@ ip段信息取自 https://ispip.clang.cn
 ros script 例子
 
 ```
-:local addr "https://ghproxy.net/https://raw.githubusercontent.com/jacyl4/chnroute/main/ros-pbr-CT-CMCC.rsc"
+:local addr "https://cdn.jsdelivr.net/gh/jacyl4/chnroute@main/ros-pbr-CT-CMCC.rsc"
 :local result ([/tool fetch mode=https output=user url=$addr as-value])
 :if ($result->"status" = "finished") do={
 /file remove [find name="ros-pbr-CT-CMCC.rsc"]
@@ -33,7 +33,7 @@ ros script 例子
 方法二：
 **ros-dpbr-CT-CMCC.rsc** 是往Firewall - address lists 里生ip段列表。
 ```
-:local addr "https://ghproxy.net/https://raw.githubusercontent.com/jacyl4/chnroute/main/ros-dpbr-CT-CMCC.rsc"
+:local addr "https://cdn.jsdelivr.net/gh/jacyl4/chnroute@main/ros-dpbr-CT-CMCC.rsc"
 :local result ([/tool fetch mode=https output=user url=$addr as-value])
 :if ($result->"status" = "finished") do={
 /file remove [find name="ros-dpbr-CT-CMCC.rsc"]
