@@ -974,6 +974,7 @@ full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
 full:beatselectronicsllc.tt.omtrdc.net
 full:bookkeeper.itunes.apple.com
+full:cdn-cn.apple-mapkit.com
 full:cdn-cn1.apple-mapkit.com
 full:cdn-cn2.apple-mapkit.com
 full:cdn-cn3.apple-mapkit.com
@@ -991,6 +992,7 @@ full:certs-lb.apple.com.akadns.net
 full:certs.apple.com
 full:cl1-cdn.origin-apple.com.akadns.net
 full:cl1.apple.com
+full:cl2-cdn.origin-apple.com.akadns.net
 full:cl2-cn.apple.com
 full:cl2.apple.com
 full:cl3-cdn.origin-apple.com.akadns.net
@@ -1121,6 +1123,11 @@ full:publicassets.cdn-apple.com
 full:push-apple.com.akadns.net
 full:reserve-prime.apple.com
 full:s.mzstatic.com
+full:s1.mzstatic.com
+full:s2.mzstatic.com
+full:s3.mzstatic.com
+full:s4.mzstatic.com
+full:s5.mzstatic.com
 full:se-edge.itunes.apple.com
 full:se2.itunes.apple.com
 full:search.itunes.apple.com
@@ -1668,12 +1675,6 @@ quicktime.tv
 qwapi.com
 rbsgr.com
 reform-apple.com
-regexp:^a[1-5].mzstatic.com$
-regexp:^cdn(-cn)?[1-4]?.apple-mapkit.com$
-regexp:^cl[1-5]-cdn.origin-apple.com.akadns.net$
-regexp:^cl[1-5].apple.com$
-regexp:^is[1-5](-ssl)?.mzstatic.com$
-regexp:^s[1-5]?.mzstatic.com$
 repsneakermall.com
 repswing.com
 researchandcare.org
