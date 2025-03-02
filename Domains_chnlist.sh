@@ -24,13 +24,14 @@ chmod +x mosdns
 
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:private
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:cn
+echo "qpic.cn" >>/tmp/geosite.dat:cn
+
 wget --show-progress -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf \
 | cut -d / -f2 >/tmp/Domains.chn.txt
 cat /tmp/geosite_private.txt \
 /tmp/geosite_cn.txt \
 /tmp/Domains.chn.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.chn.txt
-
 
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple-cn
