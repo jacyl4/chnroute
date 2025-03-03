@@ -32,6 +32,7 @@ cat /tmp/geosite_private.txt \
 /tmp/geosite_cn.txt \
 /tmp/Domains.chn.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.chn.txt
+sed -i '/\.arpa$/d' ./mosdns_chnlist/Domains.chn.txt
 
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple-cn
