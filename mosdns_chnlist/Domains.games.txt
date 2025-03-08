@@ -50,8 +50,10 @@ blizzardgearstore.com
 bluearchive-cn.com
 bluearchive.jp
 blz-contentstack.com
+boombeach.com
 bowsersinsidestory.com
 brawlstars.cn
+brawlstars.com
 brawlstarsgame.com
 callersbane.com
 camelot-europe.com
@@ -60,6 +62,11 @@ camelotherald.net
 capitalgames.com
 championshipseriesleague.com
 chillingo.com
+clash.com
+clashmini.com
+clashofclans.com
+clashroyale.com
+clashroyaleapp.com
 cncrivals.com
 codm.com
 commandandconquer.com
@@ -214,6 +221,7 @@ gamebonfire.com
 gameitop.com
 gameloop.com
 gamepass.com
+gamesfirsthelsinki.com
 garena.co.id
 garena.co.th
 garena.com
@@ -247,6 +255,8 @@ gstore.val.manlaxy.com
 gtgres.com
 hackyourconsole.com
 happyhlddz.com
+hayday.com
+haydaygame.com
 haydaypop.cn
 hdyxgame.com
 heroesofdragonage.com
@@ -349,6 +359,7 @@ mirrorsedge.net
 mirrorsedge2.com
 mirrorsedge2d.com
 miyoushe.com
+mo.co
 modrinth.com
 mojang.com
 molesports.com
@@ -536,6 +547,7 @@ scid.cn
 scsentry.cn
 seagroup.com
 seaofsolitude.com
+seeurlpcl.com
 sekai.colorfulpalette.org
 shadowcomplex.com
 simcity-buildit.com
@@ -552,6 +564,7 @@ speedrun.com
 splatoon2tournament.com
 spore.com
 spyjinx.com
+squadbusters.com
 ssx3.com
 st.dl.bscstorage.net
 st.dl.eccdnx.com
@@ -593,6 +606,10 @@ supercell.com
 supercell.helpshift.com
 supercell.net
 supercellcommunity.cn
+supercellcreators.com
+supercellgames.com
+supercellid.com
+supercellstore.com
 supercellsupport.cn
 supermario.com
 supermario3dworld.com
