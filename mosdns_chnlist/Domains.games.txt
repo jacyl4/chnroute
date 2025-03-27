@@ -178,6 +178,8 @@ full:ea.tt.omtrdc.net
 full:eaassets-a.akamaihd.net
 full:f3b7q2p3.ssl.hwcdn.net
 full:gamedownloads-rockstargames-com.akamaized.net
+full:gog-cdn-fastly.gog.com
+full:gog-cdn.akamaized.net
 full:gog.qtlglb.com
 full:gogalaxy.gog-statics.com
 full:lazer.ppy.sh
@@ -279,6 +281,8 @@ illusion.jp
 in.th
 industrialtoys.com
 instituteofwar.org
+itch.io
+itch.zone
 joyjoy.net
 juequling.com
 kirbysepicyarn.com
