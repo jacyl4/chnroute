@@ -962,6 +962,7 @@ full:api-p-ap-e.smoot.apple.com
 full:app-site-association.cdn-apple.com
 full:appldnld.apple.com
 full:appldnld.g.aaplimg.com
+full:apple-tv-plus-press.apple.com
 full:apple.com.akadns.net
 full:appleid.cdn-apple.com
 full:appleworldwidedeveloper.hb-api.omtrdc.net
@@ -1049,6 +1050,8 @@ full:gspe85-cn-ssl.ls.apple.com
 full:guzzoni-apple-com.v.aaplimg.com
 full:guzzoni.apple.com
 full:guzzoni.smoot.apple.com
+full:hls-amt.itunes.apple.com
+full:hls.itunes.apple.com
 full:iadsdk.apple.com
 full:icloud-cdn.icloud.com.akadns.net
 full:icloud.cdn-apple.com
@@ -1115,6 +1118,7 @@ full:pancake.cdn-apple.com.akadns.net
 full:pba0.apple.com
 full:pd-nk.itunes.apple.com
 full:pd.itunes.apple.com
+full:play-edge.itunes.apple.com
 full:play.itunes.apple.com
 full:play.music.apple.com
 full:probe.siri.apple.com
@@ -1166,10 +1170,12 @@ full:sylvan.apple.com
 full:sync.itunes.apple.com
 full:tf-feedback.itunes.apple.com
 full:tj-pod1-smp-device.apple.com
+full:tv.applemusic.com
 full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
 full:updates.cdn-apple.com
 full:upp.itunes.apple.com
+full:uts-api.itunes.apple.com
 full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
 full:weather-data.apple.com
