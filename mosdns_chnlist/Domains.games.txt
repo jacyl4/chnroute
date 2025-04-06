@@ -92,7 +92,6 @@ dicela.net
 diddykongracing.com
 dkr.com
 dl.steam.clngaa.com
-dl.steam.ksyna.com
 dodi-repacks.download
 dodi-repacks.site
 donkeykongcountryreturns.com
@@ -158,6 +157,8 @@ forzaracingchampionship.com
 forzarc.com
 frostbite.com
 full:a.ppy.sh
+full:a4e8s8k3.map2.ssl.hwcdn.net
+full:alibaba.cdn.steampipe.steamcontent.com
 full:assets.ppy.sh
 full:avatargarenanow-a.akamaihd.net
 full:blizzard.nefficient.co.kr
@@ -184,6 +185,7 @@ full:gog.qtlglb.com
 full:gogalaxy.gog-statics.com
 full:lazer.ppy.sh
 full:lolstatic-a.akamaihd.net
+full:lv.queniujq.cn
 full:m1.ppy.sh
 full:media-rockstargames-com.akamaized.net
 full:menu-static.gog-statics.com
@@ -598,7 +600,6 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
-steampipe.steamcontent.tnkjmec.com
 steampowered.com
 steampowered.com.8686c.com
 steamserver.net
