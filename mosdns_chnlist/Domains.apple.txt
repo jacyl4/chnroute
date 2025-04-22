@@ -1061,6 +1061,7 @@ full:images.apple.com.edgekey.net.globalredir.akadns.net
 full:inappcheck-cn.itunes-apple.com.akadns.net
 full:inappcheck-lb.itunes-apple.com.akadns.net
 full:inappcheck.itunes.apple.com
+full:ingest.apple-studies.com
 full:init-kt.apple.com
 full:init-p01md-lb.push-apple.com.akadns.net
 full:init-p01md.apple.com
