@@ -29,7 +29,6 @@ add list=dpbr-CT address=1.4.8.0/21
 add list=dpbr-CT address=1.4.16.0/20
 add list=dpbr-CT address=1.4.32.0/19
 add list=dpbr-CT address=1.4.64.0/18
-add list=dpbr-CT address=1.10.0.0/21
 add list=dpbr-CT address=1.10.8.0/23
 add list=dpbr-CT address=1.10.11.0/24
 add list=dpbr-CT address=1.10.12.0/22
@@ -2698,6 +2697,7 @@ add list=dpbr-CT address=1.2.4.0/24
 add list=dpbr-CT address=1.2.8.0/24
 add list=dpbr-CT address=1.4.4.0/24
 add list=dpbr-CT address=1.8.0.0/16
+add list=dpbr-CT address=1.10.0.0/21
 add list=dpbr-CT address=1.12.0.0/14
 add list=dpbr-CT address=1.45.0.0/16
 add list=dpbr-CT address=1.88.0.0/14
