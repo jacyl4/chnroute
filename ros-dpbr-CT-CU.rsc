@@ -1,6 +1,5 @@
 /ip firewall address-list
 add list=dpbr-CT address=1.0.1.0/24
-add list=dpbr-CT address=1.0.2.0/23
 add list=dpbr-CT address=1.0.8.0/21
 add list=dpbr-CT address=1.0.32.0/19
 add list=dpbr-CT address=1.1.0.0/24
@@ -33,7 +32,6 @@ add list=dpbr-CT address=1.10.0.0/21
 add list=dpbr-CT address=1.10.8.0/23
 add list=dpbr-CT address=1.10.11.0/24
 add list=dpbr-CT address=1.10.12.0/22
-add list=dpbr-CT address=1.10.16.0/20
 add list=dpbr-CT address=1.10.32.0/19
 add list=dpbr-CT address=1.10.64.0/18
 add list=dpbr-CT address=1.48.0.0/15
@@ -2692,12 +2690,14 @@ add list=dpbr-CT address=219.90.68.0/22
 add list=dpbr-CT address=219.90.72.0/21
 add list=dpbr-CT address=219.238.0.0/15
 add list=dpbr-CT address=220.112.0.0/14
+add list=dpbr-CT address=1.0.2.0/23
 add list=dpbr-CT address=1.1.8.0/24
 add list=dpbr-CT address=1.2.2.0/24
 add list=dpbr-CT address=1.2.4.0/24
 add list=dpbr-CT address=1.2.8.0/24
 add list=dpbr-CT address=1.4.4.0/24
 add list=dpbr-CT address=1.8.0.0/16
+add list=dpbr-CT address=1.10.16.0/20
 add list=dpbr-CT address=1.12.0.0/14
 add list=dpbr-CT address=1.45.0.0/16
 add list=dpbr-CT address=1.88.0.0/14
