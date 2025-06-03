@@ -956,9 +956,6 @@ full:amp-api.media.apple.com
 full:amp-api.music.apple.com
 full:aod.itunes.apple.com
 full:api-edge.apps.apple.com
-full:api-p-ap-c.smoot.apple.com
-full:api-p-ap-d.smoot.apple.com
-full:api-p-ap-e.smoot.apple.com
 full:app-site-association.cdn-apple.com
 full:appldnld.apple.com
 full:appldnld.g.aaplimg.com
@@ -1031,7 +1028,6 @@ full:gsp10-ssl-cn.ls.apple.com
 full:gsp12-cn.ls.apple.com
 full:gsp13-cn.ls.apple.com
 full:gsp4-cn.ls.apple.com
-full:gsp4-cn.ls.apple.com.edgekey.net
 full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 full:gsp5-cn.ls.apple.com
 full:gsp85-cn-ssl.ls.apple.com
@@ -1043,7 +1039,6 @@ full:gspe19-cn-ssl.ls.apple.com
 full:gspe19-cn.ls-apple.com.akadns.net
 full:gspe19-cn.ls.apple.com
 full:gspe21-ssl.ls.apple.com
-full:gspe21.ls.apple.com
 full:gspe35-ssl.ls.apple.com
 full:gspe79-cn-ssl.ls.apple.com
 full:gspe85-cn-ssl.ls.apple.com
@@ -1055,8 +1050,6 @@ full:hls.itunes.apple.com
 full:iadsdk.apple.com
 full:icloud-cdn.icloud.com.akadns.net
 full:icloud.cdn-apple.com
-full:images.apple.com
-full:images.apple.com.akadns.net
 full:images.apple.com.edgekey.net.globalredir.akadns.net
 full:inappcheck-cn.itunes-apple.com.akadns.net
 full:inappcheck-lb.itunes-apple.com.akadns.net
@@ -1186,7 +1179,6 @@ full:weather-map2.apple.com
 full:weatherkit.apple.com
 full:www-cdn.icloud.com.akadns.net
 full:www.apple.com
-full:www.apple.com.edgekey.net
 full:www.apple.com.edgekey.net.globalredir.akadns.net
 full:www.support.apple.com
 full:xp.apple.com

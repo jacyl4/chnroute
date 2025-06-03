@@ -12,6 +12,7 @@ anthemthegame.com
 anticheatexpert.com
 apexlegends.com
 artstation.com
+asobostudio.com
 awayoutgame.com
 ayudanintendo.com
 battle.net
@@ -155,9 +156,11 @@ fire-emblem-heroes.com
 fireemblemawakening.com
 firesidegatherings.com
 fitgirl-repacks.site
+flightsimulator.com
 flipnotestudio.com
 forgecdn.net
 fortnite.com
+forza.net
 forzamotorsport.net
 forzaracingchampionship.com
 forzarc.com
@@ -184,6 +187,7 @@ full:dlmobilegarena-a.akamaihd.net
 full:ea.tt.omtrdc.net
 full:eaassets-a.akamaihd.net
 full:f3b7q2p3.ssl.hwcdn.net
+full:flightsimulator.azureedge.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gog-cdn-fastly.gog.com
 full:gog-cdn.akamaized.net
@@ -200,6 +204,7 @@ full:opgg-static.akamaized.net
 full:origin-a.akamaihd.net
 full:osu.ppy.sh
 full:prd-priconne-redive.akamaized.net
+full:prodforza.blob.core.windows.net
 full:productcard.gog-statics.com
 full:rtm.tnt-ea.com
 full:sentry.ppy.sh
