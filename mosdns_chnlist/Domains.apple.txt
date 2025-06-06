@@ -800,6 +800,7 @@ chomp.com
 ciattackers.com
 cmhalq.com
 cnshopin.com
+configuration.apple.com
 cooliphonecasesstore.com
 coolmonster.net
 coreml.net
@@ -926,6 +927,7 @@ faceidglobal.com
 faceshift.cn
 facetime.net
 famosascalvas.com
+fcs-keys-pub-prod.cdn-apple.com
 finalcutpro.com
 find-apple.com
 findmybeats.com
@@ -1184,16 +1186,17 @@ full:www.support.apple.com
 full:xp.apple.com
 fundaiphone5s.com
 gamebeforethegame.com
+gdmf-ados.apple.com
+gdmf.apple.com
 geoport.com
 getdrebeatssale.com
 gg.apple.com
 gmnetworks.net
-gnf-mdn.apple.com
-gnf-mr.apple.com
 gobeatsye.com
 gobuyonlinestore.net
 goodsdunk.net
 gs.apple.com
+gsra.apple.com
 headphonepubs.com
 headphones-cool.com
 headphones-dre.com
@@ -1630,7 +1633,6 @@ newton.com
 next.com
 nflhotsalejerseys.com
 nicesshop.net
-ns.itunes.apple.com
 offerairjordanlebron.com
 officialbeatsbydreshop.com
 officialbeatsbydrestore.com
@@ -1727,7 +1729,6 @@ swdownload.apple.com
 swift.org
 swiftui.cn
 swiftui.com.cn
-swpost.apple.com
 swscan.apple.com
 szcheapmonsterheadphones.com
 szwinnertechnology.com
@@ -1774,6 +1775,7 @@ wholesale-exporter1.com
 wholesalediscountpurses.com
 wholesalefine.com
 wholesaleonlinemart.com
+wkms-public.apple.com
 worldcoinpay.com
 wpewebkit.org
 wuxiapple.com
