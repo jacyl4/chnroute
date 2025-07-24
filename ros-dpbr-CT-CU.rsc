@@ -5655,6 +5655,7 @@ add list=dpbr-CT address=183.91.128.0/22
 add list=dpbr-CT address=183.91.144.0/20
 add list=dpbr-CT address=183.182.0.0/19
 add list=dpbr-CT address=188.131.128.0/17
+add list=dpbr-CT address=192.51.172.0/23
 add list=dpbr-CT address=192.51.188.0/24
 add list=dpbr-CT address=192.55.46.0/23
 add list=dpbr-CT address=192.55.68.0/22
