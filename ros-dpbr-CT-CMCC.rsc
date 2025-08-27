@@ -2075,7 +2075,6 @@ add list=dpbr-CT address=103.28.204.0/22
 add list=dpbr-CT address=103.29.16.0/24
 add list=dpbr-CT address=103.30.148.0/24
 add list=dpbr-CT address=103.36.28.0/22
-add list=dpbr-CT address=103.36.36.0/22
 add list=dpbr-CT address=103.36.136.0/22
 add list=dpbr-CT address=103.36.168.0/24
 add list=dpbr-CT address=103.36.172.0/22
