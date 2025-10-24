@@ -1,9 +1,8 @@
 name: Build PBR
 
 on:
-  schedule:
-    - cron: "0 17 * * *"
-  workflow_dispatch:
+  # 工作流已禁用 - 所有触发条件已移除
+  workflow_dispatch: # 仅保留手动触发以便需要时可以运行
 
 jobs:
   build:
@@ -14,18 +13,27 @@ jobs:
 
     - name: download cidr
       run: |
-        wget --no-check-certificate -cqO- https://ftp.lacnic.net/pub/stats/apnic/delegated-apnic-extended-latest | grep "apnic|CN|ipv4|" | awk -F'|' '{print $4"/"32-log($5)/log(2)}' >IPchnroute1
-        wget --no-check-certificate -cqO- https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt >IPchnroute2
-        cat IPchnroute1 IPchnroute2 | sort | uniq >IPchnroute
-        sha256sum IPchnroute | awk '{print$1}' >IPchnroute.sha256sum
-        rm -rf IPchnroute1
-        rm -rf IPchnroute2
-        
-        chmod +x ros-dpbr.sh
-        ./ros-dpbr.sh
+        fetch_apnic_blocks() {
+          local url="$1"
+          wget --show-progress --no-check-certificate -qO- "$url" \
+            | grep "apnic|CN|ipv4|" \
+            | awk -F'|' '{print $4"/"32-log($5)/log(2)}'
+        }
 
-        chmod +x Domains_chnlist.sh
-        ./Domains_chnlist.sh
+        {
+          fetch_apnic_blocks "https://ftp.iana.org/pub/mirror/rirstats/apnic/delegated-apnic-extended-latest"
+          fetch_apnic_blocks "https://ftp.lacnic.net/pub/stats/apnic/delegated-apnic-extended-latest"
+          wget --show-progress --no-check-certificate -qO- "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt"
+          wget --show-progress --no-check-certificate -qO- "https://ispip.clang.cn/all_cn.txt"
+        } | python3 scripts/ip_cidr_dedupe.py \
+          | tee IPchnroute \
+          | sha256sum | awk '{print $1}' > IPchnroute.sha256sum
+        
+        chmod +x scripts/ros-dpbr.sh
+        ./scripts/ros-dpbr.sh
+
+        chmod +x scripts/Domains_chnlist.sh
+        ./scripts/Domains_chnlist.sh
 
     - name: Commit & Push changes
       uses: actions-js/push@master
