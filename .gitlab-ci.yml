@@ -9,20 +9,21 @@ workflow:
 
 variables:
   GIT_STRATEGY: clone
-  GIT_CLONE_PATH: /tmp/chnroute
 
 build_pbr:
   stage: build
   tags:
     - shell
   before_script:
-    - rm -rf /tmp/chnroute
     - git config --global user.name "${GITLAB_USER_NAME:-ci-bot}"
     - git config --global user.email "${GITLAB_USER_EMAIL:-ci-bot@example.com}"
   script:
     - bash <<'SCRIPT'
       set -euo pipefail
-      cd "${CI_PROJECT_DIR}"
+      
+      rm -rf /tmp/chnroute
+      cp -r "${CI_PROJECT_DIR}" /tmp/chnroute
+      cd /tmp/chnroute
 
       fetch_apnic_blocks() {
         local url="$1"
@@ -53,4 +54,7 @@ build_pbr:
       else
         echo "No changes to commit."
       fi
+      
+      cd "${CI_PROJECT_DIR}"
+      rm -rf /tmp/chnroute
       SCRIPT
