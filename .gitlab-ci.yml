@@ -14,12 +14,9 @@ build_pbr:
   stage: build
   tags:
     - shell
-  variables:
-    TARGET_REPO_URL: "https://oauth2:${CI_JOB_TOKEN}@gitlab.seso.icu:32221/jacyl4/chnroute.git"
   before_script:
     - git config --global user.name "${GITLAB_USER_NAME:-ci-bot}"
-    - git config --global user.email "${GITLAB_USER_EMAIL:-ci-bot@gotlab.seso.icu}"
-    - git remote set-url origin "$TARGET_REPO_URL"
+    - git config --global user.email "${GITLAB_USER_EMAIL:-ci-bot@gitlab.seso.icu}"
   script:
     - |
       set -euo pipefail
