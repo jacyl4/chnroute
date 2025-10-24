@@ -19,6 +19,7 @@ build_pbr:
   before_script:
     - git config --global user.name "${GITLAB_USER_NAME:-ci-bot}"
     - git config --global user.email "${GITLAB_USER_EMAIL:-ci-bot@gotlab.seso.icu}"
+    - git remote set-url origin "$TARGET_REPO_URL"
   script:
     - |
       set -euo pipefail
