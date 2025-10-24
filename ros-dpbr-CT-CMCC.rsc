@@ -3709,7 +3709,7 @@ add list=dpbr-CMCC address=123.103.30.0/24
 add list=dpbr-CMCC address=123.103.40.0/21
 add list=dpbr-CMCC address=123.103.48.0/20
 add list=dpbr-CMCC address=123.103.64.0/18
-add list=dpbr-CMCC address=123.108.88.0/23
+add list=dpbr-CMCC address=123.108.88.0/24
 add list=dpbr-CMCC address=123.108.208.0/22
 add list=dpbr-CMCC address=123.108.212.0/23
 add list=dpbr-CMCC address=123.108.220.0/22
