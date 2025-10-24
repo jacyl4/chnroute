@@ -1,0 +1,53 @@
+stages:
+  - build
+
+workflow:
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+    - if: '$CI_PIPELINE_SOURCE == "web"'
+    - when: never
+
+variables:
+  GIT_STRATEGY: clone
+  GIT_CLONE_PATH: /tmp/chnroute
+
+build_pbr:
+  stage: build
+  before_script:
+    - git config --global user.name "${GITLAB_USER_NAME:-ci-bot}"
+    - git config --global user.email "${GITLAB_USER_EMAIL:-ci-bot@example.com}"
+  script:
+    - bash <<'SCRIPT'
+      set -euo pipefail
+      cd "${CI_PROJECT_DIR}"
+
+      fetch_apnic_blocks() {
+        local url="$1"
+        wget --show-progress --no-check-certificate -qO- "$url" \
+          | grep "apnic|CN|ipv4|" \
+          | awk -F'|' '{print $4"/"32-log($5)/log(2)}'
+      }
+
+      {
+        fetch_apnic_blocks "https://ftp.iana.org/pub/mirror/rirstats/apnic/delegated-apnic-extended-latest"
+        fetch_apnic_blocks "https://ftp.lacnic.net/pub/stats/apnic/delegated-apnic-extended-latest"
+        wget --show-progress --no-check-certificate -qO- "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt"
+        wget --show-progress --no-check-certificate -qO- "https://ispip.clang.cn/all_cn.txt"
+      } | python3 scripts/ip_cidr_dedupe.py \
+        | tee IPchnroute \
+        | sha256sum | awk '{print $1}' > IPchnroute.sha256sum
+
+      chmod +x scripts/ros-dpbr.sh
+      ./scripts/ros-dpbr.sh
+
+      chmod +x scripts/Domains_chnlist.sh
+      ./scripts/Domains_chnlist.sh
+
+      if [ -n "$(git status --porcelain)" ]; then
+        git add -A
+        git commit -m "Update generated assets $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        git push "${CI_REPOSITORY_URL}" "HEAD:${CI_COMMIT_BRANCH:-$CI_COMMIT_REF_NAME}"
+      else
+        echo "No changes to commit."
+      fi
+      SCRIPT
