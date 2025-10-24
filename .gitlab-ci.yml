@@ -14,6 +14,7 @@ variables:
 build_pbr:
   stage: build
   before_script:
+    - rm -rf /tmp/chnroute
     - git config --global user.name "${GITLAB_USER_NAME:-ci-bot}"
     - git config --global user.email "${GITLAB_USER_EMAIL:-ci-bot@example.com}"
   script:
