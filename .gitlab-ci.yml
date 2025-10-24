@@ -13,6 +13,8 @@ variables:
 
 build_pbr:
   stage: build
+  tags:
+    - shell
   before_script:
     - rm -rf /tmp/chnroute
     - git config --global user.name "${GITLAB_USER_NAME:-ci-bot}"
