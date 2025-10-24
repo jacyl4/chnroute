@@ -14,9 +14,11 @@ build_pbr:
   stage: build
   tags:
     - shell
+  variables:
+    TARGET_REPO_URL: "https://oauth2:${CI_JOB_TOKEN}@gitlab.seso.icu:32221/jacyl4/chnroute.git"
   before_script:
     - git config --global user.name "${GITLAB_USER_NAME:-ci-bot}"
-    - git config --global user.email "${GITLAB_USER_EMAIL:-ci-bot@example.com}"
+    - git config --global user.email "${GITLAB_USER_EMAIL:-ci-bot@gotlab.seso.icu}"
   script:
     - |
       set -euo pipefail
@@ -47,10 +49,11 @@ build_pbr:
       chmod +x scripts/Domains_chnlist.sh
       ./scripts/Domains_chnlist.sh
 
-      if [ -n "$(git status --porcelain)" ]; then
+      if [[ -n $(git status --porcelain) ]]; then
+        echo "Found changes to commit."
         git add -A
         git commit -m "Update generated assets $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-        git push "${CI_REPOSITORY_URL}" "HEAD:${CI_COMMIT_BRANCH:-$CI_COMMIT_REF_NAME}"
+        git push origin "HEAD:${CI_COMMIT_BRANCH:-$CI_COMMIT_REF_NAME}"
       else
         echo "No changes to commit."
       fi
