@@ -326,8 +326,11 @@ haydaygame.com
 haydaypop.cn
 hdyxgame.com
 heavenlywind.cc
+hero.com
 heroesofdragonage.com
 heroesofthestorm.com
+heroesports.com
+herogame.com
 historyofdota.com
 historyofdota.net
 historyofdota.org
@@ -352,6 +355,7 @@ industrialtoys.com
 instituteofwar.org
 itch.io
 itch.zone
+joinsquad.com
 joyjoy.net
 juequling.com
 kirbysepicyarn.com
@@ -524,6 +528,8 @@ nintendoswitch.net
 nintendoswitchtogether.com
 nintendowii.com
 nzsiteres.com
+offworldindustries.com
+offworldindustries.net
 op.gg
 origin.com
 origin.tv
@@ -639,6 +645,7 @@ seaofsolitude.com
 seeurlpcl.com
 sekai.colorfulpalette.org
 shadowcomplex.com
+shyxhy.com
 simcity-buildit.com
 simcity.com
 skate2.com
@@ -834,6 +841,7 @@ xn--mts47c3w9b1qr.cn
 xn--mts47c3w9b1qr.net
 xn--owtw8cc49ajfl.cn
 ycgame.com
+yingxiong.com
 ynoproject.net
 yogify.com
 yoshisnewisland.com
