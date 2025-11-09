@@ -179,6 +179,7 @@ easyanticheat.net
 edge.steam-dns.top.comcast.net
 edu4399.com
 eft-store.com
+egdownload.fastly-edge.com
 elderscrolls.com
 electronicarts.com
 electronicarts.fr

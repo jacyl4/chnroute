@@ -4885,7 +4885,6 @@ add list=dpbr-CT address=36.255.176.0/22
 add list=dpbr-CT address=36.255.192.0/24
 add list=dpbr-CT address=38.111.220.0/23
 add list=dpbr-CT address=38.211.199.0/24
-add list=dpbr-CT address=38.213.146.0/24
 add list=dpbr-CT address=39.96.0.0/13
 add list=dpbr-CT address=39.104.0.0/14
 add list=dpbr-CT address=39.108.0.0/16
