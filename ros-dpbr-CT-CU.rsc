@@ -4710,6 +4710,7 @@ add list=dpbr-CU address=115.187.0.0/20
 add list=dpbr-CU address=117.120.64.0/18
 add list=dpbr-CU address=118.64.0.0/21
 add list=dpbr-CU address=118.64.248.0/21
+add list=dpbr-CU address=118.66.184.0/24
 add list=dpbr-CU address=118.66.224.0/20
 add list=dpbr-CU address=118.144.64.0/21
 add list=dpbr-CU address=118.144.72.0/22
