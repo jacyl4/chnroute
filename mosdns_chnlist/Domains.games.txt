@@ -138,6 +138,7 @@ dicela.net
 diddykongracing.com
 dkr.com
 dl.steam.clngaa.com
+dobest.com
 dodi-repacks.download
 dodi-repacks.site
 donkeykongcountryreturns.com
@@ -364,6 +365,7 @@ kirbysuperstarultra.com
 kurogames.com
 kyurem.com
 labycore.cn
+langrenclub.com
 lcsmerch.com
 leaguehighschool.com
 leagueoflegends.ca
@@ -636,6 +638,7 @@ rsg.sc
 rstatic.net
 ruinedking.com
 s.team
+sanguosha.com
 sccreator.cn
 sccreators.cn
 scescdn.cn
@@ -759,6 +762,7 @@ timibase.com
 titanfall.com
 tnt-ea.com
 tuer123.com
+tuyoo.com
 twinmotion.com
 ubi.com
 ubisoft.com
@@ -783,6 +787,7 @@ vrzwk.cn
 vrzwk.com
 vrzwk.net
 vrzwk.top
+wanmei.com
 wanwan4399.com
 wariolandshakeit.com
 wariowarediy.com
@@ -806,6 +811,7 @@ wiisportsresort.com
 wiiugamepad.com
 wiivc.net
 winegame.net
+wmsj.cn
 wmsjsteam.com
 wo1wan.com
 worldflipper.akamaized.net
@@ -837,7 +843,9 @@ xd.com
 xdcdn.net
 xdsummit.com
 xenoblade.com
+xhlsgs.com
 xindong.com
+xinwuji.com
 xn--mts47c3w9b1qr.cn
 xn--mts47c3w9b1qr.net
 xn--owtw8cc49ajfl.cn
@@ -845,6 +853,7 @@ ycgame.com
 yingxiong.com
 ynoproject.net
 yogify.com
+yokaverse.com
 yoshisnewisland.com
 youba.com
 yuanshen.com
@@ -855,4 +864,5 @@ yxwsgame.com
 yzyxgame.com
 zcjbgame.com
 zenlesszonezero.com
+zhuoyou.com
 zhuoyuegame.com
