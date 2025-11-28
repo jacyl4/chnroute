@@ -226,6 +226,7 @@ full:bnetshopus.akamaized.net
 full:c.ppy.sh
 full:cdngarenanow-a.akamaihd.net
 full:cloudsync-prod.s3.amazonaws.com
+full:d1unuk07s6td74.cloudfront.net
 full:datarouter.apps.netherrealm.com
 full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
@@ -251,6 +252,9 @@ full:osu.ppy.sh
 full:prd-priconne-redive.akamaized.net
 full:prodforza.blob.core.windows.net
 full:productcard.gog-statics.com
+full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+full:roblox-poc.global.ssl.fastly.net
+full:robloxcorp.s.llnwi.net
 full:rtm.tnt-ea.com
 full:sentry.ppy.sh
 full:spectator.ppy.sh
@@ -602,6 +606,9 @@ quiltmc.org
 quixel.com
 quixel.se
 radgametools.com
+rblx.org
+rbx.com
+rbxcdn.com
 realcybertron.com
 realityscan.com
 regexp:^.+-mihayo.akamaized.net$
@@ -628,9 +635,12 @@ riotpin.com
 riotpoints.com
 rmwxgame.com
 ro.com
+roblox-api.arkoselabs.co
 roblox.cn
+roblox.com
 roblox.qq.com
 robloxdev.cn
+robloxlabs.com
 roborecall.com
 rockstargames.com
 roco.qq.com

@@ -604,6 +604,7 @@ add list=dpbr-CT address=103.78.60.0/22
 add list=dpbr-CT address=103.78.126.0/23
 add list=dpbr-CT address=103.78.228.0/22
 add list=dpbr-CT address=103.79.200.0/22
+add list=dpbr-CT address=103.79.228.0/23
 add list=dpbr-CT address=103.81.48.0/22
 add list=dpbr-CT address=103.82.224.0/22
 add list=dpbr-CT address=103.83.44.0/22
@@ -2883,9 +2884,7 @@ add list=dpbr-CT address=220.113.96.0/21
 add list=dpbr-CT address=220.113.150.0/23
 add list=dpbr-CT address=220.154.0.0/20
 add list=dpbr-CT address=220.154.16.0/22
-add list=dpbr-CT address=220.154.128.0/21
-add list=dpbr-CT address=220.154.136.0/22
-add list=dpbr-CT address=220.154.140.0/23
+add list=dpbr-CT address=220.154.128.0/20
 add list=dpbr-CT address=220.154.144.0/24
 add list=dpbr-CT address=220.160.0.0/11
 add list=dpbr-CT address=220.231.32.0/20
@@ -3079,7 +3078,7 @@ add list=dpbr-CU address=45.127.144.0/21
 add list=dpbr-CU address=45.248.96.0/22
 add list=dpbr-CU address=45.249.212.0/22
 add list=dpbr-CU address=45.250.32.0/21
-add list=dpbr-CU address=45.250.180.0/23
+add list=dpbr-CU address=45.250.180.0/22
 add list=dpbr-CU address=45.250.188.0/24
 add list=dpbr-CU address=45.252.104.0/22
 add list=dpbr-CU address=45.253.24.0/22
@@ -3341,8 +3340,10 @@ add list=dpbr-CU address=103.212.4.0/22
 add list=dpbr-CU address=103.213.64.0/19
 add list=dpbr-CU address=103.214.48.0/22
 add list=dpbr-CU address=103.216.240.0/22
+add list=dpbr-CU address=103.216.254.0/23
 add list=dpbr-CU address=103.218.216.0/22
 add list=dpbr-CU address=103.219.32.0/21
+add list=dpbr-CU address=103.219.88.0/22
 add list=dpbr-CU address=103.219.92.0/24
 add list=dpbr-CU address=103.219.100.0/23
 add list=dpbr-CU address=103.220.164.0/22
@@ -4700,7 +4701,6 @@ add list=dpbr-CU address=103.235.144.0/24
 add list=dpbr-CU address=103.238.24.0/21
 add list=dpbr-CU address=103.238.32.0/21
 add list=dpbr-CU address=103.238.40.0/22
-add list=dpbr-CU address=113.48.48.0/20
 add list=dpbr-CU address=113.48.224.0/20
 add list=dpbr-CU address=113.50.0.0/20
 add list=dpbr-CU address=113.50.32.0/24
