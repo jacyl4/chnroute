@@ -7861,6 +7861,7 @@ add dst-address=144.48.252.0/22 action=lookup table=CT
 add dst-address=144.79.4.0/23 action=lookup table=CT
 add dst-address=144.79.10.0/23 action=lookup table=CT
 add dst-address=144.79.28.0/23 action=lookup table=CT
+add dst-address=144.79.42.0/23 action=lookup table=CT
 add dst-address=146.56.192.0/18 action=lookup table=CT
 add dst-address=146.196.56.0/22 action=lookup table=CT
 add dst-address=146.196.72.0/22 action=lookup table=CT

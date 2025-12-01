@@ -7861,6 +7861,7 @@ add list=dpbr-CU address=144.48.252.0/22
 add list=dpbr-CU address=144.79.4.0/23
 add list=dpbr-CU address=144.79.10.0/23
 add list=dpbr-CU address=144.79.28.0/23
+add list=dpbr-CU address=144.79.42.0/23
 add list=dpbr-CU address=146.56.192.0/18
 add list=dpbr-CU address=146.196.56.0/22
 add list=dpbr-CU address=146.196.72.0/22
