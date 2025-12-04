@@ -36559,7 +36559,6 @@ full:avail.googleflights.net
 full:b.c2r.ts.cdn.office.net
 full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
-full:bbs.ztedevices.com
 full:beacons.gcp.gvt2.com
 full:beacons.gvt2.com
 full:beacons2.gvt2.com
@@ -37109,7 +37108,6 @@ full:www.pxcc.com
 full:www.recaptcha.net
 full:www.routerlogin.com
 full:www.support.apple.com
-full:www.ztedevices.com
 full:www4-static.gog-statics.com
 full:xn--flw351e.com
 full:xp.apple.com
@@ -45358,6 +45356,7 @@ hapierxia.com
 hapingapp.com
 hapipixia.com
 hapiyixia.com
+hapjs.org
 haplat.net
 happi123.com
 happigo.com
