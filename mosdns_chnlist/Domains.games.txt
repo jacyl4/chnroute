@@ -47,6 +47,7 @@ anthemthegame.com
 anticheatexpert.com
 apexlegends.com
 appeeres.com
+arcraiders.com
 artstation.com
 asobostudio.com
 astral-vector.com
@@ -185,6 +186,8 @@ egdownload.fastly-edge.com
 elderscrolls.com
 electronicarts.com
 electronicarts.fr
+embark-studios.com
+embark.games
 epicgames.com
 epicgames.dev
 epicgamescdn.com
@@ -192,6 +195,8 @@ escapefromtarkov.com
 excitebots.com
 fab.com
 fabricmc.net
+faceit-cdn.net
+faceit.com
 fanatical.com
 ffbuddy.com
 fifastreet.com
@@ -619,6 +624,7 @@ rbxcdn.com
 rbxinfra.net
 rbxlabs.com
 rbxtrk.com
+reachthefinals.com
 realcybertron.com
 realityscan.com
 regexp:^.+-mihayo.akamaized.net$
