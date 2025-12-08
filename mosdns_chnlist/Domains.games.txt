@@ -315,6 +315,7 @@ gcloudcstest.com
 gcloudcstestonly.com
 gclouddolphin.com
 gcloudsdk.com
+gcloudsvcs.com
 gdtimg.com
 genshinimpact.com
 ghostgames.com
