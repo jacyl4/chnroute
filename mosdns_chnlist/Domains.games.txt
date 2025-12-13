@@ -38,6 +38,8 @@
 5054399.net
 71acg.com
 71acg.net
+7k7k.com
+9game.cn
 9xgame.com
 ac-pocketcamp.com
 aki-game.com
@@ -498,6 +500,7 @@ nexon.io
 nexoncdn.co.kr
 nextstudios.com
 nextworkshop.net
+nexus-cdn.com
 nexusmods.com
 nfsworld.com
 nikke-de.com
@@ -798,7 +801,6 @@ tencentstart.com
 texasholdemcup.cn
 texasholdemcup.com
 texasholdemcup.net
-tgbus.com
 tgpro.top
 tgprocs.net
 thedreadwolfrises.com
@@ -835,7 +837,6 @@ uo.com
 uoherald.com
 uplay.com
 valvesoftware.com
-vgtime.com
 videoxiaoyouxi.com
 visceralgames.com
 vrzwk.cn
