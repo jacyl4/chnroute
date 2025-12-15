@@ -4877,6 +4877,7 @@ add list=dpbr-CU address=27.116.44.0/22
 add list=dpbr-CU address=27.131.220.0/22
 add list=dpbr-CU address=27.144.0.0/16
 add list=dpbr-CU address=31.56.66.0/24
+add list=dpbr-CU address=31.57.10.0/24
 add list=dpbr-CU address=31.57.248.0/24
 add list=dpbr-CU address=36.0.8.0/21
 add list=dpbr-CU address=36.0.64.0/18
@@ -5524,6 +5525,7 @@ add list=dpbr-CU address=71.137.0.0/18
 add list=dpbr-CU address=74.122.24.0/24
 add list=dpbr-CU address=77.107.118.0/24
 add list=dpbr-CU address=81.68.0.0/14
+add list=dpbr-CU address=82.39.206.0/23
 add list=dpbr-CU address=82.156.0.0/15
 add list=dpbr-CU address=85.237.205.0/24
 add list=dpbr-CU address=94.191.0.0/17
@@ -6722,7 +6724,6 @@ add list=dpbr-CU address=103.153.36.0/23
 add list=dpbr-CU address=103.153.100.0/23
 add list=dpbr-CU address=103.153.114.0/23
 add list=dpbr-CU address=103.153.122.0/23
-add list=dpbr-CU address=103.153.128.0/23
 add list=dpbr-CU address=103.153.132.0/23
 add list=dpbr-CU address=103.153.138.0/23
 add list=dpbr-CU address=103.153.146.0/23
@@ -7865,6 +7866,7 @@ add list=dpbr-CU address=144.79.42.0/23
 add list=dpbr-CU address=144.79.54.0/23
 add list=dpbr-CU address=144.79.70.0/23
 add list=dpbr-CU address=144.79.84.0/23
+add list=dpbr-CU address=144.79.118.0/23
 add list=dpbr-CU address=146.56.192.0/18
 add list=dpbr-CU address=146.196.56.0/22
 add list=dpbr-CU address=146.196.72.0/22
@@ -7903,12 +7905,14 @@ add list=dpbr-CU address=150.248.0.0/16
 add list=dpbr-CU address=152.104.128.0/17
 add list=dpbr-CU address=152.136.0.0/16
 add list=dpbr-CU address=154.8.128.0/17
+add list=dpbr-CU address=154.19.43.0/24
 add list=dpbr-CU address=154.91.158.0/23
 add list=dpbr-CU address=154.208.140.0/22
 add list=dpbr-CU address=154.208.144.0/20
 add list=dpbr-CU address=154.208.160.0/21
 add list=dpbr-CU address=154.208.172.0/23
 add list=dpbr-CU address=155.117.164.0/24
+add list=dpbr-CU address=155.117.188.0/24
 add list=dpbr-CU address=156.59.202.0/23
 add list=dpbr-CU address=156.59.204.0/23
 add list=dpbr-CU address=156.59.206.0/24
