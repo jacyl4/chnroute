@@ -3582,6 +3582,7 @@ add list=dpbr-CMCC address=111.192.0.0/12
 add list=dpbr-CMCC address=111.208.121.0/24
 add list=dpbr-CMCC address=111.223.12.0/22
 add list=dpbr-CMCC address=112.64.0.0/15
+add list=dpbr-CMCC address=112.73.96.0/19
 add list=dpbr-CMCC address=112.80.0.0/12
 add list=dpbr-CMCC address=112.96.0.0/15
 add list=dpbr-CMCC address=112.109.128.0/17
