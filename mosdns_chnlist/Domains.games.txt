@@ -720,6 +720,8 @@ seeurlpcl.com
 sekai.colorfulpalette.org
 shadowcomplex.com
 shyxhy.com
+sih-db.com
+sih.app
 simcity-buildit.com
 simcity.com
 skate2.com
@@ -766,6 +768,7 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
+steaminventoryhelper.com
 steampowered.com
 steampowered.com.8686c.com
 steamserver.net
