@@ -265,6 +265,7 @@ full:osu.ppy.sh
 full:prd-priconne-redive.akamaized.net
 full:prodforza.blob.core.windows.net
 full:productcard.gog-statics.com
+full:pubg1.battleye.com
 full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 full:roblox-poc.global.ssl.fastly.net
 full:robloxcorp.s.llnwi.net
@@ -385,6 +386,7 @@ joyjoy.net
 juequling.com
 kirbysepicyarn.com
 kirbysuperstarultra.com
+kraftonde.com
 kurogames.com
 kyurem.com
 labycore.cn
@@ -576,6 +578,7 @@ plantsvszombies2.com
 play4free.com
 playapex.com
 playartifact.com
+playbattlegrounds.com
 playhearthstone.com
 playnintendo.com
 playoverwatch.com
@@ -616,6 +619,7 @@ prismlauncher.org
 projectapex.com
 protondb.com
 proximabeta.com
+pubg.com
 pubghelper.com
 pubgno1.cn
 pubgtool.com
