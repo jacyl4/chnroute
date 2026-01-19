@@ -6825,7 +6825,6 @@ add list=dpbr-CT address=103.160.244.0/23
 add list=dpbr-CT address=103.160.254.0/23
 add list=dpbr-CT address=103.161.14.0/23
 add list=dpbr-CT address=103.161.102.0/23
-add list=dpbr-CT address=103.161.138.0/23
 add list=dpbr-CT address=103.161.208.0/23
 add list=dpbr-CT address=103.161.220.0/23
 add list=dpbr-CT address=103.161.254.0/23
