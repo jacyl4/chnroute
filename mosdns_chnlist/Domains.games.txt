@@ -671,7 +671,6 @@ riotpin.com
 riotpoints.com
 rmwxgame.com
 ro-blox.com
-ro.com
 roadblocks.com
 roblocks.com
 roblox-api.arkoselabs.com
@@ -805,13 +804,6 @@ swtor.com
 swtor.net
 syxlgame.com
 take2games.com
-tapapks.com
-tapimg.com
-tapimg.net
-taptap.cn
-taptap.com
-taptap.io
-taptapdada.com
 tarkov.com
 tcfmglobal.com
 teamneedforspeed.com
@@ -917,13 +909,9 @@ xboxplayanywhere.com
 xboxservices.com
 xboxstudios.com
 xbx.lv
-xd.cn
-xd.com
-xdcdn.net
 xdsummit.com
 xenoblade.com
 xhlsgs.com
-xindong.com
 xinwuji.com
 xn--mts47c3w9b1qr.cn
 xn--mts47c3w9b1qr.net
