@@ -8242,6 +8242,7 @@ add list=dpbr-CT address=202.27.12.0/24
 add list=dpbr-CT address=202.27.14.0/24
 add list=dpbr-CT address=202.36.226.0/24
 add list=dpbr-CT address=202.38.8.0/21
+add list=dpbr-CT address=202.38.64.0/19
 add list=dpbr-CT address=202.38.128.0/23
 add list=dpbr-CT address=202.38.132.0/23
 add list=dpbr-CT address=202.38.134.0/24
