@@ -54,6 +54,8 @@ apexlegends.com
 appeeres.com
 arcaea.cn
 arcraiders.com
+arma3.com
+armaplatform.com
 artstation.com
 asobostudio.com
 astral-vector.com
@@ -91,6 +93,7 @@ biligame.com
 biligame.net
 bioware.com
 biowarestore.com
+bistudio.com
 blackboxgames.com
 blizzard.com
 blizzardgearstore.com
@@ -98,6 +101,7 @@ blox.com
 bluearchive-cn.com
 bluearchive.jp
 blz-contentstack.com
+bohemia.net
 boombeach.com
 bowsersinsidestory.com
 brawlstars.cn
@@ -137,6 +141,7 @@ darkageofcamelot.com
 darkness-risen.com
 dawngate.com
 dawngatechronicles.com
+dayz.com
 deadspacegame.com
 diablo3.com
 diabloimmortal.com
@@ -438,6 +443,7 @@ mahjongcup.com
 mahjongcup.net
 mail4399.com
 maindown4399.com
+makearmanotwar.com
 marioandluigidreamteam.com
 mariobroswii.com
 mariokart.cn
@@ -728,6 +734,7 @@ shadowcomplex.com
 shyxhy.com
 sih-db.com
 sih.app
+silicagame.com
 simcity-buildit.com
 simcity.com
 skate2.com
@@ -853,6 +860,7 @@ uoherald.com
 uplay.com
 valvesoftware.com
 videoxiaoyouxi.com
+vigorgame.com
 visceralgames.com
 vrchat.cloud
 vrchat.com
@@ -921,6 +929,7 @@ xn--mts47c3w9b1qr.net
 xn--owtw8cc49ajfl.cn
 ycgame.com
 yingxiong.com
+ylands.com
 ynoproject.net
 yogify.com
 yokaverse.com
