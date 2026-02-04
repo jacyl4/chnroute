@@ -3592,7 +3592,6 @@ add list=dpbr-CU address=113.213.0.0/18
 add list=dpbr-CU address=113.213.64.0/19
 add list=dpbr-CU address=113.213.96.0/20
 add list=dpbr-CU address=113.224.0.0/12
-add list=dpbr-CU address=114.28.135.0/24
 add list=dpbr-CU address=114.28.248.0/21
 add list=dpbr-CU address=114.66.80.0/23
 add list=dpbr-CU address=114.66.236.0/22
