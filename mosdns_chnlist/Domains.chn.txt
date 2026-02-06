@@ -29814,6 +29814,7 @@ dji.net
 djiang.net
 djiavip.com
 djicdn.com
+djigate.com
 djigo-hk.djiservice.org
 djigo.djicdn.com
 djigoapi.djiservice.org
