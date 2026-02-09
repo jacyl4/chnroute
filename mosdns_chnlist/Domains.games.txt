@@ -2,7 +2,10 @@
 17roco.com
 2k.com
 2kcoretech.online
+2kct.onl
 2kgames.com
+2ksports.com
+2kweb.online
 3304399.com
 3304399.net
 3839.com
@@ -45,6 +48,8 @@
 9xgame.com
 abdf002.com
 ac-pocketcamp.com
+acesofthunder.net
+activematter.game
 aki-game.com
 amiibo.com
 anthemgame.com
@@ -57,6 +62,7 @@ arcraiders.com
 arma3.com
 armaplatform.com
 artstation.com
+artstorm.com
 asobostudio.com
 astral-vector.com
 awayoutgame.com
@@ -130,9 +136,12 @@ commandandconquer.com
 conquerwithcharacter.com
 convrgencegame.com
 cowlevel.net
+crossout.net
+crsed.net
 crysis.jp
 csgo.wmsj.cn
 cubicmotion.com
+cubicodyssey.game
 curseforge.com
 cygames.co.jp
 cygames.jp
@@ -203,6 +212,7 @@ embark-studios.com
 embark.games
 eneba.com
 eneba.games
+enlisted.net
 epicgames.com
 epicgames.dev
 epicgamescdn.com
@@ -307,6 +317,8 @@ funnycore.com
 futpromos.com
 futunited.com
 fxt365.com
+gaijin.net
+gaijinent.com
 game-repack.site
 gameabc.com
 gamebonfire.com
@@ -481,6 +493,7 @@ mirrorsedge2d.com
 miyoushe.com
 mo.co
 mobimon.com.tw
+modernwarships.com
 modrinth.com
 mojang.com
 molesports.com
@@ -714,6 +727,7 @@ robloxdev.cn
 robloxlabs.com
 roborecall.com
 rockstargames.com
+rockstarnorth.com
 roco.qq.com
 rowblocks.com
 rowblox.com
@@ -757,6 +771,7 @@ ssx3.com
 st.dl.bscstorage.net
 st.dl.eccdnx.com
 st.dl.pinyuncloud.com
+star-conflict.com
 starcraft.com
 starcraft2.com
 starfox.com
@@ -875,6 +890,7 @@ wanwan4399.com
 wariolandshakeit.com
 wariowarediy.com
 warnerbrosgames.com
+warthunder.com
 wbagora.com
 wbgames.com
 wbinsights.com
@@ -900,6 +916,7 @@ wo1wan.com
 worldflipper.akamaized.net
 worldflipper.jp
 worldofwarcraft.com
+wtmobile.com
 xbox
 xbox.co
 xbox.com
@@ -948,3 +965,6 @@ zcjbgame.com
 zenlesszonezero.com
 zhuoyou.com
 zhuoyuegame.com
+zynga.com
+zyngaplayersupport.com
+zyngapoker.com
