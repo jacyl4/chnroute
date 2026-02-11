@@ -428,6 +428,8 @@ learnwithleague.com
 ledu.com
 legendofzelda.cn
 legendofzelda.com.cn
+log-upload-os.hoyoverse.com
+log-upload.mihoyo.com
 lol-europe.com
 lolclub.org
 lolespor.com
