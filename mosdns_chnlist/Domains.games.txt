@@ -801,6 +801,7 @@ star-conflict.com
 starcraft.com
 starcraft2.com
 starfox.com
+stargazer-games.com
 starwarsbattlefront.com
 starwarsbattlefront2.com
 starwarsfallenorder.com
@@ -831,6 +832,8 @@ steamstatic.com
 steamstatic.com.8686c.com
 steamunlocked.net
 steamusercontent.com
+stellasora.global
+stellasora.jp
 supercell.com
 supercell.helpshift.com
 supercell.net
@@ -975,9 +978,15 @@ ycgame.com
 yingxiong.com
 ylands.com
 ynoproject.net
+yo-star.com
 yogify.com
 yokaverse.com
 yoshisnewisland.com
+yostar-pictures.co.jp
+yostar.cn
+yostar.co.jp
+yostar.net
+yostarplat.com
 youba.com
 yuanshen.com
 yxdmgame.com
