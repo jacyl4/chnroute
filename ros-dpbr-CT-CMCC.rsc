@@ -1280,6 +1280,7 @@ add list=dpbr-CT address=122.248.48.0/21
 add list=dpbr-CT address=122.248.56.0/22
 add list=dpbr-CT address=122.255.64.0/21
 add list=dpbr-CT address=123.49.192.0/23
+add list=dpbr-CT address=123.49.245.0/24
 add list=dpbr-CT address=123.50.160.0/19
 add list=dpbr-CT address=123.52.0.0/14
 add list=dpbr-CT address=123.58.0.0/19
@@ -6826,7 +6827,6 @@ add list=dpbr-CT address=103.156.174.0/23
 add list=dpbr-CT address=103.156.186.0/23
 add list=dpbr-CT address=103.156.228.0/23
 add list=dpbr-CT address=103.157.30.0/23
-add list=dpbr-CT address=103.157.138.0/23
 add list=dpbr-CT address=103.157.174.0/23
 add list=dpbr-CT address=103.157.212.0/23
 add list=dpbr-CT address=103.157.234.0/23
@@ -8069,7 +8069,6 @@ add list=dpbr-CT address=160.250.84.0/23
 add list=dpbr-CT address=160.250.90.0/23
 add list=dpbr-CT address=160.250.102.0/23
 add list=dpbr-CT address=160.250.104.0/23
-add list=dpbr-CT address=160.250.140.0/24
 add list=dpbr-CT address=160.250.160.0/23
 add list=dpbr-CT address=160.250.170.0/23
 add list=dpbr-CT address=160.250.214.0/23
