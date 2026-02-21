@@ -8140,6 +8140,7 @@ add dst-address=168.160.0.0/16 action=lookup table=CT
 add dst-address=170.179.0.0/16 action=lookup table=CT
 add dst-address=171.84.0.0/14 action=lookup table=CT
 add dst-address=172.81.192.0/18 action=lookup table=CT
+add dst-address=174.136.239.0/24 action=lookup table=CT
 add dst-address=175.24.0.0/14 action=lookup table=CT
 add dst-address=175.46.0.0/15 action=lookup table=CT
 add dst-address=175.102.0.0/16 action=lookup table=CT

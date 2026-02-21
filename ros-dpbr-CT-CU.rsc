@@ -8140,6 +8140,7 @@ add list=dpbr-CU address=168.160.0.0/16
 add list=dpbr-CU address=170.179.0.0/16
 add list=dpbr-CU address=171.84.0.0/14
 add list=dpbr-CU address=172.81.192.0/18
+add list=dpbr-CU address=174.136.239.0/24
 add list=dpbr-CU address=175.24.0.0/14
 add list=dpbr-CU address=175.46.0.0/15
 add list=dpbr-CU address=175.102.0.0/16
