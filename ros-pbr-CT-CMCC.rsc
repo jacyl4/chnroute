@@ -8152,6 +8152,7 @@ add dst-address=175.176.156.0/22 action=lookup table=CT
 add dst-address=175.176.176.0/22 action=lookup table=CT
 add dst-address=175.178.0.0/16 action=lookup table=CT
 add dst-address=178.219.5.0/24 action=lookup table=CT
+add dst-address=178.236.38.0/23 action=lookup table=CT
 add dst-address=178.253.239.0/24 action=lookup table=CT
 add dst-address=180.76.0.0/14 action=lookup table=CT
 add dst-address=180.86.0.0/16 action=lookup table=CT
