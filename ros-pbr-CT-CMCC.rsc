@@ -309,11 +309,6 @@ add dst-address=58.208.0.0/12 action=lookup table=CT
 add dst-address=59.32.0.0/11 action=lookup table=CT
 add dst-address=59.107.0.0/17 action=lookup table=CT
 add dst-address=59.108.0.0/16 action=lookup table=CT
-add dst-address=59.109.0.0/17 action=lookup table=CT
-add dst-address=59.109.128.0/18 action=lookup table=CT
-add dst-address=59.109.192.0/20 action=lookup table=CT
-add dst-address=59.109.208.0/21 action=lookup table=CT
-add dst-address=59.109.216.0/22 action=lookup table=CT
 add dst-address=59.151.0.0/17 action=lookup table=CT
 add dst-address=59.153.92.0/22 action=lookup table=CT
 add dst-address=59.172.0.0/14 action=lookup table=CT
@@ -3690,7 +3685,6 @@ add dst-address=117.73.16.0/21 action=lookup table=CMCC
 add dst-address=117.74.64.0/20 action=lookup table=CMCC
 add dst-address=117.79.241.0/24 action=lookup table=CMCC
 add dst-address=117.79.242.0/24 action=lookup table=CMCC
-add dst-address=117.100.128.0/17 action=lookup table=CMCC
 add dst-address=117.121.132.0/22 action=lookup table=CMCC
 add dst-address=117.122.198.0/24 action=lookup table=CMCC
 add dst-address=117.122.208.0/23 action=lookup table=CMCC
@@ -7413,7 +7407,6 @@ add dst-address=106.48.0.0/15 action=lookup table=CT
 add dst-address=106.50.0.0/16 action=lookup table=CT
 add dst-address=106.52.0.0/14 action=lookup table=CT
 add dst-address=106.75.0.0/16 action=lookup table=CT
-add dst-address=109.111.255.0/24 action=lookup table=CT
 add dst-address=109.244.0.0/16 action=lookup table=CT
 add dst-address=110.34.40.0/21 action=lookup table=CT
 add dst-address=110.40.0.0/14 action=lookup table=CT
@@ -8146,7 +8139,6 @@ add dst-address=175.176.176.0/22 action=lookup table=CT
 add dst-address=175.178.0.0/16 action=lookup table=CT
 add dst-address=178.219.5.0/24 action=lookup table=CT
 add dst-address=178.236.38.0/23 action=lookup table=CT
-add dst-address=178.253.239.0/24 action=lookup table=CT
 add dst-address=180.76.0.0/14 action=lookup table=CT
 add dst-address=180.86.0.0/16 action=lookup table=CT
 add dst-address=180.94.56.0/21 action=lookup table=CT
