@@ -1252,6 +1252,7 @@ icloudapple.cn
 icloudbox.net
 icloudbrowser.net
 icloud.ch
+icloud.cn
 icloud.com
 icloud.com.cn
 icloud-content.com
