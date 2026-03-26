@@ -124,6 +124,7 @@ capturingreality.com
 cdncl.net
 championshipseriesleague.com
 chillingo.com
+chunkbase.com
 clash.com
 clashmini.com
 clashofclans.com
@@ -223,6 +224,7 @@ fabricmc.net
 faceit-cdn.net
 faceit.com
 fanatical.com
+feihuo.com
 ffbuddy.com
 fifastreet3.com
 fifastreet.com
@@ -504,6 +506,7 @@ mihoyomall.com
 miitomo.com
 miitomo.com.cn
 miiverse.com
+minecraftforge.net
 minecraft.net
 minecraftservices.com
 minecraft-services.net
@@ -535,6 +538,7 @@ mythicentertainment.net
 mythicgames.com
 n0vadesktop.com
 nagcloudcs.com
+namemc.com
 needforspeedboost.com
 needforspeed.com
 needforspeeddriftkings.com
@@ -550,6 +554,7 @@ needforspeedtherun.com
 needforspeedtimeattack.com
 needforspeedundergroundeast.com
 nentindo.net
+neoforged.net
 newsupermariobrosu.com
 nexoncdn.co.kr
 nexon.co.jp
@@ -610,6 +615,7 @@ nzsiteres.com
 offworldindustries.com
 offworldindustries.net
 op.gg
+optifine.net
 origin.com
 origin.tv
 orithegame.com
@@ -787,6 +793,7 @@ sonyentertainmentnetwork.com
 spearhead.kr
 speedhunters.com
 speedrun.com
+spigotmc.org
 splatoon2tournament.com
 spore.com
 spyjinx.com
