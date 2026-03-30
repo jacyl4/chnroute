@@ -3099,7 +3099,7 @@ add list=dpbr-CMCC address=45.249.212.0/22
 add list=dpbr-CMCC address=45.250.28.0/22
 add list=dpbr-CMCC address=45.250.32.0/21
 add list=dpbr-CMCC address=45.250.40.0/22
-add list=dpbr-CMCC address=45.250.180.0/22
+add list=dpbr-CMCC address=45.250.180.0/23
 add list=dpbr-CMCC address=45.250.188.0/24
 add list=dpbr-CMCC address=45.251.2.0/23
 add list=dpbr-CMCC address=45.251.16.0/22
@@ -3436,13 +3436,11 @@ add list=dpbr-CMCC address=103.214.48.0/22
 add list=dpbr-CMCC address=103.215.36.0/22
 add list=dpbr-CMCC address=103.216.152.0/22
 add list=dpbr-CMCC address=103.216.240.0/22
-add list=dpbr-CMCC address=103.216.254.0/23
 add list=dpbr-CMCC address=103.218.216.0/22
 add list=dpbr-CMCC address=103.219.24.0/21
 add list=dpbr-CMCC address=103.219.32.0/21
 add list=dpbr-CMCC address=103.219.85.0/24
 add list=dpbr-CMCC address=103.219.86.0/23
-add list=dpbr-CMCC address=103.219.88.0/22
 add list=dpbr-CMCC address=103.219.92.0/24
 add list=dpbr-CMCC address=103.219.100.0/23
 add list=dpbr-CMCC address=103.220.48.0/21
