@@ -5609,6 +5609,9 @@ add dst-address=61.45.128.0/18 action=lookup table=CT
 add dst-address=61.47.128.0/18 action=lookup table=CT
 add dst-address=61.87.192.0/18 action=lookup table=CT
 add dst-address=61.144.0.0/14 action=lookup table=CT
+add dst-address=61.236.80.0/20 action=lookup table=CT
+add dst-address=61.236.96.0/20 action=lookup table=CT
+add dst-address=61.236.112.0/21 action=lookup table=CT
 add dst-address=62.234.0.0/16 action=lookup table=CT
 add dst-address=68.79.0.0/18 action=lookup table=CT
 add dst-address=69.172.70.0/24 action=lookup table=CT
@@ -7743,6 +7746,8 @@ add dst-address=122.14.0.0/16 action=lookup table=CT
 add dst-address=122.48.0.0/16 action=lookup table=CT
 add dst-address=122.49.0.0/18 action=lookup table=CT
 add dst-address=122.51.0.0/16 action=lookup table=CT
+add dst-address=122.64.0.0/16 action=lookup table=CT
+add dst-address=122.72.57.0/24 action=lookup table=CT
 add dst-address=122.102.0.0/20 action=lookup table=CT
 add dst-address=122.112.0.0/14 action=lookup table=CT
 add dst-address=122.119.0.0/16 action=lookup table=CT
@@ -7765,6 +7770,7 @@ add dst-address=123.58.224.0/20 action=lookup table=CT
 add dst-address=123.59.0.0/16 action=lookup table=CT
 add dst-address=123.60.0.0/15 action=lookup table=CT
 add dst-address=123.62.0.0/16 action=lookup table=CT
+add dst-address=123.83.128.0/17 action=lookup table=CT
 add dst-address=123.98.0.0/17 action=lookup table=CT
 add dst-address=123.99.128.0/17 action=lookup table=CT
 add dst-address=123.100.0.0/19 action=lookup table=CT
@@ -8512,6 +8518,8 @@ add dst-address=210.87.128.0/18 action=lookup table=CT
 add dst-address=210.185.192.0/18 action=lookup table=CT
 add dst-address=211.88.0.0/16 action=lookup table=CT
 add dst-address=211.98.95.0/24 action=lookup table=CT
+add dst-address=211.98.176.0/24 action=lookup table=CT
+add dst-address=211.98.188.0/23 action=lookup table=CT
 add dst-address=211.99.0.0/16 action=lookup table=CT
 add dst-address=211.100.0.0/16 action=lookup table=CT
 add dst-address=211.101.64.0/18 action=lookup table=CT
