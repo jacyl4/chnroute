@@ -5150,10 +5150,11 @@ add list=dpbr-CT address=43.109.100.0/23
 add list=dpbr-CT address=43.109.102.0/24
 add list=dpbr-CT address=43.109.105.0/24
 add list=dpbr-CT address=43.109.107.0/24
+add list=dpbr-CT address=43.109.111.0/24
 add list=dpbr-CT address=43.109.112.0/24
 add list=dpbr-CT address=43.109.114.0/23
 add list=dpbr-CT address=43.109.116.0/23
-add list=dpbr-CT address=43.109.135.0/24
+add list=dpbr-CT address=43.109.134.0/23
 add list=dpbr-CT address=43.136.0.0/13
 add list=dpbr-CT address=43.144.0.0/15
 add list=dpbr-CT address=43.148.0.0/14
