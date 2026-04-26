@@ -4315,6 +4315,9 @@ add list=dpbr-CMCC address=42.160.0.0/12
 add list=dpbr-CMCC address=42.208.0.0/12
 add list=dpbr-CMCC address=43.228.116.0/22
 add list=dpbr-CMCC address=43.231.32.0/22
+add list=dpbr-CMCC address=43.231.96.0/23
+add list=dpbr-CMCC address=43.231.98.0/24
+add list=dpbr-CMCC address=43.231.103.0/24
 add list=dpbr-CMCC address=43.239.172.0/22
 add list=dpbr-CMCC address=43.240.72.0/23
 add list=dpbr-CMCC address=43.241.49.0/24
@@ -8314,7 +8317,6 @@ add list=dpbr-CT address=170.33.98.0/24
 add list=dpbr-CT address=170.179.0.0/16
 add list=dpbr-CT address=171.84.0.0/14
 add list=dpbr-CT address=172.81.192.0/18
-add list=dpbr-CT address=174.136.239.0/24
 add list=dpbr-CT address=175.24.0.0/14
 add list=dpbr-CT address=175.46.0.0/15
 add list=dpbr-CT address=175.102.0.0/16
