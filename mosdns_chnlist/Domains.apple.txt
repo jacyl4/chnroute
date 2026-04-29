@@ -1174,6 +1174,7 @@ full:sync.itunes.apple.com
 full:tf-feedback.itunes.apple.com
 full:tj-pod1-smp-device.apple.com
 full:tv.applemusic.com
+full:universal-activity-service.itunes.apple.com
 full:updates.cdn-apple.com
 full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
