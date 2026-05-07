@@ -266,6 +266,8 @@ full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
 full:eaassets-a.akamaihd.net
 full:ea.tt.omtrdc.net
+full:end-api.shallow.ink
+full:end.shallow.ink
 full:f3b7q2p3.ssl.hwcdn.net
 full:flightsimulator.azureedge.net
 full:gamedownloads-rockstargames-com.akamaized.net
@@ -859,6 +861,7 @@ supermariorun.com
 superpapermario.com
 supersmashbros.cn
 supersmashbros.com.cn
+supr.cl
 supremacy.com
 supremacy.net
 swjedifallenorder.com
