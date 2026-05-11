@@ -997,6 +997,7 @@ full:certs-lb.apple.com.akadns.net
 full:cl1.apple.com
 full:cl1-cdn.origin-apple.com.akadns.net
 full:cl2.apple.com
+full:cl2.apple.com.edgekey.net.globalredir.akadns.net
 full:cl2-cdn.origin-apple.com.akadns.net
 full:cl2-cn.apple.com
 full:cl3.apple.com
@@ -1031,6 +1032,7 @@ full:fides-pol.apple.com
 full:gs-loc.apple.com
 full:gs-loc-cn.apple.com
 full:gsp10-ssl-cn.ls.apple.com
+full:gsp11-cn.ls.apple.com
 full:gsp12-cn.ls.apple.com
 full:gsp13-cn.ls.apple.com
 full:gsp4-cn.ls.apple.com
