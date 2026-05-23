@@ -1634,7 +1634,6 @@
 11space.com
 11sun.com
 11wow.com
-11.xn--czrs0t
 11.xn--vhquv
 11xotn7p.com
 11yinyuan.com
@@ -4260,6 +4259,7 @@
 365heart.com
 365hele.com
 365hf.com
+365.hk
 365htk.com
 365huaer.com
 365huangjin.com
@@ -14422,7 +14422,6 @@ baiduhtml5.com
 baiduhui.com
 baidu-int.com
 baidu-itm.com
-baidu.jp
 baidulook.com
 baidu-mgame.com
 baidu.mobi
@@ -18314,6 +18313,7 @@ buff8.com
 buffaloex.com
 buffst.com
 bufpay.com
+bugaicuoguo.com
 bughz.com
 bugku.com
 bugnull.com
@@ -24192,7 +24192,6 @@ cnamexingzuoy.com
 cnamico.com
 cnanzhi.com
 cnaomeng.com
-cn-api-test.lenovo.com
 cn-argo-sdc200.blurdev.com
 cnatom.com
 cnats.com
@@ -28336,6 +28335,7 @@ datafun.vip
 datagear.tech
 datagrand.com
 datag.vip
+dataheiheihome.com
 datahome2026.com
 datahubtrack.com
 datahuif.com
@@ -35254,6 +35254,7 @@ fengnayun.com
 fengniao.com
 fengniaohd.com
 fengniaojianzhan.com
+fengniaourl.com
 fengone.com
 fengpintech.com
 feng.pub
@@ -38021,6 +38022,7 @@ gamux.org
 gamxex.com
 ganboo.com
 ganduee.com
+ganfanniu.com
 gangbao365.com
 gangbogroup.com
 gangduotech.com
@@ -38556,6 +38558,7 @@ gdiso.com
 gdjdxh.com
 gdjdxy.com
 gdjhh.com
+gdjhtx.com
 gdjiabao.com
 gdjinge.com
 gdjinguan.net
@@ -45756,7 +45759,6 @@ hcschengtou.com
 hcsd123.com
 hcsdhgjzx.com
 hcsemitek.com
-hcs.globalsign.com
 hcshangwu.com
 hcsilk.com
 hcsjddc.com
@@ -49850,6 +49852,7 @@ hulubaba.com
 huluboshi.com
 huludz.com
 huluer.com
+huluer.vip
 huluip.com
 huluip.tech
 huluo.com
@@ -52720,6 +52723,7 @@ initac.com
 initaf.com
 initah.com
 initaj.com
+initak.com
 initbb.com
 initcc.com
 initdd.com
@@ -63283,6 +63287,7 @@ listentide.com
 listenvod.com
 listno1.com
 listong.com
+lisuantech.com
 lisure.com
 lisz.me
 litangkj.com
@@ -63720,12 +63725,10 @@ lmnsaas.com
 lmonkey.com
 lmparcel.com
 lmqt.com
-lm-sa.csc.edu.cn.akadns99.net
 lmschina.net
 lmscp.com
 lms.lenovo.com
 lms.pub
-lm-studyinchina.csc.edu.cn.akadns99.net
 lmtw.com
 lmu5.com
 lmujp.work
@@ -68382,6 +68385,7 @@ moonbasa.com
 moonbio.com
 moonbitlang.com
 mooncell.wiki
+moondroplab.tech
 moonfly.net
 moongood.com
 moon-insight.com
@@ -91775,6 +91779,7 @@ todolist.pub
 todonow.com
 todoyi.com
 todreamer.com
+todust.cc
 toec.com
 toec-gdgs.com
 toec-iot.com
@@ -93099,6 +93104,7 @@ tutechanhb.com
 tutengcloud.com
 tutengdai.com
 tutuapp.com
+tutu-caonima.com
 tutucloud.com
 tutudati.com
 tutuge.me
@@ -96183,6 +96189,7 @@ wankacn.net
 wan-ka.com
 wankamall.com
 wanke123.com
+wankeji.com
 wanku.com
 wanlaiwang.com
 wanlian-group.com
@@ -105660,6 +105667,7 @@ yicheshi.com
 yichezhi.com
 yichip.com
 yichi.tech
+yichkp.com
 yichuan.net
 yichuntv.com
 yichuyifan.com
