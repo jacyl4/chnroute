@@ -5725,7 +5725,6 @@ add list=dpbr-CU address=71.131.192.0/18
 add list=dpbr-CU address=71.132.0.0/18
 add list=dpbr-CU address=71.136.64.0/18
 add list=dpbr-CU address=71.137.0.0/18
-add list=dpbr-CU address=74.122.24.0/24
 add list=dpbr-CU address=78.105.182.0/23
 add list=dpbr-CU address=79.133.176.0/24
 add list=dpbr-CU address=81.68.0.0/14
@@ -6811,7 +6810,6 @@ add list=dpbr-CU address=103.146.90.0/23
 add list=dpbr-CU address=103.146.124.0/22
 add list=dpbr-CU address=103.146.138.0/23
 add list=dpbr-CU address=103.146.236.0/23
-add list=dpbr-CU address=103.146.252.0/23
 add list=dpbr-CU address=103.147.12.0/23
 add list=dpbr-CU address=103.147.124.0/23
 add list=dpbr-CU address=103.147.198.0/23
