@@ -52,6 +52,7 @@ acesofthunder.net
 ac-pocketcamp.com
 activematter.game
 aki-game.com
+aligames.com
 amiibo.com
 anthemgame.com
 anthemthegame.com
@@ -429,6 +430,8 @@ instituteofwar.org
 in.th
 itch.io
 itch.zone
+jiaoyimao.cn
+jiaoyimao.com
 joinsquad.com
 joyjoy.net
 juequling.com
@@ -472,6 +475,7 @@ learnwithleague.com
 ledu.com
 legendofzelda.cn
 legendofzelda.com.cn
+lingxigames.com
 log-upload.mihoyo.com
 log-upload-os.hoyoverse.com
 lolclub.org
