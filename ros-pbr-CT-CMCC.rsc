@@ -4638,7 +4638,6 @@ add dst-address=117.124.0.0/14 action=lookup table=CMCC
 add dst-address=150.242.52.0/22 action=lookup table=CMCC
 add dst-address=163.61.202.0/23 action=lookup table=CMCC
 add dst-address=182.51.0.0/16 action=lookup table=CMCC
-add dst-address=182.238.0.0/16 action=lookup table=CMCC
 add dst-address=202.143.100.0/22 action=lookup table=CMCC
 add dst-address=211.89.0.0/16 action=lookup table=CMCC
 add dst-address=211.146.0.0/16 action=lookup table=CMCC
@@ -8378,6 +8377,7 @@ add dst-address=182.160.64.0/19 action=lookup table=CT
 add dst-address=182.174.0.0/15 action=lookup table=CT
 add dst-address=182.236.128.0/17 action=lookup table=CT
 add dst-address=182.237.24.0/21 action=lookup table=CT
+add dst-address=182.238.0.0/16 action=lookup table=CT
 add dst-address=182.239.0.0/19 action=lookup table=CT
 add dst-address=182.254.0.0/16 action=lookup table=CT
 add dst-address=182.255.60.0/22 action=lookup table=CT
