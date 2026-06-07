@@ -277,6 +277,7 @@ full:gogalaxy.gog-statics.com
 full:gog-cdn.akamaized.net
 full:gog-cdn-fastly.gog.com
 full:gog.qtlglb.com
+full:hb.imgix.net
 full:lazer.ppy.sh
 full:lolstatic-a.akamaihd.net
 full:lv.queniujq.cn
