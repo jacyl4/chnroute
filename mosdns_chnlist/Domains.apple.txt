@@ -1056,8 +1056,6 @@ full:guzzoni.smoot.apple.com
 full:hls-amt.itunes.apple.com
 full:hls.itunes.apple.com
 full:iadsdk.apple.com
-full:icloud.cdn-apple.com
-full:icloud-cdn.icloud.com.akadns.net
 full:images.apple.com.edgekey.net.globalredir.akadns.net
 full:inappcheck-cn.itunes-apple.com.akadns.net
 full:inappcheck.itunes.apple.com
@@ -1109,15 +1107,12 @@ full:notary-submissions-prod.s3-accelerate.amazonaws.com
 full:notary-submissions-prod.s3.us-west-2.amazonaws.com
 full:np-edge.itunes.apple.com
 full:ocsp2.apple.com
-full:ocsp2-lb.apple.com.akadns.net
 full:ocsp.apple.com
-full:ocsp-lb.apple.com.akadns.net
 full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
 full:osxapps.itunes.apple.com
 full:osxapps.itunes.g.aaplimg.com
 full:pancake.apple.com
-full:pancake.cdn-apple.com.akadns.net
 full:pba0.apple.com
 full:pd.itunes.apple.com
 full:pd-nk.itunes.apple.com
@@ -1129,7 +1124,6 @@ full:probe.siri.apple.com
 full:prod-support.apple-support.akadns.net
 full:publicassets.cdn-apple.com
 full:push-apple.com.akadns.net
-full:reserve-prime.apple.com
 full:s1.mzstatic.com
 full:s2.mzstatic.com
 full:s3.mzstatic.com

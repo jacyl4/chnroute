@@ -1228,6 +1228,7 @@
 0x9.me
 0xaa55.com
 0xffffff.org
+0xffff.one
 0xiao.com
 0xjqlun2.work
 0.xn--czrs0t
@@ -5910,6 +5911,7 @@
 51yugou.com
 51yund.com
 51yundong.me
+51yunzhi.com
 51ywx.com
 51yxcyy.com
 51yxky.com
@@ -19333,6 +19335,7 @@ ca-tencentclb.net
 ca-tencentclb.work
 catering-shizuoka.com
 catfish-cms.com
+catfk.com
 catguo.com
 cathassist.org
 cathayagroup.com
@@ -22865,6 +22868,7 @@ chuairan.com
 chuaizhe.com
 chualamdimsum.com
 chuanboyi.com
+chuanboyu.com
 chuandaizc.com
 chuandasolar.com
 chuandong.com
@@ -29145,6 +29149,7 @@ dgjwsy.com
 dgjxmk.com
 dgjx.net
 dgjy.net
+dgkfa.com
 dgkj888.com
 dglpool.com
 dglyjx.com
@@ -32589,6 +32594,7 @@ e-ging.net
 e-giordano.com
 egoint.com
 egongzheng.com
+egonlin.com
 egooad.com
 egood995.com
 egoonet.com
@@ -36589,6 +36595,7 @@ full:checkin.gstatic.com
 full:cl1.apple.com
 full:cl1-cdn.origin-apple.com.akadns.net
 full:cl2.apple.com
+full:cl2.apple.com.edgekey.net.globalredir.akadns.net
 full:cl2-cdn.origin-apple.com.akadns.net
 full:cl2-cn.apple.com
 full:cl3.apple.com
@@ -36734,6 +36741,7 @@ full:googlevads-cn.com
 full:gs-loc.apple.com
 full:gs-loc-cn.apple.com
 full:gsp10-ssl-cn.ls.apple.com
+full:gsp11-cn.ls.apple.com
 full:gsp12-cn.ls.apple.com
 full:gsp13-cn.ls.apple.com
 full:gsp4-cn.ls.apple.com
@@ -36761,8 +36769,6 @@ fullhan.com
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:hospital.pku.edu.cn
-full:icloud.cdn-apple.com
-full:icloud-cdn.icloud.com.akadns.net
 fullics.com
 full:i.dell.com
 full:images.apple.com.edgekey.net.globalredir.akadns.net
@@ -36869,9 +36875,7 @@ full:ntp.aliyun.com
 full:ntp.tencent.com
 full:oasisauth.h3c.com
 full:ocsp2.apple.com
-full:ocsp2-lb.apple.com.akadns.net
 full:ocsp.apple.com
-full:ocsp-lb.apple.com.akadns.net
 full:ocsp.pki.goog
 full:oemsoc.download.prss.microsoft.com
 full:officecdn.microsoft.com
@@ -36914,7 +36918,6 @@ full:p8-juejin.byteimg.com
 full:p9-juejin.byteimg.com
 full:pagead-googlehosted.l.google.com
 full:pancake.apple.com
-full:pancake.cdn-apple.com.akadns.net
 full:pba0.apple.com
 full:p.cdn.persaas.dell.com
 full:pd.itunes.apple.com
@@ -36948,7 +36951,6 @@ full:redirector.xn--ngstr-lra8j.com
 full:refresh-bkg.activation-v2.kaspersky.com
 full:res-1.cdn.office.net
 full:res.cdn.office.net
-full:reserve-prime.apple.com
 full:router.asus.com
 full:routerlogin.com
 full:s00.upd.kaspersky.com
@@ -43884,6 +43886,7 @@ h5abc.com
 h5anli.com
 h5app.com
 h5avu.com
+h5cmpassport.com
 h5cn.com
 h5data.com
 h5designer.com
@@ -46874,6 +46877,7 @@ hjdzn.com
 hjenglish.com
 hjg365.com
 hjgcd.com
+hjgroup-sdq.com
 hjgrp.com
 hjgtjt.com
 hjhrcloud.com
@@ -51726,6 +51730,7 @@ ihourglass.club
 ihqfo.org
 ihr360.com
 ihrscloud.com
+ihsiao.com
 ihst8.com
 ihstatic.com
 ihtcboy.com
@@ -60014,6 +60019,7 @@ ksydns.com
 ksydx.com
 ksyiqiwan.com
 ksyll.com
+ksymsbz.com
 ksyna.com
 ksyunad.com
 ksyuncdn.com
@@ -65609,6 +65615,7 @@ marchinfo.com
 marco-bj.com
 marcopolochina.com
 marginalk.com
+maria23.com
 mariedalgar.com
 marimekko-hots.com
 marine-dancer.com
@@ -65978,10 +65985,12 @@ mcypls.com
 mcyz.com
 mczhihui.com
 mczmb.org
+mczsok.com
 mczwlt.net
 mczyz.com
 mczz.net
 md5ma.com
+mdaehx.com
 mdapp.tv
 mdbchina.com
 mdbimg.com
@@ -67119,6 +67128,7 @@ minebbs.com
 minecraftxz.com
 minecraftzw.com
 minegoods.com
+mineharmony.cc
 minei.com
 mineplugin.org
 minerhome.com
@@ -74190,6 +74200,7 @@ pinkehao.com
 pinkertech.com
 pinkoichina.com
 pinkou.com
+pinkr.com
 pinla.com
 pinlyu.com
 pinmanduo.com
@@ -80610,6 +80621,7 @@ scm121.com
 scmccboss.com
 scmchem.com
 scmfair.com
+scmggzbh.com
 scmor.com
 scmroad.com
 scmsky.com
@@ -86358,6 +86370,7 @@ steampp.net
 steamproxy.net
 steampy.com
 steamrepcn.com
+steam-run.com
 s-tech.com
 stec.net
 stecn.org
@@ -87546,6 +87559,7 @@ syhuayang.com
 syhzdj.net
 syhzx.com
 syhzzf.com
+syiban.com
 syiptv.com
 syitgz.com
 syjcly.com
@@ -93898,6 +93912,7 @@ uucnn.com
 uucqrdmk.com
 uueasy.com
 uuedutech.com
+uufaka.com
 uufund.com
 uufuns.com
 uugai.com
@@ -95378,6 +95393,7 @@ waluer.com
 walvax.com
 wamawama.com
 wamila.com
+wamoyu.com
 wan1234.com
 wan123x.com
 wan32.com
@@ -99259,6 +99275,7 @@ wy6000.com
 wya1.com
 wybgs.com
 wybosch.com
+wybuddhist.com
 wybzdwss.com
 wycad.com
 wycfw.com
@@ -101067,6 +101084,7 @@ ximiplay.com
 ximitools.com
 ximiyouxi.com
 ximmerse.com
+ximofood.com
 ximogo.com
 ximuw.com
 xin1234.com
@@ -103432,6 +103450,7 @@ xxykgl.com
 xxymdy.com
 xxymw.com
 xxyo.com
+xxyoil.com
 xxys2023.com
 xxyw.com
 xxyx.ltd
@@ -109061,6 +109080,7 @@ zchmh.com
 zchospital.com
 zchrgroup.com
 zcict.com
+zcidclink.com
 zcimg.com
 zcinfo.net
 zc-it.com
