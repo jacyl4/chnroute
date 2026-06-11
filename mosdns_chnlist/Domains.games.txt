@@ -213,8 +213,6 @@ electronicarts.com
 electronicarts.fr
 embark.games
 embark-studios.com
-eneba.com
-eneba.games
 enlisted.net
 epicgamescdn.com
 epicgames.com
@@ -228,6 +226,7 @@ faceit.com
 fanatical.com
 feihuo.com
 ffbuddy.com
+ficgs.com
 fifastreet3.com
 fifastreet.com
 fireemblemawakening.com
@@ -359,6 +358,8 @@ gamemei.com
 gamepass.com
 game-repack.site
 gamesfirsthelsinki.com
+gamesplanet.com
+gametap.com
 garena.co.id
 garena.com
 garena.co.th
@@ -392,6 +393,7 @@ goto-game.net.cn
 goto-game.org
 gotolink.net
 gouhuo.qq.com
+gpstatic.com
 gstore.val.manlaxy.com
 gtgres.com
 guoping123.com
@@ -586,7 +588,9 @@ newsupermariobrosu.com
 nexoncdn.co.kr
 nexon.co.jp
 nexon.com
+nexongames.co.kr
 nexon.io
+nexon.net
 nextstudios.com
 nextworkshop.net
 nexus-cdn.com
