@@ -51,7 +51,6 @@ abdf002.com
 acesofthunder.net
 ac-pocketcamp.com
 activematter.game
-aki-game.com
 aligames.com
 amiibo.com
 anthemgame.com
@@ -310,6 +309,7 @@ full:steampipe.akamaized.net
 full:steampipe-kr.akamaized.net
 full:steampipe-partner.akamaized.net
 full:steamstore-a.akamaihd.net
+full:steamugcquincy.blob.core.windows.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
@@ -458,8 +458,6 @@ konami.org
 konamisportsclub.jp
 konamistyle.jp
 kraftonde.com
-kurogames.com
-kurogames.net
 kyurem.com
 labycore.cn
 langrenclub.com
