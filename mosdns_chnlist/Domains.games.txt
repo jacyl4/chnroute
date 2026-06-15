@@ -8,6 +8,10 @@
 2kweb.online
 3304399.com
 3304399.net
+37.com
+37.com.cn
+37wanimg.com
+37wan.net
 3839apk.com
 3839app.com
 3839app.net
@@ -122,8 +126,10 @@ camelotherald.com
 camelotherald.net
 capitalgames.com
 capturingreality.com
+cbjq.com
 cdncl.net
 championshipseriesleague.com
+changyou.com
 chillingo.com
 chunkbase.com
 clash.com
@@ -145,6 +151,7 @@ csgo.wmsj.cn
 cubicmotion.com
 cubicodyssey.game
 curseforge.com
+cy.com
 cygames.co.jp
 cygames.jp
 daoc.net
@@ -663,6 +670,7 @@ play4free.com
 playapex.com
 playartifact.com
 playbattlegrounds.com
+playcool.com
 playhearthstone.com
 playnintendo.com
 playoverwatch.com
@@ -806,6 +814,9 @@ scsentry.cn
 sdo.com
 seagroup.com
 seaofsolitude.com
+seasungames.cn
+seasungames.com
+seasunwbl.com
 seeurlpcl.com
 sekai.colorfulpalette.org
 shadowcomplex.com
@@ -856,6 +867,7 @@ steam.cdn.webra.ru
 steam-chat.com
 steamchina.com
 steamcommunity.com
+steamconnecttest.com
 steamcontent.com
 steamdb.info
 steamdeck.com
@@ -906,6 +918,7 @@ teamneedforspeed.com
 tellmewhygame.com
 tencent-gcloud.com
 tencentstart.com
+testplus.cn
 texasholdemcup.cn
 texasholdemcup.com
 texasholdemcup.net
@@ -1023,9 +1036,12 @@ xdsummit.com
 xenoblade.com
 xhlsgs.com
 xinwuji.com
+xishanju.com
 xn--mts47c3w9b1qr.cn
 xn--mts47c3w9b1qr.net
 xn--owtw8cc49ajfl.cn
+xoyocdn.com
+xoyo.com
 ycgame.com
 yingxiong.com
 ylands.com
