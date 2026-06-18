@@ -320,6 +320,8 @@ full:steamugcquincy.blob.core.windows.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
+full:supercell.helpshift.com
+full:supercell.zendesk.com
 full:ubisoft-orbit-savegames.s3.amazonaws.com
 full:ubisoft.siteintercept.qualtrics.com
 full:ubisoft-uplay-savegames.s3.amazonaws.com
@@ -890,7 +892,6 @@ supercell.com
 supercellcommunity.cn
 supercellcreators.com
 supercellgames.com
-supercell.helpshift.com
 supercellid.com
 supercell.net
 supercellstore.com
