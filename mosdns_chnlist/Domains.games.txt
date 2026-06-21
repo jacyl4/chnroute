@@ -279,9 +279,8 @@ full:end.shallow.ink
 full:f3b7q2p3.ssl.hwcdn.net
 full:flightsimulator.azureedge.net
 full:gamedownloads-rockstargames-com.akamaized.net
-full:gogalaxy.gog-statics.com
 full:gog-cdn.akamaized.net
-full:gog-cdn-fastly.gog.com
+full:gog-cdn-lumen.secure2.footprint.net
 full:gog.qtlglb.com
 full:hb.imgix.net
 full:lazer.ppy.sh
@@ -289,14 +288,12 @@ full:lolstatic-a.akamaihd.net
 full:lv.queniujq.cn
 full:m1.ppy.sh
 full:media-rockstargames-com.akamaized.net
-full:menu-static.gog-statics.com
 full:notify.ppy.sh
 full:opgg-static.akamaized.net
 full:origin-a.akamaihd.net
 full:osu.ppy.sh
 full:prd-priconne-redive.akamaized.net
 full:prodforza.blob.core.windows.net
-full:productcard.gog-statics.com
 full:pubg1.battleye.com
 full:robloxcorp.s.llnwi.net
 full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
@@ -305,7 +302,6 @@ full:rtm.tnt-ea.com
 full:sentry.ppy.sh
 full:spectator.ppy.sh
 full:ssl-lvlt.cdn.ea.com
-full:static-login.gog-statics.com
 full:steambroadcast.akamaized.net
 full:steamcdn-a.akamaihd.net
 full:steamcloudsweden.blob.core.windows.net
@@ -352,7 +348,6 @@ full:ubistatic9-a.akamaihd.net
 full:uplaypc-s-ubisoft.cdn.ubi.com
 full:videos-rockstargames-com.akamaized.net
 full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
-full:www4-static.gog-statics.com
 full:xz.pphimalayanrt.com
 funnycore.com
 futpromos.com
@@ -741,12 +736,9 @@ rbxtrk.com
 reachthefinals.com
 realcybertron.com
 realityscan.com
-regexp:^cdn-akamai-.+.gog-services.com$
 regexp:^cdnd-epicgames-d+.file.myqcloud.com$
 regexp:^epicgames-downloadd.akamaized.net$
 regexp:^epicgames-downloadd-d+.file.myqcloud.com$
-regexp:^gog-cdn-.+.footprint.net$
-regexp:^images(-d)?.gog-statics.com$
 regexp:^.+-mihayo.akamaized.net$
 renovacionxboxlive.com
 resellablue.com
