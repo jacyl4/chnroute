@@ -147,6 +147,7 @@ cowlevel.net
 crossout.net
 crsed.net
 crysis.jp
+csgo.com.cn
 csgo.wmsj.cn
 cubicmotion.com
 cubicodyssey.game
@@ -177,6 +178,7 @@ dodi-repacks.site
 donkeykongcountryreturns.com
 doom.com
 dota2.com
+dota2.com.cn
 dota2.wmsj.cn
 dragonage.com
 dragonagekeep.com
@@ -389,7 +391,9 @@ giratina.com
 gloryofheracles.com
 goblocks.com
 goblox.com
+gogalaxy.com
 gog.com
+gog-services.com
 gog-statics.com
 gooblox.com
 goto-game.com
@@ -434,6 +438,7 @@ ihappystudio.com
 ihykb.com
 img4399.com
 industrialtoys.com
+insights-collector.gog.com
 instituteofwar.org
 in.th
 itch.io
@@ -465,6 +470,7 @@ kraftonde.com
 kyurem.com
 labycore.cn
 langrenclub.com
+laohu.com
 lcsmerch.com
 leaguehighschool.com
 leagueoflegends.ca
@@ -993,6 +999,7 @@ wiivc.net
 winegame.net
 wmsj.cn
 wmsjsteam.com
+wmupd.com
 wo1wan.com
 worldflipper.akamaized.net
 worldflipper.jp

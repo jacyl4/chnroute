@@ -10514,6 +10514,7 @@ adx.ms
 adxpand.com
 adx.pw
 adxqd.com
+adxsenmeng.com
 adxvip.com
 adxwork.com
 adxyun.com
@@ -11696,6 +11697,7 @@ aliddmall.com
 alidns.com
 alidns.net
 alidnsv4.com
+alidnsv5.com
 aliedge.com
 aliensidea.com
 alientek.com
@@ -31301,6 +31303,7 @@ dxjt2013.com
 dxjzz666.com
 dxlfile.com
 dx-marine.com
+dxmbaoxian.com
 dxm-cdn.com
 dxm-int.com
 dxmjinr.com
@@ -36358,6 +36361,10 @@ full:apptrailers.itunes.apple.com
 full:asusrouter.com
 full:auth.music.apple.com
 full:avail.googleflights.net
+full:azuremigrate.download.prss.microsoft.com
+full:azuremigratetest.download.prss.microsoft.com
+full:azurestackhub.download.prss.microsoft.com
+full:azurestackhubuat.download.prss.microsoft.com
 full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
 full:b.c2r.ts.cdn.office.net
@@ -36365,15 +36372,13 @@ full:beacons2.gvt2.com
 full:beacons3.gvt2.com
 full:beacons.gcp.gvt2.com
 full:beacons.gvt2.com
-full:bg4.v4.a.dl.ws.microsoft.com
-full:bg.v4.a.dl.ws.microsoft.com
 full:bj1.api.bing.com
 full:bookkeeper.itunes.apple.com
-full:build.microsoft.com
 full:cache-management-prod.google.com
 full:cache.pack.google.com
 full:c.admob.com
 full:c.android.clients.google.com
+full:cbdstest.download.prss.microsoft.com
 full:cdn1.apple-mapkit.com
 full:cdn2.apple-mapkit.com
 full:cdn3.apple-mapkit.com
@@ -36386,7 +36391,6 @@ full:cdn-cn3.apple-mapkit.com
 full:cdn-cn4.apple-mapkit.com
 full:cdn-cn.apple-mapkit.com
 full:cdn.globalsigncdn.com.cdn.cloudflare.net
-full:cdn.marketplaceimages.windowsphone.com
 full:cds.apple.com
 full:cds.apple.com.akadns.net
 full:cdsassets.apple.com
@@ -36420,6 +36424,8 @@ full:cn.download.nvidia.com
 full:cn-smp-paymentservices.apple.com
 full:cn.widevine.com
 full:cn.windowssearch.com
+full:collaborate.download.prss.microsoft.com
+full:collaborateppe.download.prss.microsoft.com
 full:communities.apple.com
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
@@ -36450,7 +36456,6 @@ full:dd-cdn.origin-apple.com.akadns.net
 full:dds.dell.com
 fullde.com
 full:dejavu.apple.com
-full:devblogs.microsoft.com
 full:developer.microsoft.com
 full:devimages-cdn.apple.com
 full:devstreaming-cdn.apple.com
@@ -36479,7 +36484,6 @@ full:dnl-16.geo.kaspersky.com
 full:dnl-17.geo.kaspersky.com
 full:dnl-18.geo.kaspersky.com
 full:dnl-19.geo.kaspersky.com
-full:docs.microsoft.com
 full:doubleclick-cn.net
 full:doubleclick.net
 full:download.developer.apple.com
@@ -36488,6 +36492,8 @@ full:download.microsoft.com
 full:download.mlcc.google.com
 full:download.tensorflow.google.com
 full:download.visualstudio.microsoft.com
+full:dreamspark.download.prss.microsoft.com
+full:dreamsparkuat.download.prss.microsoft.com
 full:ea2cn-dev-outlet.dell.com
 full:ea2cn-prod-outlet.dell.com
 full:ea2cn-staging-outlet.dell.com
@@ -36503,7 +36509,6 @@ full:firebase-settings.crashlytics.com
 full:fontfiles.googleapis.com
 full:fonts.googleapis.com
 full:fonts.gstatic.com
-full:fs.microsoft.com
 full:ftaapj.dell.com
 full:fta.dell.com
 full:ftaemea.dell.com
@@ -36606,6 +36611,8 @@ full:is4-ssl.mzstatic.com
 full:is5.mzstatic.com
 full:is5-ssl.mzstatic.com
 full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+full:itacademy.download.prss.microsoft.com
+full:itacademyuat.download.prss.microsoft.com
 full:itunes.apple.com
 full:itunes-apple.com.akadns.net
 full:itunesconnect.apple.com
@@ -36636,13 +36643,16 @@ full:ksn-url-geo.kaspersky-labs.com
 full:ksn-url.geoksn.kaspersky.com
 full:ksn-verdict-geo.kaspersky-labs.com
 full:ksn-verdict.geoksn.kaspersky.com
-full:learn.microsoft.com
+full:lex.download.prss.microsoft.com
+full:lexuat.download.prss.microsoft.com
 fulllinks.com
 full:local.adguard.org
 fullluckcalendar.com
 full:lv.queniujq.cn
 full:maps.apple.com
+full:mbs.download.prss.microsoft.com
 full:mdr.ksn.kaspersky-labs.com
+full:mensura.cdn-apple.com
 full:mesu.apple.com
 full:mesu-cdn.apple.com.akadns.net
 full:mesu-china.apple.com.akadns.net
@@ -36650,6 +36660,12 @@ full:misc-assets.itunes.apple.com
 full:miwifi.com
 full:ml.cdn-apple.com
 full:moocs.unipus.cn
+full:mpnbenefits.download.prss.microsoft.com
+full:mpnbenefitsrtl.download.prss.microsoft.com
+full:mpnbenefitsrtluat.download.prss.microsoft.com
+full:msdn.download.prss.microsoft.com
+full:msdprod-ad.download.prss.microsoft.com
+full:msproduct.download.prss.microsoft.com
 full:music.apple.com
 full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
@@ -36676,11 +36692,15 @@ full:ocsp2.apple.com
 full:ocsp.apple.com
 full:ocsp.pki.goog
 full:oemsoc.download.prss.microsoft.com
+full:oemsocuat.download.prss.microsoft.com
 full:officecdn.microsoft.com
+full:officemkt.download.prss.microsoft.com
+full:officemktuat.download.prss.microsoft.com
 full:opencourse.pku.edu.cn
 full:o.pki.goog
 full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
+full:osrelease.download.prss.microsoft.com
 full:osxapps.itunes.apple.com
 full:osxapps.itunes.g.aaplimg.com
 full:p00.upd.kaspersky.com
@@ -36746,10 +36766,9 @@ full:redirector.offline-maps.gvt1.com
 full:redirector.snap.gvt1.com
 full:redirector.xn--ngstr-lra8j.com
 full:refresh-bkg.activation-v2.kaspersky.com
-full:res-1.cdn.office.net
-full:res.cdn.office.net
 full:router.asus.com
 full:routerlogin.com
+full:rsm.download.prss.microsoft.com
 full:s00.upd.kaspersky.com
 full:s01.upd.kaspersky.com
 full:s02.upd.kaspersky.com
@@ -36815,7 +36834,9 @@ full:stocks-sparkline-lb.apple.com.akadns.net
 full:store.apple.com
 full:store.apple.com.edgekey.net
 full:store.apple.com.edgekey.net.globalredir.akadns.net
+full:storecorefulfillment.download.prss.microsoft.com
 full:storeedgefd.dsx.mp.microsoft.com
+full:storeedge.microsoft.com
 full:store.storeimages.apple.com.akadns.net
 full:store.storeimages.cdn-apple.com
 full:streamingaudio.itunes.apple.com
@@ -36824,6 +36845,7 @@ full:su.itunes.apple.com
 full:support.apple.com
 full:supportassist.dell.com
 full:support-china.apple-support.akadns.net
+full:surface.download.prss.microsoft.com
 full:surface.downloads.prss.microsoft.com
 full:swallow.apple.com
 full:swallow-apple-com.v.aaplimg.com
@@ -36859,6 +36881,8 @@ full:uplaypc-s-ubisoft.cdn.ubi.com
 full:upp.itunes.apple.com
 full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
+full:vlportal.download.prss.microsoft.com
+full:volic.download.prss.microsoft.com
 full:vscode.download.prss.microsoft.com
 full:vz.download.prss.microsoft.com
 full-way.com
@@ -36868,8 +36892,7 @@ full:weather-data.apple.com.akadns.net
 full:weatherkit.apple.com
 full:weather-map2.apple.com
 full:weather-map.apple.com
-full:wscont1.apps.microsoft.com
-full:wscont2.apps.microsoft.com
+full:windbg.download.prss.microsoft.com
 full:www.amd.com
 full:www.apple.com
 full:www.apple.com.edgekey.net.globalredir.akadns.net
@@ -36881,7 +36904,6 @@ full:www.entrust.cn
 full:www-google-analytics.l.google.com
 full:www-googletagmanager.l.google.com
 full:www.gstatic.com
-full:www.microsoft.com
 full:www.miwifi.com
 full:www.pxcc.com
 full:www.recaptcha-cn.net
@@ -65649,6 +65671,7 @@ mcool.com
 mcpemaster.com
 mcpfks.com
 mcpmaid.com
+mcpworld.com
 mcq93.app
 mcqy.net
 mcsafebox.com
@@ -68647,6 +68670,7 @@ mysqil.com
 mysql360.com
 mysqlab.net
 myssl.com
+myssl-uri.com
 mystarch.com
 my.st.com
 mysteelcdn.com
@@ -73426,6 +73450,7 @@ perfcode.com
 perfect99.com
 perfectdiary.com
 perfect-input.com
+perfectlingo.com
 perfecttradinghk.com
 perfectwatchen.com
 perfertw.com
@@ -74877,6 +74902,7 @@ pvzbaike.com
 pw1999.com
 pw88.com
 pwand.com
+pwcinema.com
 pwdding.icu
 pwithe.com
 pwjptdg.xyz
@@ -81269,6 +81295,7 @@ sffdj.com
 sf-financial.com
 sf-freight.com
 sfgj.org
+sf.global
 sfgy.org
 sfhaa.com
 sfht.com
@@ -88870,6 +88897,7 @@ tcnvmms.com
 tcoejox.shop
 tcomall.com
 tcp5.com
+tcp-crm.com
 tcp.hk
 tcping8.com
 tcp.mk
@@ -91594,6 +91622,7 @@ trusple.com
 trust400.com
 trusta-lawyer.com
 trustasia.com
+trustasia.net
 trustcn.com
 trustdecision.com
 trustedsign.com
