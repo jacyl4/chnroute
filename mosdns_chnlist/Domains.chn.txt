@@ -36278,6 +36278,7 @@ full:a2.mzstatic.com
 full:a3.mzstatic.com
 full:a4.mzstatic.com
 full:a5.mzstatic.com
+full:account-cn.alibabacloud.com
 full:activate.activation-v2.kaspersky.com
 full:activation-v2.geo.kaspersky.com
 full:activation-v2.kaspersky.com
@@ -36299,6 +36300,7 @@ full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
 full:aod-ssl.itunes.apple.com
+full:api.alibabacloud.com
 full:api-edge.apps.apple.com
 full:app-analytics-services.com
 full:appldnld.apple.com
@@ -36372,6 +36374,7 @@ full:clientflow.apple.com.akadns.net
 full:clientperipherals.dell.com
 full:clientservices.googleapis.com
 full:cma.itunes.apple.com
+full:cn.alibabacloud.com
 full:cn.download.nvidia.com
 full:cn-smp-paymentservices.apple.com
 full:cn.widevine.com
@@ -36781,6 +36784,7 @@ full:staging-databe.floonet.goog
 full:staging.databe.floonet.goog
 full:static.gc.apple.com
 full:statics.teams.cdn.office.net
+full:status.alibabacloud.com
 full:stocks-sparkline.apple.com
 full:stocks-sparkline-lb.apple.com.akadns.net
 full:store.apple.com
