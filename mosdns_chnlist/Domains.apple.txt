@@ -307,6 +307,7 @@ apple.ro
 apple.rs
 apple.ru
 apple.sa
+appleschoolcontent.com
 applescreensavers.com
 applescript.info
 apple.se
@@ -406,6 +407,7 @@ app-store.wang
 appule.com
 appye.com
 apyle.com
+apzones.com
 asto.re
 aucheapbeats.com
 audiobeatsau.com
@@ -415,6 +417,7 @@ auricularemonsterbeats.com
 auricularesbeatsbaratosshop.com
 auricularesbeatsmarkt.com
 ausbeatsbydrdre.com
+axm-usercontent-apple.com
 bag-glasses1.com
 bandgirlz.com
 baxsound.com
@@ -1254,6 +1257,7 @@ icloud.cn
 icloud.com
 icloud.com.cn
 icloud-content.com
+icloud-content.com.cn
 icloud.de
 icloude.com
 icloud.ee
