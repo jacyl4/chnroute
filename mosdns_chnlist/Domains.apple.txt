@@ -362,6 +362,7 @@ applestore.qa
 applestore.sg
 apple-store.wang
 applestore.wang
+apple-studies.com
 applesurveys.com
 appleswift.com
 appletaiwan.com
@@ -1030,8 +1031,10 @@ full:devstreaming-cdn.apple.com
 full:discussionschinese.apple.com
 full:download.developer.apple.com
 full:downloaddispatch.itunes.apple.com
+full:entitlements-edge.itunes.apple.com
 full:experiments.apple.com
 full:fides-pol.apple.com
+full:fpinit.itunes.apple.com
 full:gs-loc.apple.com
 full:gs-loc-cn.apple.com
 full:gsp10-ssl-cn.ls.apple.com
@@ -1063,7 +1066,6 @@ full:images.apple.com.edgekey.net.globalredir.akadns.net
 full:inappcheck-cn.itunes-apple.com.akadns.net
 full:inappcheck.itunes.apple.com
 full:inappcheck-lb.itunes-apple.com.akadns.net
-full:ingest.apple-studies.com
 full:init.ess.apple.com
 full:init.gc.apple.com
 full:init.gc-lb.apple.com.akadns.net
