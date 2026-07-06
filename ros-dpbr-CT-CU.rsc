@@ -4473,6 +4473,7 @@ add list=dpbr-CU address=114.208.0.0/14
 add list=dpbr-CU address=115.104.0.0/14
 add list=dpbr-CU address=115.180.0.0/16
 add list=dpbr-CU address=116.85.16.0/22
+add list=dpbr-CU address=116.242.224.0/19
 add list=dpbr-CU address=117.48.0.0/18
 add list=dpbr-CU address=117.48.64.0/19
 add list=dpbr-CU address=117.48.144.0/20
