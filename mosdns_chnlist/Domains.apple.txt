@@ -961,6 +961,7 @@ full:amp-api-edge-lb.itunes-apple.com.akadns.net
 full:amp-api-edge.music.apple.com
 full:amp-api.media.apple.com
 full:amp-api.music.apple.com
+full:amp-api.podcasts.apple.com
 full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
@@ -977,7 +978,6 @@ full:apps.apple.com
 full:app-site-association.cdn-apple.com
 full:apps.mzstatic.com
 full:apptrailers.itunes.apple.com
-full:auth.music.apple.com
 full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
 full:beatselectronicsllc.tt.omtrdc.net
@@ -1126,6 +1126,8 @@ full:p-events-delivery.akamaized.net
 full:play-edge.itunes.apple.com
 full:play.itunes.apple.com
 full:play.music.apple.com
+full:podcasts.apple.com
+full:podcasts.itunes.apple.com
 full:probe.siri.apple.com
 full:prod-support.apple-support.akadns.net
 full:publicassets.cdn-apple.com
