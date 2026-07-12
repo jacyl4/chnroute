@@ -191,6 +191,9 @@ drmario-world.com
 dungeonkeeper.cn
 dungeonkeeper.com
 dungeonkeeper.com.cn
+duoyi.com
+duoyigroup.cn
+duoyiwangluo.com
 eaaccess.com
 ea-anz-press.com
 eablackbox.com
@@ -412,6 +415,7 @@ gtgres.com
 guoping123.com
 hackyourconsole.com
 haohaowan.net
+happyelements.com
 happyhlddz.com
 hayday.com
 haydaygame.com
@@ -492,6 +496,7 @@ learnwithleague.com
 ledu.com
 legendofzelda.cn
 legendofzelda.com.cn
+leyuansu.com
 lingxigames.com
 log-upload.mihoyo.com
 log-upload-os.hoyoverse.com
@@ -1057,6 +1062,7 @@ xoyo.com
 ycgame.com
 yeyoucdn.com
 yeyou.com
+ygduoyi.com
 yingxiong.com
 yjwujian.cn
 ylands.com
