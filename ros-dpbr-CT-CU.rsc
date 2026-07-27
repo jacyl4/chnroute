@@ -8226,6 +8226,7 @@ add list=dpbr-CU address=160.202.216.0/21
 add list=dpbr-CU address=160.202.224.0/19
 add list=dpbr-CU address=160.236.78.0/23
 add list=dpbr-CU address=160.236.148.0/23
+add list=dpbr-CU address=160.236.162.0/23
 add list=dpbr-CU address=160.250.14.0/23
 add list=dpbr-CU address=160.250.16.0/22
 add list=dpbr-CU address=160.250.24.0/23
@@ -8460,6 +8461,7 @@ add list=dpbr-CU address=183.91.144.0/20
 add list=dpbr-CU address=183.182.0.0/19
 add list=dpbr-CU address=185.39.51.0/24
 add list=dpbr-CU address=185.116.90.0/24
+add list=dpbr-CU address=186.241.179.0/24
 add list=dpbr-CU address=186.241.181.0/24
 add list=dpbr-CU address=188.131.128.0/17
 add list=dpbr-CU address=188.220.7.0/24
