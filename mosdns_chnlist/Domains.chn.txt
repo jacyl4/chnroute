@@ -36469,6 +36469,8 @@ full:time.amazonaws.cn
 full:time.izatcloud.net
 full:time.xtracloud.net
 full:tj-pod1-smp-device.apple.com
+full:tj-pod2-smp-device.apple.com
+full:tj-pod3-smp-device.apple.com
 full:tools.google.com
 full:tplogin.cn
 full:tp.louisvuitton.com
@@ -64182,6 +64184,7 @@ madajiefood.com
 madaomall.com
 madboxi.com
 madefuns.com
+made-in-china.com
 madeinchinastone.com
 madewei.com
 madiancan.com
@@ -65914,6 +65917,7 @@ micro-x.net
 microyan.com
 microzuji.com
 mic-s.com
+micstatic.com
 mictormedical.com
 micu.hk
 micun.com
@@ -73584,6 +73588,7 @@ powerchinayun.com
 powercx.com
 powerde.com
 powereasy.net
+poweremarket.com
 powerex1.com
 powerflow-tech.com
 powerfulchina.com
