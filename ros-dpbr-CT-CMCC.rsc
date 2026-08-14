@@ -3994,7 +3994,6 @@ add list=dpbr-CMCC address=175.102.132.0/22
 add list=dpbr-CMCC address=175.102.178.0/23
 add list=dpbr-CMCC address=175.102.180.0/22
 add list=dpbr-CMCC address=175.102.184.0/24
-add list=dpbr-CMCC address=175.106.128.0/17
 add list=dpbr-CMCC address=175.146.0.0/15
 add list=dpbr-CMCC address=175.148.0.0/14
 add list=dpbr-CMCC address=175.152.0.0/14
@@ -8428,6 +8427,7 @@ add list=dpbr-CT address=174.136.239.0/24
 add list=dpbr-CT address=175.24.0.0/14
 add list=dpbr-CT address=175.46.0.0/15
 add list=dpbr-CT address=175.102.0.0/16
+add list=dpbr-CT address=175.106.128.0/17
 add list=dpbr-CT address=175.111.144.0/20
 add list=dpbr-CT address=175.111.160.0/20
 add list=dpbr-CT address=175.111.184.0/22
