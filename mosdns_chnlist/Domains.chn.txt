@@ -35929,7 +35929,6 @@ full:adcdownload.apple.com
 full:adcdownload.apple.com.akadns.net
 full:admob-cn.com
 full:adservice.google.com
-full:afcs.dell.com
 full:ai.zhaomi.cn
 full:alibaba.cdn.steampipe.steamcontent.com
 full:amp-api.apps.apple.com
@@ -36015,7 +36014,6 @@ full:clickserver.googleads.com
 full:client-api.itunes.apple.com
 full:clientflow.apple.com
 full:clientflow.apple.com.akadns.net
-full:clientperipherals.dell.com
 full:clientservices.googleapis.com
 full:cma.itunes.apple.com
 full:cn.alibabacloud.com
@@ -36044,7 +36042,6 @@ full:cstat.cdn-apple.com
 full:ctdsb.clouddiffuse.xyz
 full:ctldl.windowsupdate.com
 full:cueme-api.quark.cn
-full:customization-cdn.dell.com
 full:dartsearch-cn.net
 full:dc1-cert.ksn.kaspersky-labs.com
 full:dc1-file.ksn.kaspersky-labs.com
@@ -36052,7 +36049,6 @@ full:dc1.ksn.kaspersky-labs.com
 full:dc1-pp.ksn.kaspersky-labs.com
 full:dc1-st.ksn.kaspersky-labs.com
 full:dd-cdn.origin-apple.com.akadns.net
-full:dds.dell.com
 fullde.com
 full:dejavu.apple.com
 full:developer.microsoft.com
@@ -36060,7 +36056,6 @@ full:devimages-cdn.apple.com
 full:devstreaming-cdn.apple.com
 full:dg-meta.video.google.com
 full:discussionschinese.apple.com
-full:dl.dell.com
 full:dl.google.com
 full:dl.l.google.com
 full:dnl-00.geo.kaspersky.com
@@ -36093,33 +36088,22 @@ full:download.tensorflow.google.com
 full:download.visualstudio.microsoft.com
 full:dreamspark.download.prss.microsoft.com
 full:dreamsparkuat.download.prss.microsoft.com
-full:ea2cn-dev-outlet.dell.com
-full:ea2cn-prod-outlet.dell.com
-full:ea2cn-staging-outlet.dell.com
 full:edge.geo.kaspersky.com
-full:emoi-cncdn.bing.com
 full:end-api.shallow.ink
 full:end.shallow.ink
 full:entitlements-edge.itunes.apple.com
 full:experiments.apple.com
 full:f.c2r.ts.cdn.office.net
-full:fcs.dell.com
 full:fides-pol.apple.com
 full:firebase-settings.crashlytics.com
 full:fontfiles.googleapis.com
 full:fonts.googleapis.com
 full:fonts.gstatic.com
 full:fpinit.itunes.apple.com
-full:ftaapj.dell.com
-full:fta.dell.com
-full:ftaemea.dell.com
-full:ftasitapj.dell.com
 full:g0.gstatic.com
 full:g1.gstatic.com
 full:g2.gstatic.com
 full:g3.gstatic.com
-full:gbxgateway.dell.com
-full:gbxgateway-dev.dell.com
 full:geetest.datasink.sensorsdata.cn
 full:gog.qtlglb.com
 full:gonglchuangl.net
@@ -36175,7 +36159,6 @@ full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:hospital.pku.edu.cn
 fullics.com
-full:i.dell.com
 full:images.apple.com.edgekey.net.globalredir.akadns.net
 full:images-cn-8.ssl-images-amazon.com
 full:images-cn.ssl-images-amazon.com
@@ -36272,7 +36255,6 @@ full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
-full:nexus.dell.com
 full:np-edge.itunes.apple.com
 full:ntp1.aliyun.com
 full:ntp1.tencent.com
@@ -36338,7 +36320,6 @@ full:p9-juejin.byteimg.com
 full:pagead-googlehosted.l.google.com
 full:pancake.apple.com
 full:pba0.apple.com
-full:p.cdn.persaas.dell.com
 full:pd.itunes.apple.com
 full:pd-nk.itunes.apple.com
 full:performanceparameters.googleapis.com
@@ -36400,7 +36381,6 @@ full:s4.mzstatic.com
 full:s5.mzstatic.com
 full:safebrowsing-cache.google.com
 full:safebrowsing.googleapis.com
-full:scene7-cdn.dell.com
 full:sdx.microsoft.com
 full:se2.itunes.apple.com
 full:search.itunes.apple.com
@@ -36416,12 +36396,8 @@ full:sf-api-token-service.itunes.apple.com
 full:shazam-insights.cdn-apple.com
 full:shell.cdn.office.net
 full:sh-pod2-smp-device.apple.com
-full:si.cdn.dell.com
-full:sm.dell.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
-full:snp.cdn.dell.com
-full:snpi.dell.com
 full:software.download.prss.microsoft.com
 full:speedysub.music.apple.com
 full:sp.itunes.apple.com
@@ -36448,7 +36424,6 @@ full:streamingaudio.itunes.apple.com
 full:study.163.com
 full:su.itunes.apple.com
 full:support.apple.com
-full:supportassist.dell.com
 full:support-china.apple-support.akadns.net
 full:surface.download.prss.microsoft.com
 full:surface.downloads.prss.microsoft.com
@@ -36475,7 +36450,6 @@ full:tj-pod2-smp-device.apple.com
 full:tj-pod3-smp-device.apple.com
 full:tools.google.com
 full:tplogin.cn
-full:tp.louisvuitton.com
 fulltruckalliance.com
 full:universal-activity-service.itunes.apple.com
 full:update.crashlytics.com
@@ -36483,7 +36457,6 @@ full:update.googleapis.com
 full:updates.cdn-apple.com
 full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
-full:uplaypc-s-ubisoft.cdn.ubi.com
 full:upp.itunes.apple.com
 full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
@@ -36499,12 +36472,9 @@ full:weatherkit.apple.com
 full:weather-map2.apple.com
 full:weather-map.apple.com
 full:windbg.download.prss.microsoft.com
-full:www.amd.com
 full:www.apple.com
 full:www.apple.com.edgekey.net.globalredir.akadns.net
 full:www.asusrouter.com
-full:www-csb.dell.com
-full:www.dell.com
 full:www.destinationurl.com
 full:www.entrust.cn
 full:www-google-analytics.l.google.com

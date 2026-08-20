@@ -370,7 +370,6 @@ full:ubistatic6-a.akamaihd.net
 full:ubistatic7-a.akamaihd.net
 full:ubistatic8-a.akamaihd.net
 full:ubistatic9-a.akamaihd.net
-full:uplaypc-s-ubisoft.cdn.ubi.com
 full:videos-rockstargames-com.akamaized.net
 full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 full:xz.pphimalayanrt.com
