@@ -8151,10 +8151,13 @@ add list=dpbr-CT address=155.102.50.0/23
 add list=dpbr-CT address=155.102.52.0/22
 add list=dpbr-CT address=155.102.56.0/21
 add list=dpbr-CT address=155.102.64.0/24
+add list=dpbr-CT address=155.102.69.0/24
+add list=dpbr-CT address=155.102.70.0/24
 add list=dpbr-CT address=155.102.72.0/21
 add list=dpbr-CT address=155.102.80.0/24
 add list=dpbr-CT address=155.102.82.0/23
 add list=dpbr-CT address=155.102.84.0/22
+add list=dpbr-CT address=155.102.91.0/24
 add list=dpbr-CT address=155.102.94.0/24
 add list=dpbr-CT address=155.102.98.0/23
 add list=dpbr-CT address=155.102.100.0/23
@@ -8186,6 +8189,7 @@ add list=dpbr-CT address=155.102.206.0/23
 add list=dpbr-CT address=155.102.208.0/21
 add list=dpbr-CT address=155.102.216.0/22
 add list=dpbr-CT address=155.102.220.0/23
+add list=dpbr-CT address=155.102.223.0/24
 add list=dpbr-CT address=155.102.224.0/19
 add list=dpbr-CT address=156.59.108.0/24
 add list=dpbr-CT address=156.107.160.0/23
