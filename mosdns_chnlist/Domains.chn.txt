@@ -35908,6 +35908,7 @@ full:download.tensorflow.google.com
 full:download.visualstudio.microsoft.com
 full:dreamspark.download.prss.microsoft.com
 full:dreamsparkuat.download.prss.microsoft.com
+full:drivers.amd.com
 full:edge.geo.kaspersky.com
 full:end-api.shallow.ink
 full:end.shallow.ink
@@ -83020,6 +83021,7 @@ sjez.com
 sjf029.com
 sjfcdn.com
 sjfh168.com
+sjfls6.com
 sjfpro.com
 sjfzxm.com
 sjg8.com
