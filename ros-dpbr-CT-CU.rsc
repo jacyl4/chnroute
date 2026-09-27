@@ -4358,7 +4358,7 @@ add list=dpbr-CU address=43.255.84.0/24
 add list=dpbr-CU address=43.255.228.0/22
 add list=dpbr-CU address=45.65.16.0/22
 add list=dpbr-CU address=45.113.20.0/22
-add list=dpbr-CU address=45.113.200.0/23
+add list=dpbr-CU address=45.113.200.0/22
 add list=dpbr-CU address=45.116.32.0/22
 add list=dpbr-CU address=45.116.140.0/22
 add list=dpbr-CU address=45.117.8.0/22
