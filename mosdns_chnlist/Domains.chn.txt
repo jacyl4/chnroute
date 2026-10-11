@@ -4961,7 +4961,6 @@
 4-xiang.com
 4xiaoshuo.info
 4xiaoshuo.org
-4.xn--czrs0t
 4.xn--vhquv
 4xseo.com
 4xx.me
@@ -10673,6 +10672,7 @@ aibase.com
 aibeike.com
 aibiaomei.com
 aibiaow.com
+aibilun.com
 aibing.cc
 aibll.com
 aibo123.com
@@ -11686,6 +11686,7 @@ aliyunwaf5.com
 aliyunwaf.com
 aliyunx.com
 aliyun.xin
+alizch.com
 alizhaopin.com
 alizhizhu.com
 alizila.com
@@ -12486,7 +12487,6 @@ api.anythinktech.com
 api-ar.cnno1.uds.lenovo.com
 api-ar.euwe1.uds.lenovo.com
 api-ar.naea1.uds.lenovo.com
-api.blipsandchitz.me
 api-building.fun
 apicase.io
 apicgate.com
@@ -20123,6 +20123,7 @@ cfcpn.com
 cfd163.com
 cfd-china.com
 cfdns43.com
+cfdns46.com
 cfdns5.com
 cfdns81.com
 cfdp.org
@@ -24533,6 +24534,7 @@ codeages.work
 codeaha.com
 codebaoku.com
 codebe.org
+codebuddy.ai
 codebuddy.info
 codebuddy.net
 codebuddy.pro
@@ -29636,6 +29638,7 @@ dnsjia.com
 dnsjiasu001.com
 dnsjp.cc
 dnsjxla.com
+dnski.com
 dns.la
 dnslin.com
 dnsmeasurement.com
@@ -61015,6 +61018,7 @@ lewenqu.com
 lewenss.com
 lewenxsw.com
 lewifi.com
+lewl88.com
 lexar.com
 lex.download.prss.microsoft.com
 lexed.org
@@ -72451,6 +72455,7 @@ pcdog.com
 pcdrv.com
 pcdtg.com
 pceggs.com
+pcelves.com
 pceva.net
 pcfphs.com
 pcfreetime.com
@@ -75653,6 +75658,7 @@ qlchat.com
 qldgd.com
 qldzj.com
 qledu.net
+qlgfdns.com
 qlhimalayantm.com
 qlife-lab.com
 qliksense.lenovo.com
@@ -97011,6 +97017,7 @@ wordscan.net
 wordscheck.com
 wordstorming.com
 wordsunny.com
+workbuddy.ai
 workbuddy.host
 workbuddy.link
 workchat.com
@@ -101104,7 +101111,6 @@ xn--eh1a34ykpl.com
 xn--ekr69hlr1c.xn--3ds443g
 xn--eqrt2g.xn--vuq861b
 x-newedu.com
-xn--f5q14tug.xn--6qq986b3xl
 xn--f8qs4ctu19zr2eq64ehfmdri.xn--3ds443g
 xn--fhq79jyym9nh74hfm8a.com
 xn--fhqpn19bl91acha222foe2d.xn--3ds443g
