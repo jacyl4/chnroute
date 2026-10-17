@@ -8090,6 +8090,7 @@ add list=dpbr-CU address=140.143.0.0/16
 add list=dpbr-CU address=140.179.0.0/16
 add list=dpbr-CU address=140.205.0.0/16
 add list=dpbr-CU address=140.210.0.0/16
+add list=dpbr-CU address=141.11.210.0/24
 add list=dpbr-CU address=141.11.219.0/24
 add list=dpbr-CU address=142.86.0.0/16
 add list=dpbr-CU address=143.20.246.0/24
@@ -8900,6 +8901,7 @@ add list=dpbr-CU address=211.160.0.0/13
 add list=dpbr-CU address=212.64.0.0/17
 add list=dpbr-CU address=212.129.128.0/17
 add list=dpbr-CU address=216.105.166.0/24
+add list=dpbr-CU address=217.217.211.0/24
 add list=dpbr-CU address=218.96.0.0/14
 add list=dpbr-CU address=218.108.0.0/15
 add list=dpbr-CU address=218.185.192.0/19
