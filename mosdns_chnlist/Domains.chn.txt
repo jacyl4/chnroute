@@ -35675,6 +35675,8 @@ full:lex.download.prss.microsoft.com
 full:lexuat.download.prss.microsoft.com
 fulllinks.com
 full:local.adguard.org
+full:localhost.weixin.qq.com
+full:localhost.work.weixin.qq.com
 fullluckcalendar.com
 full:lv.queniujq.cn
 full:maps.apple.com
