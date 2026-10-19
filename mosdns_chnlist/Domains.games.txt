@@ -75,7 +75,6 @@ armaplatform.com
 artstation.com
 artstationmedia.com
 artstorm.com
-asobostudio.com
 astral-vector.com
 awayoutgame.com
 ayudanintendo.com
@@ -265,7 +264,6 @@ fireemblemawakening.com
 fire-emblem-heroes.com
 firesidegatherings.com
 fitgirl-repacks.site
-flightsimulator.com
 flipnotestudio.com
 forevernine.com
 forgecdn.net
@@ -294,15 +292,17 @@ full:cdngarenanow-a.akamaihd.net
 full:cloudsync-prod.s3.amazonaws.com
 full:c.ppy.sh
 full:d1unuk07s6td74.cloudfront.net
+full:d348twzf7a8p5.cloudfront.net
 full:datarouter.apps.netherrealm.com
+full:devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
+full:doy2mn9upadnk.cloudfront.net
 full:eaassets-a.akamaihd.net
 full:ea.tt.omtrdc.net
 full:end-api.shallow.ink
 full:end.shallow.ink
 full:f3b7q2p3.ssl.hwcdn.net
-full:flightsimulator.azureedge.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gog-cdn.akamaized.net
 full:gog-cdn-lumen.secure2.footprint.net
