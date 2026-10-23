@@ -380,6 +380,7 @@ fxt365.com
 gaijinent.com
 gaijin.net
 gameabc.com
+gamebanana.com
 gamebonfire.com
 gameitop.com
 gameloop.com
@@ -760,6 +761,7 @@ qqgameapp.com
 quiltmc.org
 quixel.com
 quixel.se
+r2modman.com
 radgametools.com
 ravensoftware.com
 rayark.download
@@ -915,6 +917,7 @@ steam.eca.qtlglb.com
 steamgames.com
 steaminventoryhelper.com
 steam.naeu.qtlglb.com
+steamos.cloud
 steampowered.com
 steampowered.com.8686c.com
 steam.ru.qtlglb.com
@@ -972,6 +975,8 @@ thesims4.com
 thesims.com
 thesimssocial.com
 thewonderful101.com
+thunderstore.io
+thunderstore.org
 tiancitycdn.com
 tiancity.com
 tiberiumalliances.com
@@ -1053,10 +1058,12 @@ worldoftanks.com
 worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
+worldofwarships.asia
 worldofwarships.com
 worldseriesofwarzone.com
 wotblitz.com
 wowsblitz.com
+wplace.live
 wtmobile.com
 xbox
 xbox360.co
