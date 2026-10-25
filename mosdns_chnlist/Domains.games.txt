@@ -141,6 +141,10 @@ capitalgames.com
 capturingreality.com
 cbjq.com
 cdncl.net
+cdpred.services
+cdprojekt.com
+cdprojekt.red
+cdprojektred.com
 cgyouxi.com
 championshipseriesleague.com
 changyou.com
@@ -167,6 +171,7 @@ csgo.wmsj.cn
 cubicmotion.com
 cubicodyssey.game
 curseforge.com
+cyberpunk.net
 cy.com
 cygames.co.jp
 cygames.jp
@@ -407,7 +412,6 @@ gcloudcstestonly.com
 gclouddolphin.com
 gcloudsdk.com
 gcloudsvcs.com
-gdtimg.com
 genshinimpact.com
 ghostgames.com
 giratina.com
@@ -706,6 +710,7 @@ playapex.com
 playartifact.com
 playbattlegrounds.com
 playcool.com
+playgwent.com
 playhearthstone.com
 playnintendo.com
 playoverwatch.com
@@ -974,6 +979,7 @@ thesims3.com
 thesims4.com
 thesims.com
 thesimssocial.com
+thewitcher.com
 thewonderful101.com
 thunderstore.io
 thunderstore.org
