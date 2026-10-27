@@ -5904,6 +5904,8 @@ add list=dpbr-CU address=101.251.64.0/18
 add list=dpbr-CU address=101.251.128.0/17
 add list=dpbr-CU address=101.252.0.0/15
 add list=dpbr-CU address=101.254.0.0/16
+add list=dpbr-CU address=102.216.81.0/24
+add list=dpbr-CU address=102.216.82.0/24
 add list=dpbr-CU address=103.1.8.0/22
 add list=dpbr-CU address=103.1.24.0/22
 add list=dpbr-CU address=103.1.72.0/22
