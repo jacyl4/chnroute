@@ -1146,7 +1146,9 @@ full:seed-swallow.siri.apple.com
 full:sequoia.apple.com
 full:sf-api-token-service.itunes.apple.com
 full:shazam-insights.cdn-apple.com
+full:sh-pod1-smp-device.apple.com
 full:sh-pod2-smp-device.apple.com
+full:sh-pod3-smp-device.apple.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
 full:speedysub.music.apple.com
