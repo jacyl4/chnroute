@@ -520,6 +520,9 @@ ledu.com
 legendofzelda.cn
 legendofzelda.com.cn
 leyuansu.com
+limbuscompanyapi.com
+limbuscompanycdn.org
+limbuscompany.global
 lingxigames.com
 log-upload.mihoyo.com
 log-upload-os.hoyoverse.com
@@ -751,6 +754,7 @@ popcap.com
 priconne-redive.jp
 prismlauncher.org
 projectapex.com
+projectmoon.studio
 protondb.com
 proximabeta.com
 pubg.com
@@ -873,6 +877,7 @@ simcity-buildit.com
 simcity.com
 skate2.com
 sketchfab.com
+skinswap.com
 skydweller.cn
 skylanders.com
 sl916.com
