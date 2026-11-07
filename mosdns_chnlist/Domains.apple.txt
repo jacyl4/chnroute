@@ -1132,6 +1132,7 @@ full:probe.siri.apple.com
 full:prod-support.apple-support.akadns.net
 full:publicassets.cdn-apple.com
 full:push-apple.com.akadns.net
+full:radio.itunes.apple.com
 full:s1.mzstatic.com
 full:s2.mzstatic.com
 full:s3.mzstatic.com
