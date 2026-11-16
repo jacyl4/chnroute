@@ -728,6 +728,7 @@ calendarserver.org
 camelphat.com
 camelspaceeffect.com
 canada-beatsbydre.com
+captive.apple.com
 carbon.com
 carekit.org
 casquebeatsbydrdresolohd.com
@@ -1020,6 +1021,7 @@ full:communities.apple.com
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
 full:configuration-lb.ls-apple.com.akadns.net
+full:configuration.ls.apple.com
 full:crl.apple.com
 full:crl-lb.apple.com.akadns.net
 full:cstat.apple.com
@@ -1106,9 +1108,11 @@ full:mesu-china.apple.com.akadns.net
 full:misc-assets.itunes.apple.com
 full:ml.cdn-apple.com
 full:music.apple.com
+full:musicstatus.itunes.apple.com
 full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
+full:mzstorekit.itunes.apple.com
 full:notary-submissions-prod.s3-accelerate.amazonaws.com
 full:notary-submissions-prod.s3.us-west-2.amazonaws.com
 full:np-edge.itunes.apple.com
