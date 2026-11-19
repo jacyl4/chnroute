@@ -59829,6 +59829,7 @@ lenovo.com.cdn.cloudflare.net
 lenovoconnect.com
 lenovoeservice.com
 lenovofile.com
+lenovofuturecenter.com
 lenovogame.com
 lenovohci.com
 lenovohuishang.com
@@ -74586,6 +74587,7 @@ qpjylm.com
 qpkaifa.com
 qplus.com
 qplusstatic.com
+qpmcn.com
 qpoc.com
 qpstar.com
 qpwater.com
@@ -89452,6 +89454,7 @@ tronsmart.com
 troubles.work
 troxchina.com
 trpc.center
+trpcdn.com
 trpcdn.net
 trpc.group
 trpc.tech
@@ -107137,6 +107140,7 @@ zhaoketang.com
 zhaokuaizhao.com
 zhaolaobanla.com
 zhaoliangji.com
+zhaoliangjipc.com
 zhaoliming.net
 zhao-meng.com
 zhaoming.biz
